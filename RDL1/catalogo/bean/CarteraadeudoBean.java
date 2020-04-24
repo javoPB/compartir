@@ -5,6 +5,8 @@ import java.util.UUID;
 import java.util.Set;
 
 import com.softtek.acceleo.demo.domain.Honorarioscontrato;
+import com.softtek.acceleo.demo.domain.Subfiso;
+import com.softtek.acceleo.demo.domain.Fideicomiso;
 
 public class CarteraadeudoBean {
 

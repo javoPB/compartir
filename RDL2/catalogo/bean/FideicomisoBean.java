@@ -4,11 +4,6 @@ import java.util.Date;
 import java.util.UUID;
 import java.util.Set;
 
-import com.softtek.acceleo.demo.domain.Fideicomisario;
-import com.softtek.acceleo.demo.domain.Cuentacheques;
-import com.softtek.acceleo.demo.domain.Subfiso;
-import com.softtek.acceleo.demo.domain.Tercero;
-import com.softtek.acceleo.demo.domain.Contratoinversion;
 import com.softtek.acceleo.demo.domain.Caracteristicasfideicomiso;
 
 public class FideicomisoBean {
