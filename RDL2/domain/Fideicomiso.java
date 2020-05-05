@@ -63,11 +63,63 @@ public class Fideicomiso implements Serializable {
 	@NotNull
 	@JsonProperty("promotor")
 	private String promotor;
-	@ManyToMany(cascade = CascadeType.ALL, fetch = FetchType.EAGER)
-	@JoinTable(name = "fideicomisocaracteristicasfideicomiso", 
-	        joinColumns = { @JoinColumn(name = "fideicomisoId") }, 
-	        inverseJoinColumns = { @JoinColumn(name = "caracteristicasfideicomisoId") })
-	private Set<Caracteristicasfideicomiso> _caracteristicas = new HashSet<Caracteristicasfideicomiso>();
+	@NotNull
+	@JsonProperty("caracteristicas_tiponegocio")
+	private String caracteristicastiponegocio;
+	@NotNull
+	@JsonProperty("caracteristicas_formamanejo")
+	private String caracteristicasformamanejo;
+	@NotNull
+	@JsonProperty("caracteristicas_producto")
+	private String caracteristicasproducto;
+	@NotNull
+	@JsonProperty("caracteristicas_valfatca")
+	private String caracteristicasvalfatca;
+	@Column(name = "caracteristicasmontoapertura")
+	@JsonProperty("caracteristicas_montoapertura")
+	private Double caracteristicasmontoapertura;
+	@NotNull
+	@JsonProperty("caracteristicas_manejo_manejosubfisos")
+	private String caracteristicasmanejomanejosubfisos;
+	@NotNull
+	@JsonProperty("caracteristicas_manejo_sujetoart151")
+	private String caracteristicasmanejosujetoart151;
+	@NotNull
+	@JsonProperty("caracteristicas_manejo_cerrado")
+	private String caracteristicasmanejocerrado;
+	@NotNull
+	@JsonProperty("caracteristicas_manejo_revocable")
+	private String caracteristicasmanejorevocable;
+	@NotNull
+	@JsonProperty("caracteristicas_manejo_escontratoeje")
+	private String caracteristicasmanejoescontratoeje;
+	@NotNull
+	@JsonProperty("caracteristicas_manejo_comitetecnico")
+	private String caracteristicasmanejocomitetecnico;
+	@Column(name = "caracteristicasmanejoofibanxico")
+	@JsonProperty("caracteristicas_manejo_ofibanxico")
+	private String caracteristicasmanejoofibanxico;
+	@NotNull
+	@JsonProperty("caracteristicas_manejo_manejamonext")
+	private String caracteristicasmanejomanejamonext;
+	@NotNull
+	@JsonProperty("caracteristicas_manejo_ivafronterizo")
+	private String caracteristicasmanejoivafronterizo;
+	@Column(name = "caracteristicasfechafechaalta")
+	@JsonProperty("caracteristicas_fecha_fechaalta")
+	@Temporal(TemporalType.TIMESTAMP)
+	private Date caracteristicasfechafechaalta;
+	@Column(name = "caracteristicasfechafechaconstitucion")
+	@JsonProperty("caracteristicas_fecha_fechaconstitucion")
+	@Temporal(TemporalType.TIMESTAMP)
+	private Date caracteristicasfechafechaconstitucion;
+	@Column(name = "caracteristicasfechafechavencimiento")
+	@JsonProperty("caracteristicas_fecha_fechavencimiento")
+	@Temporal(TemporalType.TIMESTAMP)
+	private Date caracteristicasfechafechavencimiento;
+	@NotNull
+	@JsonProperty("caracteristicas_fecha_estado")
+	private String caracteristicasfechaestado;
 	@NotNull
 	@JsonProperty("adicionales_tipofideicomiso_tipo")
 	private String adicionalestipofideicomisotipo;
@@ -195,12 +247,113 @@ public class Fideicomiso implements Serializable {
 	public void setPromotor(String promotor) {
 		this.promotor = promotor;
 	}
-	public Set<Caracteristicasfideicomiso> get_caracteristicas() {
-		return _caracteristicas;
+	public String getCaracteristicastiponegocio(){
+	    return caracteristicastiponegocio;
 	}
-		
-	public void set_caracteristicas(Set<Caracteristicasfideicomiso> _caracteristicas) {
-		this._caracteristicas = _caracteristicas;
+	public void setCaracteristicastiponegocio(String caracteristicastiponegocio) {
+		this.caracteristicastiponegocio = caracteristicastiponegocio;
+	}
+	public String getCaracteristicasformamanejo(){
+	    return caracteristicasformamanejo;
+	}
+	public void setCaracteristicasformamanejo(String caracteristicasformamanejo) {
+		this.caracteristicasformamanejo = caracteristicasformamanejo;
+	}
+	public String getCaracteristicasproducto(){
+	    return caracteristicasproducto;
+	}
+	public void setCaracteristicasproducto(String caracteristicasproducto) {
+		this.caracteristicasproducto = caracteristicasproducto;
+	}
+	public String getCaracteristicasvalfatca(){
+	    return caracteristicasvalfatca;
+	}
+	public void setCaracteristicasvalfatca(String caracteristicasvalfatca) {
+		this.caracteristicasvalfatca = caracteristicasvalfatca;
+	}
+	public Double getCaracteristicasmontoapertura(){
+	    return caracteristicasmontoapertura;
+	}
+	public void setCaracteristicasmontoapertura(Double caracteristicasmontoapertura) {
+		this.caracteristicasmontoapertura = caracteristicasmontoapertura;
+	}
+	public String getCaracteristicasmanejomanejosubfisos(){
+	    return caracteristicasmanejomanejosubfisos;
+	}
+	public void setCaracteristicasmanejomanejosubfisos(String caracteristicasmanejomanejosubfisos) {
+		this.caracteristicasmanejomanejosubfisos = caracteristicasmanejomanejosubfisos;
+	}
+	public String getCaracteristicasmanejosujetoart151(){
+	    return caracteristicasmanejosujetoart151;
+	}
+	public void setCaracteristicasmanejosujetoart151(String caracteristicasmanejosujetoart151) {
+		this.caracteristicasmanejosujetoart151 = caracteristicasmanejosujetoart151;
+	}
+	public String getCaracteristicasmanejocerrado(){
+	    return caracteristicasmanejocerrado;
+	}
+	public void setCaracteristicasmanejocerrado(String caracteristicasmanejocerrado) {
+		this.caracteristicasmanejocerrado = caracteristicasmanejocerrado;
+	}
+	public String getCaracteristicasmanejorevocable(){
+	    return caracteristicasmanejorevocable;
+	}
+	public void setCaracteristicasmanejorevocable(String caracteristicasmanejorevocable) {
+		this.caracteristicasmanejorevocable = caracteristicasmanejorevocable;
+	}
+	public String getCaracteristicasmanejoescontratoeje(){
+	    return caracteristicasmanejoescontratoeje;
+	}
+	public void setCaracteristicasmanejoescontratoeje(String caracteristicasmanejoescontratoeje) {
+		this.caracteristicasmanejoescontratoeje = caracteristicasmanejoescontratoeje;
+	}
+	public String getCaracteristicasmanejocomitetecnico(){
+	    return caracteristicasmanejocomitetecnico;
+	}
+	public void setCaracteristicasmanejocomitetecnico(String caracteristicasmanejocomitetecnico) {
+		this.caracteristicasmanejocomitetecnico = caracteristicasmanejocomitetecnico;
+	}
+	public String getCaracteristicasmanejoofibanxico() {
+	    return caracteristicasmanejoofibanxico;
+	}
+	public void setCaracteristicasmanejoofibanxico(String caracteristicasmanejoofibanxico) {
+	this.caracteristicasmanejoofibanxico = caracteristicasmanejoofibanxico;
+	}
+	public String getCaracteristicasmanejomanejamonext(){
+	    return caracteristicasmanejomanejamonext;
+	}
+	public void setCaracteristicasmanejomanejamonext(String caracteristicasmanejomanejamonext) {
+		this.caracteristicasmanejomanejamonext = caracteristicasmanejomanejamonext;
+	}
+	public String getCaracteristicasmanejoivafronterizo(){
+	    return caracteristicasmanejoivafronterizo;
+	}
+	public void setCaracteristicasmanejoivafronterizo(String caracteristicasmanejoivafronterizo) {
+		this.caracteristicasmanejoivafronterizo = caracteristicasmanejoivafronterizo;
+	}
+	public Date getCaracteristicasfechafechaalta() {
+	    return caracteristicasfechafechaalta;
+	}
+	public void setCaracteristicasfechafechaalta(Date caracteristicasfechafechaalta) {
+		this.caracteristicasfechafechaalta = caracteristicasfechafechaalta;
+	}
+	public Date getCaracteristicasfechafechaconstitucion() {
+	    return caracteristicasfechafechaconstitucion;
+	}
+	public void setCaracteristicasfechafechaconstitucion(Date caracteristicasfechafechaconstitucion) {
+		this.caracteristicasfechafechaconstitucion = caracteristicasfechafechaconstitucion;
+	}
+	public Date getCaracteristicasfechafechavencimiento() {
+	    return caracteristicasfechafechavencimiento;
+	}
+	public void setCaracteristicasfechafechavencimiento(Date caracteristicasfechafechavencimiento) {
+		this.caracteristicasfechafechavencimiento = caracteristicasfechafechavencimiento;
+	}
+	public String getCaracteristicasfechaestado(){
+	    return caracteristicasfechaestado;
+	}
+	public void setCaracteristicasfechaestado(String caracteristicasfechaestado) {
+		this.caracteristicasfechaestado = caracteristicasfechaestado;
 	}
 	public String getAdicionalestipofideicomisotipo(){
 	    return adicionalestipofideicomisotipo;

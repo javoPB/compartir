@@ -23,8 +23,8 @@ import com.fasterxml.jackson.annotation.JsonProperty;
 
 
 @Entity
-@Table(name = "fideicomitentecuentaskyc")
-public class Fideicomitentecuentaskyc implements Serializable {
+@Table(name = "fideicomisocuentacheques")
+public class Fideicomisocuentacheques implements Serializable {
 
 private static final long serialVersionUID = 1L;
 
@@ -41,46 +41,36 @@ private static final long serialVersionUID = 1L;
 	                ) 
 				  } 
 				 )
-@Column(name = "fideicomitentecuentaskycId", columnDefinition = "VARBINARY(50)")
+@Column(name = "fideicomisocuentachequesId", columnDefinition = "VARBINARY(50)")
 @Type(type="uuid-char")
-private UUID fideicomitentecuentaskycId;
+private UUID fideicomisocuentachequesId;
 
-@ManyToOne
-@JoinColumn(name = "fideicomitenteId", insertable = false, updatable = false)
-private Fideicomitente fideicomitenteId;
-	
-@ManyToOne
-@JoinColumn(name = "cuentaskycId", insertable = false, updatable = false)
-private Cuentaskyc cuentaskycId;
-
-
-@Column
-@Enumerated(EnumType.STRING)
+private UUID fideicomisoId;
+private UUID cuentachequesId;
 private String tipo;
-	
 
-public UUID getFideicomitentecuentaskycId() {
-	return fideicomitentecuentaskycId;
-}
-	
-public void setFideicomitentecuentaskycId(UUID fideicomitentecuentaskycId) {
-	this.fideicomitentecuentaskycId = fideicomitentecuentaskycId;
-}	
-
-public Fideicomitente getFideicomitenteId() {
-	return fideicomitenteId;
+public UUID getFideicomisocuentachequesId() {
+	return fideicomisocuentachequesId;
 }
 
-public void setFideicomitenteId(Fideicomitente fideicomitenteId) {
-	this.fideicomitenteId = fideicomitenteId;
+public void setFideicomisocuentachequesId(UUID fideicomisocuentachequesId) {
+	this.fideicomisocuentachequesId = fideicomisocuentachequesId;
 }
 
-public Cuentaskyc getCuentaskycId() {
-	return cuentaskycId;
+public UUID getFideicomisoId() {
+	return fideicomisoId;
 }
 
-public void setCuentaskycId(Cuentaskyc cuentaskycId) {
-	this.cuentaskycId = cuentaskycId;
+public void setFideicomisoId(UUID fideicomisoId) {
+	this.fideicomisoId = fideicomisoId;
+}
+
+public UUID getCuentachequesId() {
+	return cuentachequesId;
+}
+
+public void setCuentachequesId(UUID cuentachequesId) {
+	this.cuentachequesId = cuentachequesId;
 }
 
 public String getTipo() {
@@ -89,6 +79,6 @@ public String getTipo() {
 
 public void setTipo(String tipo) {
 	this.tipo = tipo;
-}				
-		
-	}
+}
+
+}	

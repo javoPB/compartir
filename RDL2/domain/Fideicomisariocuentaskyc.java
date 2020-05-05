@@ -23,8 +23,8 @@ import com.fasterxml.jackson.annotation.JsonProperty;
 
 
 @Entity
-@Table(name = "cuentaskyc")
-public class Cuentaskyc implements Serializable {
+@Table(name = "fideicomisariocuentaskyc")
+public class Fideicomisariocuentaskyc implements Serializable {
 
 private static final long serialVersionUID = 1L;
 
@@ -41,36 +41,54 @@ private static final long serialVersionUID = 1L;
 	                ) 
 				  } 
 				 )
-@Column(name = "cuentaskycId", columnDefinition = "VARBINARY(50)")
+@Column(name = "fideicomisariocuentaskycId", columnDefinition = "VARBINARY(50)")
 @Type(type="uuid-char")
-private UUID cuentaskycId;
+private UUID fideicomisariocuentaskycId;
 
-@Column(name = "tipocuenta")
-@JsonProperty("tipocuenta")
-private String tipocuenta;
-@Column(name = "nocuenta")
-@JsonProperty("nocuenta")
-private Integer nocuenta;
+@ManyToOne
+@JoinColumn(name = "fideicomisarioId", insertable = false, updatable = false)
+private Fideicomisario fideicomisarioId;
+	
+@ManyToOne
+@JoinColumn(name = "cuentaskycId", insertable = false, updatable = false)
+private Cuentaskyc cuentaskycId;
 
-public UUID getCuentaskycId() {
-	return cuentaskycId;
+
+@Column
+@Enumerated(EnumType.STRING)
+private String tipo;
+	
+
+public UUID getFideicomisariocuentaskycId() {
+	return fideicomisariocuentaskycId;
 }
 	
-public void setCuentaskycId(UUID cuentaskycId) {
-	this.cuentaskycId = cuentaskycId;
+public void setFideicomisariocuentaskycId(UUID fideicomisariocuentaskycId) {
+	this.fideicomisariocuentaskycId = fideicomisariocuentaskycId;
 }	
 
-public String getTipocuenta() {
-    return tipocuenta;
-}
-public void setTipocuenta(String tipocuenta) {
-this.tipocuenta = tipocuenta;
-}
-public Integer getNocuenta(){
-    return nocuenta;
-}
-public void setNocuenta(Integer nocuenta) {
-	this.nocuenta = nocuenta;
+public Fideicomisario getFideicomisarioId() {
+	return fideicomisarioId;
 }
 
-}		
+public void setFideicomisarioId(Fideicomisario fideicomisarioId) {
+	this.fideicomisarioId = fideicomisarioId;
+}
+
+public Cuentaskyc getCuentaskycId() {
+	return cuentaskycId;
+}
+
+public void setCuentaskycId(Cuentaskyc cuentaskycId) {
+	this.cuentaskycId = cuentaskycId;
+}
+
+public String getTipo() {
+	return tipo;
+}
+
+public void setTipo(String tipo) {
+	this.tipo = tipo;
+}				
+		
+	}

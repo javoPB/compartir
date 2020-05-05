@@ -4,7 +4,6 @@ import java.util.Date;
 import java.util.UUID;
 import java.util.Set;
 
-import com.softtek.acceleo.demo.domain.Caracteristicasfideicomiso;
 
 public class FideicomisoBean {
 
@@ -25,7 +24,24 @@ private Date nombre;
 private String numerocliente;
 private String administrador;
 private String promotor;
-private Set<Caracteristicasfideicomiso> _caracteristicas;
+private String caracteristicas_tiponegocio;
+private String caracteristicas_formamanejo;
+private String caracteristicas_producto;
+private String caracteristicas_valfatca;
+private Double caracteristicas_montoapertura;
+private String caracteristicas_manejo_manejosubfisos;
+private String caracteristicas_manejo_sujetoart151;
+private String caracteristicas_manejo_cerrado;
+private String caracteristicas_manejo_revocable;
+private String caracteristicas_manejo_escontratoeje;
+private String caracteristicas_manejo_comitetecnico;
+private String caracteristicas_manejo_ofibanxico;
+private String caracteristicas_manejo_manejamonext;
+private String caracteristicas_manejo_ivafronterizo;
+private Date caracteristicas_fecha_fechaalta;
+private Date caracteristicas_fecha_fechaconstitucion;
+private Date caracteristicas_fecha_fechavencimiento;
+private String caracteristicas_fecha_estado;
 private String adicionales_tipofideicomiso_tipo;
 private String adicionales_tipofideicomiso_tipopersona;
 private String adicionales_tipofideicomiso_conactividadempresarial;
@@ -127,13 +143,114 @@ public String getPromotor() {
 public void setPromotor(String promotor) {
 	this.promotor = promotor;
 }
-public Set<Caracteristicasfideicomiso> get_caracteristicas() {
-	return _caracteristicas;
+public String getCaracteristicas_tiponegocio() {
+    return caracteristicas_tiponegocio;
 }
-		
-public void set_caracteristicas(Set<Caracteristicasfideicomiso> _caracteristicas) {
-	this._caracteristicas = _caracteristicas;
-}		
+public void setCaracteristicas_tiponegocio(String caracteristicas_tiponegocio) {
+	this.caracteristicas_tiponegocio = caracteristicas_tiponegocio;
+}
+public String getCaracteristicas_formamanejo() {
+    return caracteristicas_formamanejo;
+}
+public void setCaracteristicas_formamanejo(String caracteristicas_formamanejo) {
+	this.caracteristicas_formamanejo = caracteristicas_formamanejo;
+}
+public String getCaracteristicas_producto() {
+    return caracteristicas_producto;
+}
+public void setCaracteristicas_producto(String caracteristicas_producto) {
+	this.caracteristicas_producto = caracteristicas_producto;
+}
+public String getCaracteristicas_valfatca() {
+    return caracteristicas_valfatca;
+}
+public void setCaracteristicas_valfatca(String caracteristicas_valfatca) {
+	this.caracteristicas_valfatca = caracteristicas_valfatca;
+}
+public Double getCaracteristicas_montoapertura() {
+    return caracteristicas_montoapertura;
+}
+public void setCaracteristicas_montoapertura(Double caracteristicas_montoapertura) {
+	this.caracteristicas_montoapertura = caracteristicas_montoapertura;
+}
+public String getCaracteristicas_manejo_manejosubfisos() {
+    return caracteristicas_manejo_manejosubfisos;
+}
+public void setCaracteristicas_manejo_manejosubfisos(String caracteristicas_manejo_manejosubfisos) {
+	this.caracteristicas_manejo_manejosubfisos = caracteristicas_manejo_manejosubfisos;
+}
+public String getCaracteristicas_manejo_sujetoart151() {
+    return caracteristicas_manejo_sujetoart151;
+}
+public void setCaracteristicas_manejo_sujetoart151(String caracteristicas_manejo_sujetoart151) {
+	this.caracteristicas_manejo_sujetoart151 = caracteristicas_manejo_sujetoart151;
+}
+public String getCaracteristicas_manejo_cerrado() {
+    return caracteristicas_manejo_cerrado;
+}
+public void setCaracteristicas_manejo_cerrado(String caracteristicas_manejo_cerrado) {
+	this.caracteristicas_manejo_cerrado = caracteristicas_manejo_cerrado;
+}
+public String getCaracteristicas_manejo_revocable() {
+    return caracteristicas_manejo_revocable;
+}
+public void setCaracteristicas_manejo_revocable(String caracteristicas_manejo_revocable) {
+	this.caracteristicas_manejo_revocable = caracteristicas_manejo_revocable;
+}
+public String getCaracteristicas_manejo_escontratoeje() {
+    return caracteristicas_manejo_escontratoeje;
+}
+public void setCaracteristicas_manejo_escontratoeje(String caracteristicas_manejo_escontratoeje) {
+	this.caracteristicas_manejo_escontratoeje = caracteristicas_manejo_escontratoeje;
+}
+public String getCaracteristicas_manejo_comitetecnico() {
+    return caracteristicas_manejo_comitetecnico;
+}
+public void setCaracteristicas_manejo_comitetecnico(String caracteristicas_manejo_comitetecnico) {
+	this.caracteristicas_manejo_comitetecnico = caracteristicas_manejo_comitetecnico;
+}
+public String getCaracteristicas_manejo_ofibanxico() {
+    return caracteristicas_manejo_ofibanxico;
+}
+public void setCaracteristicas_manejo_ofibanxico(String caracteristicas_manejo_ofibanxico) {
+	this.caracteristicas_manejo_ofibanxico = caracteristicas_manejo_ofibanxico;
+}
+public String getCaracteristicas_manejo_manejamonext() {
+    return caracteristicas_manejo_manejamonext;
+}
+public void setCaracteristicas_manejo_manejamonext(String caracteristicas_manejo_manejamonext) {
+	this.caracteristicas_manejo_manejamonext = caracteristicas_manejo_manejamonext;
+}
+public String getCaracteristicas_manejo_ivafronterizo() {
+    return caracteristicas_manejo_ivafronterizo;
+}
+public void setCaracteristicas_manejo_ivafronterizo(String caracteristicas_manejo_ivafronterizo) {
+	this.caracteristicas_manejo_ivafronterizo = caracteristicas_manejo_ivafronterizo;
+}
+public Date getCaracteristicas_fecha_fechaalta() {
+    return caracteristicas_fecha_fechaalta;
+}
+public void setCaracteristicas_fecha_fechaalta(Date caracteristicas_fecha_fechaalta) {
+	this.caracteristicas_fecha_fechaalta = caracteristicas_fecha_fechaalta;
+}
+public Date getCaracteristicas_fecha_fechaconstitucion() {
+    return caracteristicas_fecha_fechaconstitucion;
+}
+public void setCaracteristicas_fecha_fechaconstitucion(Date caracteristicas_fecha_fechaconstitucion) {
+	this.caracteristicas_fecha_fechaconstitucion = caracteristicas_fecha_fechaconstitucion;
+}
+public Date getCaracteristicas_fecha_fechavencimiento() {
+    return caracteristicas_fecha_fechavencimiento;
+}
+public void setCaracteristicas_fecha_fechavencimiento(Date caracteristicas_fecha_fechavencimiento) {
+	this.caracteristicas_fecha_fechavencimiento = caracteristicas_fecha_fechavencimiento;
+}
+public String getCaracteristicas_fecha_estado() {
+    return caracteristicas_fecha_estado;
+}
+public void setCaracteristicas_fecha_estado(String caracteristicas_fecha_estado) {
+	this.caracteristicas_fecha_estado = caracteristicas_fecha_estado;
+}
 public String getAdicionales_tipofideicomiso_tipo() {
     return adicionales_tipofideicomiso_tipo;
 }

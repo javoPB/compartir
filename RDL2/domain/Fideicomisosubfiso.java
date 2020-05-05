@@ -23,8 +23,8 @@ import com.fasterxml.jackson.annotation.JsonProperty;
 
 
 @Entity
-@Table(name = "fideicomitentecuentaskyc")
-public class Fideicomitentecuentaskyc implements Serializable {
+@Table(name = "fideicomisosubfiso")
+public class Fideicomisosubfiso implements Serializable {
 
 private static final long serialVersionUID = 1L;
 
@@ -41,46 +41,36 @@ private static final long serialVersionUID = 1L;
 	                ) 
 				  } 
 				 )
-@Column(name = "fideicomitentecuentaskycId", columnDefinition = "VARBINARY(50)")
+@Column(name = "fideicomisosubfisoId", columnDefinition = "VARBINARY(50)")
 @Type(type="uuid-char")
-private UUID fideicomitentecuentaskycId;
+private UUID fideicomisosubfisoId;
 
-@ManyToOne
-@JoinColumn(name = "fideicomitenteId", insertable = false, updatable = false)
-private Fideicomitente fideicomitenteId;
-	
-@ManyToOne
-@JoinColumn(name = "cuentaskycId", insertable = false, updatable = false)
-private Cuentaskyc cuentaskycId;
-
-
-@Column
-@Enumerated(EnumType.STRING)
+private UUID fideicomisoId;
+private UUID subfisoId;
 private String tipo;
-	
 
-public UUID getFideicomitentecuentaskycId() {
-	return fideicomitentecuentaskycId;
-}
-	
-public void setFideicomitentecuentaskycId(UUID fideicomitentecuentaskycId) {
-	this.fideicomitentecuentaskycId = fideicomitentecuentaskycId;
-}	
-
-public Fideicomitente getFideicomitenteId() {
-	return fideicomitenteId;
+public UUID getFideicomisosubfisoId() {
+	return fideicomisosubfisoId;
 }
 
-public void setFideicomitenteId(Fideicomitente fideicomitenteId) {
-	this.fideicomitenteId = fideicomitenteId;
+public void setFideicomisosubfisoId(UUID fideicomisosubfisoId) {
+	this.fideicomisosubfisoId = fideicomisosubfisoId;
 }
 
-public Cuentaskyc getCuentaskycId() {
-	return cuentaskycId;
+public UUID getFideicomisoId() {
+	return fideicomisoId;
 }
 
-public void setCuentaskycId(Cuentaskyc cuentaskycId) {
-	this.cuentaskycId = cuentaskycId;
+public void setFideicomisoId(UUID fideicomisoId) {
+	this.fideicomisoId = fideicomisoId;
+}
+
+public UUID getSubfisoId() {
+	return subfisoId;
+}
+
+public void setSubfisoId(UUID subfisoId) {
+	this.subfisoId = subfisoId;
 }
 
 public String getTipo() {
@@ -89,6 +79,6 @@ public String getTipo() {
 
 public void setTipo(String tipo) {
 	this.tipo = tipo;
-}				
-		
-	}
+}
+
+}	

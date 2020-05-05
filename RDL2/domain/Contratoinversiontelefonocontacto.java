@@ -23,8 +23,8 @@ import com.fasterxml.jackson.annotation.JsonProperty;
 
 
 @Entity
-@Table(name = "telefonocontacto")
-public class Telefonocontacto implements Serializable {
+@Table(name = "contratoinversiontelefonocontacto")
+public class Contratoinversiontelefonocontacto implements Serializable {
 
 private static final long serialVersionUID = 1L;
 
@@ -41,54 +41,54 @@ private static final long serialVersionUID = 1L;
 	                ) 
 				  } 
 				 )
-@Column(name = "telefonocontactoId", columnDefinition = "VARBINARY(50)")
+@Column(name = "contratoinversiontelefonocontactoId", columnDefinition = "VARBINARY(50)")
 @Type(type="uuid-char")
-private UUID telefonocontactoId;
+private UUID contratoinversiontelefonocontactoId;
 
-@Column(name = "nombre")
-@JsonProperty("nombre")
-private String nombre;
-@Column(name = "lada")
-@JsonProperty("lada")
-private String lada;
-@Column(name = "telefono")
-@JsonProperty("telefono")
-private String telefono;
-@Column(name = "extension")
-@JsonProperty("extension")
-private String extension;
+@ManyToOne
+@JoinColumn(name = "contratoinversionId", insertable = false, updatable = false)
+private Contratoinversion contratoinversionId;
+	
+@ManyToOne
+@JoinColumn(name = "telefonocontactoId", insertable = false, updatable = false)
+private Telefonocontacto telefonocontactoId;
 
-public UUID getTelefonocontactoId() {
-	return telefonocontactoId;
+
+@Column
+@Enumerated(EnumType.STRING)
+private String tipo;
+	
+
+public UUID getContratoinversiontelefonocontactoId() {
+	return contratoinversiontelefonocontactoId;
 }
 	
-public void setTelefonocontactoId(UUID telefonocontactoId) {
-	this.telefonocontactoId = telefonocontactoId;
+public void setContratoinversiontelefonocontactoId(UUID contratoinversiontelefonocontactoId) {
+	this.contratoinversiontelefonocontactoId = contratoinversiontelefonocontactoId;
 }	
 
-public String getNombre() {
-    return nombre;
-}
-public void setNombre(String nombre) {
-this.nombre = nombre;
-}
-public String getLada() {
-    return lada;
-}
-public void setLada(String lada) {
-this.lada = lada;
-}
-public String getTelefono() {
-    return telefono;
-}
-public void setTelefono(String telefono) {
-this.telefono = telefono;
-}
-public String getExtension() {
-    return extension;
-}
-public void setExtension(String extension) {
-this.extension = extension;
+public Contratoinversion getContratoinversionId() {
+	return contratoinversionId;
 }
 
-}		
+public void setContratoinversionId(Contratoinversion contratoinversionId) {
+	this.contratoinversionId = contratoinversionId;
+}
+
+public Telefonocontacto getTelefonocontactoId() {
+	return telefonocontactoId;
+}
+
+public void setTelefonocontactoId(Telefonocontacto telefonocontactoId) {
+	this.telefonocontactoId = telefonocontactoId;
+}
+
+public String getTipo() {
+	return tipo;
+}
+
+public void setTipo(String tipo) {
+	this.tipo = tipo;
+}				
+		
+	}
