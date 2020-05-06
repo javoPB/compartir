@@ -14,11 +14,6 @@ public class FideicomisoBean {
  */
  
 private UUID fideicomisoId; 
-private Set<Fideicomisario> fideicomisario;
-private Set<Tercero> tercero;
-private Set<Subfiso> subfiso;
-private Set<Contratoinversion> contratoinversion;
-private Set<Cuentacheques> cuentacheques;
 private Integer numero;
 private Date nombre;	
 private String numerocliente;
@@ -78,41 +73,6 @@ public void setFideicomisoId(UUID fideicomisoId) {
 	this.fideicomisoId = fideicomisoId;
 }
 
-public Set<Fideicomisario> getFideicomisario() {
-	return fideicomisario;
-}
-	
-public void setFideicomisario(Set<Fideicomisario> fideicomisario) {
-	this.fideicomisario = fideicomisario;
-}		
-public Set<Tercero> getTercero() {
-	return tercero;
-}
-	
-public void setTercero(Set<Tercero> tercero) {
-	this.tercero = tercero;
-}		
-public Set<Subfiso> getSubfiso() {
-	return subfiso;
-}
-	
-public void setSubfiso(Set<Subfiso> subfiso) {
-	this.subfiso = subfiso;
-}		
-public Set<Contratoinversion> getContratoinversion() {
-	return contratoinversion;
-}
-	
-public void setContratoinversion(Set<Contratoinversion> contratoinversion) {
-	this.contratoinversion = contratoinversion;
-}		
-public Set<Cuentacheques> getCuentacheques() {
-	return cuentacheques;
-}
-	
-public void setCuentacheques(Set<Cuentacheques> cuentacheques) {
-	this.cuentacheques = cuentacheques;
-}		
 public Integer getNumero() {
     return numero;
 }

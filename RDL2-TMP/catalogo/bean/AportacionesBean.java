@@ -4,9 +4,9 @@ import java.util.Date;
 import java.util.UUID;
 import java.util.Set;
 
-import com.softtek.acceleo.demo.domain.Fideicomiso;
-import com.softtek.acceleo.demo.domain.Instruccion;
 import com.softtek.acceleo.demo.domain.Subfiso;
+import com.softtek.acceleo.demo.domain.Instruccion;
+import com.softtek.acceleo.demo.domain.Fideicomiso;
 
 public class AportacionesBean {
 
