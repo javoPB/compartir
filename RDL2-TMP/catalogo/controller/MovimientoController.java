@@ -39,10 +39,12 @@ import com.softtek.acceleo.demo.catalogo.bean.MovimientoBean;
 import com.softtek.acceleo.demo.domain.Movimiento;
 import com.softtek.acceleo.demo.domain.Subfiso;
 import com.softtek.acceleo.demo.domain.Fideicomiso;
-
+	
 import com.softtek.acceleo.demo.service.MovimientoService;
 import com.softtek.acceleo.demo.service.SubfisoService;
 import com.softtek.acceleo.demo.service.FideicomisoService;
+
+
 
 /**
  * Clase MovimientoController.
@@ -54,6 +56,8 @@ public class MovimientoController {
 
 	@Autowired
 	private MovimientoService movimientoService;
+	
+	
 	
 @Autowired
 private SubfisoService subfisoService;
@@ -73,6 +77,8 @@ private FideicomisoService fideicomisoService;
 	   try{
 	   	
 	Movimiento movimiento = new Movimiento();
+	
+	
 	   	
 	   			Subfiso subfiso = subfisoService.getSubfiso(movimientoBean.getSubfisoId());
 	   			movimiento.setSubfisoId(subfiso);

@@ -38,9 +38,11 @@ import com.softtek.acceleo.demo.exception.GenericException;
 import com.softtek.acceleo.demo.catalogo.bean.AsientoscontablesBean;
 import com.softtek.acceleo.demo.domain.Asientoscontables;
 import com.softtek.acceleo.demo.domain.Transaccion;
-
+	
 import com.softtek.acceleo.demo.service.AsientoscontablesService;
 import com.softtek.acceleo.demo.service.TransaccionService;
+
+
 
 /**
  * Clase AsientoscontablesController.
@@ -52,6 +54,8 @@ public class AsientoscontablesController {
 
 	@Autowired
 	private AsientoscontablesService asientoscontablesService;
+	
+	
 	
 @Autowired
 private TransaccionService transaccionService;
@@ -69,6 +73,8 @@ private TransaccionService transaccionService;
 	   try{
 	   	
 	Asientoscontables asientoscontables = new Asientoscontables();
+	
+	
 	   	
 	   			Transaccion transaccion = transaccionService.getTransaccion(asientoscontablesBean.getTransaccionId());
 	   			asientoscontables.setTransaccionId(transaccion);

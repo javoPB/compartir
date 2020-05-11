@@ -38,9 +38,11 @@ import com.softtek.acceleo.demo.exception.GenericException;
 import com.softtek.acceleo.demo.catalogo.bean.EvaluacionriesgosBean;
 import com.softtek.acceleo.demo.domain.Evaluacionriesgos;
 import com.softtek.acceleo.demo.domain.Fideicomiso;
-
+	
 import com.softtek.acceleo.demo.service.EvaluacionriesgosService;
 import com.softtek.acceleo.demo.service.FideicomisoService;
+
+
 
 /**
  * Clase EvaluacionriesgosController.
@@ -52,6 +54,8 @@ public class EvaluacionriesgosController {
 
 	@Autowired
 	private EvaluacionriesgosService evaluacionriesgosService;
+	
+	
 	
 @Autowired
 private FideicomisoService fideicomisoService;
@@ -69,6 +73,8 @@ private FideicomisoService fideicomisoService;
 	   try{
 	   	
 	Evaluacionriesgos evaluacionriesgos = new Evaluacionriesgos();
+	
+	
 	   	
 	   			Fideicomiso fideicomiso = fideicomisoService.getFideicomiso(evaluacionriesgosBean.getFideicomisoId());
 	   			evaluacionriesgos.setFideicomisoId(fideicomiso);

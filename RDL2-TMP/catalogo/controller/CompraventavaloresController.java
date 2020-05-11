@@ -40,11 +40,13 @@ import com.softtek.acceleo.demo.domain.Compraventavalores;
 import com.softtek.acceleo.demo.domain.Subfiso;
 import com.softtek.acceleo.demo.domain.Contratoinversion;
 import com.softtek.acceleo.demo.domain.Fideicomiso;
-
+	
 import com.softtek.acceleo.demo.service.CompraventavaloresService;
 import com.softtek.acceleo.demo.service.SubfisoService;
 import com.softtek.acceleo.demo.service.ContratoinversionService;
 import com.softtek.acceleo.demo.service.FideicomisoService;
+
+
 
 /**
  * Clase CompraventavaloresController.
@@ -56,6 +58,8 @@ public class CompraventavaloresController {
 
 	@Autowired
 	private CompraventavaloresService compraventavaloresService;
+	
+	
 	
 @Autowired
 private SubfisoService subfisoService;
@@ -77,6 +81,8 @@ private FideicomisoService fideicomisoService;
 	   try{
 	   	
 	Compraventavalores compraventavalores = new Compraventavalores();
+	
+	
 	   	
 	   			Subfiso subfiso = subfisoService.getSubfiso(compraventavaloresBean.getSubfisoId());
 	   			compraventavalores.setSubfisoId(subfiso);

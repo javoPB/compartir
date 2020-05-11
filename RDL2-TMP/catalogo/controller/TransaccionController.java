@@ -37,8 +37,10 @@ import com.softtek.acceleo.demo.exception.GenericException;
 
 import com.softtek.acceleo.demo.catalogo.bean.TransaccionBean;
 import com.softtek.acceleo.demo.domain.Transaccion;
-
+	
 import com.softtek.acceleo.demo.service.TransaccionService;
+
+
 
 /**
  * Clase TransaccionController.
@@ -50,6 +52,8 @@ public class TransaccionController {
 
 	@Autowired
 	private TransaccionService transaccionService;
+	
+	
 	
 	
 	Transaccion transaccion = new Transaccion();
@@ -65,6 +69,8 @@ public class TransaccionController {
 	   try{
 	   	
 	Transaccion transaccion = new Transaccion();
+	
+	
 	   	
 	   		
 	transaccion.setNumoperacion(transaccionBean.getNumoperacion());

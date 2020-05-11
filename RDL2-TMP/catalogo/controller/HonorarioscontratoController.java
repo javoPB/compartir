@@ -39,10 +39,12 @@ import com.softtek.acceleo.demo.catalogo.bean.HonorarioscontratoBean;
 import com.softtek.acceleo.demo.domain.Honorarioscontrato;
 import com.softtek.acceleo.demo.domain.Fideicomiso;
 import com.softtek.acceleo.demo.domain.Subfiso;
-
+	
 import com.softtek.acceleo.demo.service.HonorarioscontratoService;
 import com.softtek.acceleo.demo.service.FideicomisoService;
 import com.softtek.acceleo.demo.service.SubfisoService;
+
+
 
 /**
  * Clase HonorarioscontratoController.
@@ -54,6 +56,8 @@ public class HonorarioscontratoController {
 
 	@Autowired
 	private HonorarioscontratoService honorarioscontratoService;
+	
+	
 	
 @Autowired
 private FideicomisoService fideicomisoService;
@@ -73,6 +77,8 @@ private SubfisoService subfisoService;
 	   try{
 	   	
 	Honorarioscontrato honorarioscontrato = new Honorarioscontrato();
+	
+	
 	   	
 	   			Fideicomiso fideicomiso = fideicomisoService.getFideicomiso(honorarioscontratoBean.getFideicomisoId());
 	   			honorarioscontrato.setFideicomisoId(fideicomiso);

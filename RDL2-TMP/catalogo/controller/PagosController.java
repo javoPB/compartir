@@ -40,11 +40,13 @@ import com.softtek.acceleo.demo.domain.Pagos;
 import com.softtek.acceleo.demo.domain.Subfiso;
 import com.softtek.acceleo.demo.domain.Instruccion;
 import com.softtek.acceleo.demo.domain.Fideicomiso;
-
+	
 import com.softtek.acceleo.demo.service.PagosService;
 import com.softtek.acceleo.demo.service.SubfisoService;
 import com.softtek.acceleo.demo.service.InstruccionService;
 import com.softtek.acceleo.demo.service.FideicomisoService;
+
+
 
 /**
  * Clase PagosController.
@@ -56,6 +58,8 @@ public class PagosController {
 
 	@Autowired
 	private PagosService pagosService;
+	
+	
 	
 @Autowired
 private SubfisoService subfisoService;
@@ -77,6 +81,8 @@ private FideicomisoService fideicomisoService;
 	   try{
 	   	
 	Pagos pagos = new Pagos();
+	
+	
 	   	
 	   			Subfiso subfiso = subfisoService.getSubfiso(pagosBean.getSubfisoId());
 	   			pagos.setSubfisoId(subfiso);

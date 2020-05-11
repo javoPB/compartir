@@ -41,12 +41,14 @@ import com.softtek.acceleo.demo.domain.Subfiso;
 import com.softtek.acceleo.demo.domain.Fideicomiso;
 import com.softtek.acceleo.demo.domain.Contratoinversion;
 import com.softtek.acceleo.demo.domain.Instruccion;
-
+	
 import com.softtek.acceleo.demo.service.VentadirectoService;
 import com.softtek.acceleo.demo.service.SubfisoService;
 import com.softtek.acceleo.demo.service.FideicomisoService;
 import com.softtek.acceleo.demo.service.ContratoinversionService;
 import com.softtek.acceleo.demo.service.InstruccionService;
+
+
 
 /**
  * Clase VentadirectoController.
@@ -58,6 +60,8 @@ public class VentadirectoController {
 
 	@Autowired
 	private VentadirectoService ventadirectoService;
+	
+	
 	
 @Autowired
 private SubfisoService subfisoService;
@@ -81,6 +85,8 @@ private InstruccionService instruccionService;
 	   try{
 	   	
 	Ventadirecto ventadirecto = new Ventadirecto();
+	
+	
 	   	
 	   			Subfiso subfiso = subfisoService.getSubfiso(ventadirectoBean.getSubfisoId());
 	   			ventadirecto.setSubfisoId(subfiso);

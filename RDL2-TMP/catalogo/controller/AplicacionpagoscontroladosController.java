@@ -39,10 +39,12 @@ import com.softtek.acceleo.demo.catalogo.bean.AplicacionpagoscontroladosBean;
 import com.softtek.acceleo.demo.domain.Aplicacionpagoscontrolados;
 import com.softtek.acceleo.demo.domain.Subfiso;
 import com.softtek.acceleo.demo.domain.Fideicomiso;
-
+	
 import com.softtek.acceleo.demo.service.AplicacionpagoscontroladosService;
 import com.softtek.acceleo.demo.service.SubfisoService;
 import com.softtek.acceleo.demo.service.FideicomisoService;
+
+
 
 /**
  * Clase AplicacionpagoscontroladosController.
@@ -54,6 +56,8 @@ public class AplicacionpagoscontroladosController {
 
 	@Autowired
 	private AplicacionpagoscontroladosService aplicacionpagoscontroladosService;
+	
+	
 	
 @Autowired
 private SubfisoService subfisoService;
@@ -73,6 +77,8 @@ private FideicomisoService fideicomisoService;
 	   try{
 	   	
 	Aplicacionpagoscontrolados aplicacionpagoscontrolados = new Aplicacionpagoscontrolados();
+	
+	
 	   	
 	   			Subfiso subfiso = subfisoService.getSubfiso(aplicacionpagoscontroladosBean.getSubfisoId());
 	   			aplicacionpagoscontrolados.setSubfisoId(subfiso);

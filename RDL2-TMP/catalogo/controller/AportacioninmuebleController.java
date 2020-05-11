@@ -37,8 +37,14 @@ import com.softtek.acceleo.demo.exception.GenericException;
 
 import com.softtek.acceleo.demo.catalogo.bean.AportacioninmuebleBean;
 import com.softtek.acceleo.demo.domain.Aportacioninmueble;
-
+	
 import com.softtek.acceleo.demo.service.AportacioninmuebleService;
+
+import com.softtek.acceleo.demo.domain.Fideicomiso;
+import com.softtek.acceleo.demo.service.FideicomisoService;
+import com.softtek.acceleo.demo.domain.Subfiso;
+import com.softtek.acceleo.demo.service.SubfisoService;
+
 
 /**
  * Clase AportacioninmuebleController.
@@ -50,6 +56,12 @@ public class AportacioninmuebleController {
 
 	@Autowired
 	private AportacioninmuebleService aportacioninmuebleService;
+	
+@Autowired
+private FideicomisoService fideicomisoService;
+@Autowired
+private SubfisoService subfisoService;
+	
 	
 	
 	Aportacioninmueble aportacioninmueble = new Aportacioninmueble();
@@ -65,6 +77,14 @@ public class AportacioninmuebleController {
 	   try{
 	   	
 	Aportacioninmueble aportacioninmueble = new Aportacioninmueble();
+	
+	
+	Fideicomiso fideicomiso = fideicomisoService.getFideicomiso(aportacioninmuebleBean.getDatosfideicomiso_fideicomisoId());
+	aportacioninmueble.setDatosfideicomisofideicomisoId(fideicomiso);
+	
+	Subfiso subfiso = subfisoService.getSubfiso(aportacioninmuebleBean.getDatosfideicomiso_subfisoId());
+	aportacioninmueble.setDatosfideicomisosubfisoId(subfiso);
+	
 	   	
 	   		
 	aportacioninmueble.setDummy(aportacioninmuebleBean.getDummy());

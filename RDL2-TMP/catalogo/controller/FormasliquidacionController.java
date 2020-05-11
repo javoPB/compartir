@@ -38,9 +38,11 @@ import com.softtek.acceleo.demo.exception.GenericException;
 import com.softtek.acceleo.demo.catalogo.bean.FormasliquidacionBean;
 import com.softtek.acceleo.demo.domain.Formasliquidacion;
 import com.softtek.acceleo.demo.domain.Fideicomiso;
-
+	
 import com.softtek.acceleo.demo.service.FormasliquidacionService;
 import com.softtek.acceleo.demo.service.FideicomisoService;
+
+
 
 /**
  * Clase FormasliquidacionController.
@@ -52,6 +54,8 @@ public class FormasliquidacionController {
 
 	@Autowired
 	private FormasliquidacionService formasliquidacionService;
+	
+	
 	
 @Autowired
 private FideicomisoService fideicomisoService;
@@ -69,6 +73,8 @@ private FideicomisoService fideicomisoService;
 	   try{
 	   	
 	Formasliquidacion formasliquidacion = new Formasliquidacion();
+	
+	
 	   	
 	   			Fideicomiso fideicomiso = fideicomisoService.getFideicomiso(formasliquidacionBean.getFideicomisoId());
 	   			formasliquidacion.setFideicomisoId(fideicomiso);

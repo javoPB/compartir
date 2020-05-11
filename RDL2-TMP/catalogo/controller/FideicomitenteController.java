@@ -38,9 +38,11 @@ import com.softtek.acceleo.demo.exception.GenericException;
 import com.softtek.acceleo.demo.catalogo.bean.FideicomitenteBean;
 import com.softtek.acceleo.demo.domain.Fideicomitente;
 import com.softtek.acceleo.demo.domain.Fideicomiso;
-
+	
 import com.softtek.acceleo.demo.service.FideicomitenteService;
 import com.softtek.acceleo.demo.service.FideicomisoService;
+
+
 
 /**
  * Clase FideicomitenteController.
@@ -52,6 +54,8 @@ public class FideicomitenteController {
 
 	@Autowired
 	private FideicomitenteService fideicomitenteService;
+	
+	
 	
 @Autowired
 private FideicomisoService fideicomisoService;
@@ -69,6 +73,8 @@ private FideicomisoService fideicomisoService;
 	   try{
 	   	
 	Fideicomitente fideicomitente = new Fideicomitente();
+	
+	
 	   	
 	   			Fideicomiso fideicomiso = fideicomisoService.getFideicomiso(fideicomitenteBean.getFideicomisoId());
 	   			fideicomitente.setFideicomisoId(fideicomiso);

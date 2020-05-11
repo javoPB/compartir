@@ -37,8 +37,12 @@ import com.softtek.acceleo.demo.exception.GenericException;
 
 import com.softtek.acceleo.demo.catalogo.bean.ComitetecnicoBean;
 import com.softtek.acceleo.demo.domain.Comitetecnico;
-
+	
 import com.softtek.acceleo.demo.service.ComitetecnicoService;
+
+import com.softtek.acceleo.demo.domain.Fideicomiso;
+import com.softtek.acceleo.demo.service.FideicomisoService;
+
 
 /**
  * Clase ComitetecnicoController.
@@ -50,6 +54,10 @@ public class ComitetecnicoController {
 
 	@Autowired
 	private ComitetecnicoService comitetecnicoService;
+	
+@Autowired
+private FideicomisoService fideicomisoService;
+	
 	
 	
 	Comitetecnico comitetecnico = new Comitetecnico();
@@ -65,6 +73,11 @@ public class ComitetecnicoController {
 	   try{
 	   	
 	Comitetecnico comitetecnico = new Comitetecnico();
+	
+	
+	Fideicomiso fideicomiso = fideicomisoService.getFideicomiso(comitetecnicoBean.getGenerales_fideicomisoId());
+	comitetecnico.setGeneralesfideicomisoId(fideicomiso);
+	
 	   	
 	   		
 	comitetecnico.setDummy(comitetecnicoBean.getDummy());

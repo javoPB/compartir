@@ -41,12 +41,14 @@ import com.softtek.acceleo.demo.domain.Transaccion;
 import com.softtek.acceleo.demo.domain.Instruccion;
 import com.softtek.acceleo.demo.domain.Fideicomiso;
 import com.softtek.acceleo.demo.domain.Subfiso;
-
+	
 import com.softtek.acceleo.demo.service.CheckermonetarioService;
 import com.softtek.acceleo.demo.service.TransaccionService;
 import com.softtek.acceleo.demo.service.InstruccionService;
 import com.softtek.acceleo.demo.service.FideicomisoService;
 import com.softtek.acceleo.demo.service.SubfisoService;
+
+
 
 /**
  * Clase CheckermonetarioController.
@@ -58,6 +60,8 @@ public class CheckermonetarioController {
 
 	@Autowired
 	private CheckermonetarioService checkermonetarioService;
+	
+	
 	
 @Autowired
 private TransaccionService transaccionService;
@@ -81,6 +85,8 @@ private SubfisoService subfisoService;
 	   try{
 	   	
 	Checkermonetario checkermonetario = new Checkermonetario();
+	
+	
 	   	
 	   			Transaccion transaccion = transaccionService.getTransaccion(checkermonetarioBean.getTransaccionId());
 	   			checkermonetario.setTransaccionId(transaccion);

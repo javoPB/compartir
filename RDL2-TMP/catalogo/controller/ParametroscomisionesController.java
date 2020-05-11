@@ -38,9 +38,11 @@ import com.softtek.acceleo.demo.exception.GenericException;
 import com.softtek.acceleo.demo.catalogo.bean.ParametroscomisionesBean;
 import com.softtek.acceleo.demo.domain.Parametroscomisiones;
 import com.softtek.acceleo.demo.domain.Fideicomiso;
-
+	
 import com.softtek.acceleo.demo.service.ParametroscomisionesService;
 import com.softtek.acceleo.demo.service.FideicomisoService;
+
+
 
 /**
  * Clase ParametroscomisionesController.
@@ -52,6 +54,8 @@ public class ParametroscomisionesController {
 
 	@Autowired
 	private ParametroscomisionesService parametroscomisionesService;
+	
+	
 	
 @Autowired
 private FideicomisoService fideicomisoService;
@@ -69,6 +73,8 @@ private FideicomisoService fideicomisoService;
 	   try{
 	   	
 	Parametroscomisiones parametroscomisiones = new Parametroscomisiones();
+	
+	
 	   	
 	   			Fideicomiso fideicomiso = fideicomisoService.getFideicomiso(parametroscomisionesBean.getFideicomisoId());
 	   			parametroscomisiones.setFideicomisoId(fideicomiso);

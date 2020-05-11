@@ -39,10 +39,12 @@ import com.softtek.acceleo.demo.catalogo.bean.InstruccionBean;
 import com.softtek.acceleo.demo.domain.Instruccion;
 import com.softtek.acceleo.demo.domain.Fideicomiso;
 import com.softtek.acceleo.demo.domain.Subfiso;
-
+	
 import com.softtek.acceleo.demo.service.InstruccionService;
 import com.softtek.acceleo.demo.service.FideicomisoService;
 import com.softtek.acceleo.demo.service.SubfisoService;
+
+
 
 /**
  * Clase InstruccionController.
@@ -54,6 +56,8 @@ public class InstruccionController {
 
 	@Autowired
 	private InstruccionService instruccionService;
+	
+	
 	
 @Autowired
 private FideicomisoService fideicomisoService;
@@ -73,6 +77,8 @@ private SubfisoService subfisoService;
 	   try{
 	   	
 	Instruccion instruccion = new Instruccion();
+	
+	
 	   	
 	   			Fideicomiso fideicomiso = fideicomisoService.getFideicomiso(instruccionBean.getFideicomisoId());
 	   			instruccion.setFideicomisoId(fideicomiso);

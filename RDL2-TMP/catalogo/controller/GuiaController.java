@@ -38,9 +38,11 @@ import com.softtek.acceleo.demo.exception.GenericException;
 import com.softtek.acceleo.demo.catalogo.bean.GuiaBean;
 import com.softtek.acceleo.demo.domain.Guia;
 import com.softtek.acceleo.demo.domain.Transaccion;
-
+	
 import com.softtek.acceleo.demo.service.GuiaService;
 import com.softtek.acceleo.demo.service.TransaccionService;
+
+
 
 /**
  * Clase GuiaController.
@@ -52,6 +54,8 @@ public class GuiaController {
 
 	@Autowired
 	private GuiaService guiaService;
+	
+	
 	
 @Autowired
 private TransaccionService transaccionService;
@@ -69,6 +73,8 @@ private TransaccionService transaccionService;
 	   try{
 	   	
 	Guia guia = new Guia();
+	
+	
 	   	
 	   			Transaccion transaccion = transaccionService.getTransaccion(guiaBean.getTransaccionId());
 	   			guia.setTransaccionId(transaccion);

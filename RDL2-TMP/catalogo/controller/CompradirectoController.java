@@ -41,12 +41,14 @@ import com.softtek.acceleo.demo.domain.Fideicomiso;
 import com.softtek.acceleo.demo.domain.Instruccion;
 import com.softtek.acceleo.demo.domain.Contratoinversion;
 import com.softtek.acceleo.demo.domain.Subfiso;
-
+	
 import com.softtek.acceleo.demo.service.CompradirectoService;
 import com.softtek.acceleo.demo.service.FideicomisoService;
 import com.softtek.acceleo.demo.service.InstruccionService;
 import com.softtek.acceleo.demo.service.ContratoinversionService;
 import com.softtek.acceleo.demo.service.SubfisoService;
+
+
 
 /**
  * Clase CompradirectoController.
@@ -58,6 +60,8 @@ public class CompradirectoController {
 
 	@Autowired
 	private CompradirectoService compradirectoService;
+	
+	
 	
 @Autowired
 private FideicomisoService fideicomisoService;
@@ -81,6 +85,8 @@ private SubfisoService subfisoService;
 	   try{
 	   	
 	Compradirecto compradirecto = new Compradirecto();
+	
+	
 	   	
 	   			Fideicomiso fideicomiso = fideicomisoService.getFideicomiso(compradirectoBean.getFideicomisoId());
 	   			compradirecto.setFideicomisoId(fideicomiso);

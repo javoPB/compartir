@@ -39,10 +39,12 @@ import com.softtek.acceleo.demo.catalogo.bean.AgendaBean;
 import com.softtek.acceleo.demo.domain.Agenda;
 import com.softtek.acceleo.demo.domain.Fideicomiso;
 import com.softtek.acceleo.demo.domain.Subfiso;
-
+	
 import com.softtek.acceleo.demo.service.AgendaService;
 import com.softtek.acceleo.demo.service.FideicomisoService;
 import com.softtek.acceleo.demo.service.SubfisoService;
+
+
 
 /**
  * Clase AgendaController.
@@ -54,6 +56,8 @@ public class AgendaController {
 
 	@Autowired
 	private AgendaService agendaService;
+	
+	
 	
 @Autowired
 private FideicomisoService fideicomisoService;
@@ -73,6 +77,8 @@ private SubfisoService subfisoService;
 	   try{
 	   	
 	Agenda agenda = new Agenda();
+	
+	
 	   	
 	   			Fideicomiso fideicomiso = fideicomisoService.getFideicomiso(agendaBean.getFideicomisoId());
 	   			agenda.setFideicomisoId(fideicomiso);

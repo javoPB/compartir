@@ -37,8 +37,10 @@ import com.softtek.acceleo.demo.exception.GenericException;
 
 import com.softtek.acceleo.demo.catalogo.bean.AccionistaBean;
 import com.softtek.acceleo.demo.domain.Accionista;
-
+	
 import com.softtek.acceleo.demo.service.AccionistaService;
+
+
 
 /**
  * Clase AccionistaController.
@@ -50,6 +52,8 @@ public class AccionistaController {
 
 	@Autowired
 	private AccionistaService accionistaService;
+	
+	
 	
 	
 	Accionista accionista = new Accionista();
@@ -65,6 +69,8 @@ public class AccionistaController {
 	   try{
 	   	
 	Accionista accionista = new Accionista();
+	
+	
 	   	
 	   		
 	accionista.setAccionistade(accionistaBean.getAccionistade());

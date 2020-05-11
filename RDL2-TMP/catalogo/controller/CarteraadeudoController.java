@@ -38,9 +38,11 @@ import com.softtek.acceleo.demo.exception.GenericException;
 import com.softtek.acceleo.demo.catalogo.bean.CarteraadeudoBean;
 import com.softtek.acceleo.demo.domain.Carteraadeudo;
 import com.softtek.acceleo.demo.domain.Honorarioscontrato;
-
+	
 import com.softtek.acceleo.demo.service.CarteraadeudoService;
 import com.softtek.acceleo.demo.service.HonorarioscontratoService;
+
+
 
 /**
  * Clase CarteraadeudoController.
@@ -52,6 +54,8 @@ public class CarteraadeudoController {
 
 	@Autowired
 	private CarteraadeudoService carteraadeudoService;
+	
+	
 	
 @Autowired
 private HonorarioscontratoService honorarioscontratoService;
@@ -69,6 +73,8 @@ private HonorarioscontratoService honorarioscontratoService;
 	   try{
 	   	
 	Carteraadeudo carteraadeudo = new Carteraadeudo();
+	
+	
 	   	
 	   			Honorarioscontrato honorarioscontrato = honorarioscontratoService.getHonorarioscontrato(carteraadeudoBean.getHonorarioscontratoId());
 	   			carteraadeudo.setHonorarioscontratoId(honorarioscontrato);

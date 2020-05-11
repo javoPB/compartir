@@ -37,8 +37,10 @@ import com.softtek.acceleo.demo.exception.GenericException;
 
 import com.softtek.acceleo.demo.catalogo.bean.DeclaracionsatBean;
 import com.softtek.acceleo.demo.domain.Declaracionsat;
-
+	
 import com.softtek.acceleo.demo.service.DeclaracionsatService;
+
+
 
 /**
  * Clase DeclaracionsatController.
@@ -50,6 +52,8 @@ public class DeclaracionsatController {
 
 	@Autowired
 	private DeclaracionsatService declaracionsatService;
+	
+	
 	
 	
 	Declaracionsat declaracionsat = new Declaracionsat();
@@ -65,6 +69,8 @@ public class DeclaracionsatController {
 	   try{
 	   	
 	Declaracionsat declaracionsat = new Declaracionsat();
+	
+	
 	   	
 	   		
 	declaracionsat.setInicioejerciciofiscal(declaracionsatBean.getInicioejerciciofiscal());

@@ -39,10 +39,12 @@ import com.softtek.acceleo.demo.catalogo.bean.CuentachequesBean;
 import com.softtek.acceleo.demo.domain.Cuentacheques;
 import com.softtek.acceleo.demo.domain.Fideicomitente;
 import com.softtek.acceleo.demo.domain.Fideicomiso;
-
+	
 import com.softtek.acceleo.demo.service.CuentachequesService;
 import com.softtek.acceleo.demo.service.FideicomitenteService;
 import com.softtek.acceleo.demo.service.FideicomisoService;
+
+
 
 /**
  * Clase CuentachequesController.
@@ -54,6 +56,8 @@ public class CuentachequesController {
 
 	@Autowired
 	private CuentachequesService cuentachequesService;
+	
+	
 	
 @Autowired
 private FideicomitenteService fideicomitenteService;
@@ -73,6 +77,8 @@ private FideicomisoService fideicomisoService;
 	   try{
 	   	
 	Cuentacheques cuentacheques = new Cuentacheques();
+	
+	
 	   	
 	   			Fideicomitente fideicomitente = fideicomitenteService.getFideicomitente(cuentachequesBean.getFideicomitenteId());
 	   			cuentacheques.setFideicomitenteId(fideicomitente);

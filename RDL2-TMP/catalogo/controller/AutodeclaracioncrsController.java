@@ -38,9 +38,11 @@ import com.softtek.acceleo.demo.exception.GenericException;
 import com.softtek.acceleo.demo.catalogo.bean.AutodeclaracioncrsBean;
 import com.softtek.acceleo.demo.domain.Autodeclaracioncrs;
 import com.softtek.acceleo.demo.domain.Fideicomiso;
-
+	
 import com.softtek.acceleo.demo.service.AutodeclaracioncrsService;
 import com.softtek.acceleo.demo.service.FideicomisoService;
+
+
 
 /**
  * Clase AutodeclaracioncrsController.
@@ -52,6 +54,8 @@ public class AutodeclaracioncrsController {
 
 	@Autowired
 	private AutodeclaracioncrsService autodeclaracioncrsService;
+	
+	
 	
 @Autowired
 private FideicomisoService fideicomisoService;
@@ -69,6 +73,8 @@ private FideicomisoService fideicomisoService;
 	   try{
 	   	
 	Autodeclaracioncrs autodeclaracioncrs = new Autodeclaracioncrs();
+	
+	
 	   	
 	   			Fideicomiso fideicomiso = fideicomisoService.getFideicomiso(autodeclaracioncrsBean.getFideicomisoId());
 	   			autodeclaracioncrs.setFideicomisoId(fideicomiso);

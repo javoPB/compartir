@@ -39,10 +39,12 @@ import com.softtek.acceleo.demo.catalogo.bean.ContratoinversionBean;
 import com.softtek.acceleo.demo.domain.Contratoinversion;
 import com.softtek.acceleo.demo.domain.Fideicomiso;
 import com.softtek.acceleo.demo.domain.Subfiso;
-
+	
 import com.softtek.acceleo.demo.service.ContratoinversionService;
 import com.softtek.acceleo.demo.service.FideicomisoService;
 import com.softtek.acceleo.demo.service.SubfisoService;
+
+
 
 /**
  * Clase ContratoinversionController.
@@ -54,6 +56,8 @@ public class ContratoinversionController {
 
 	@Autowired
 	private ContratoinversionService contratoinversionService;
+	
+	
 	
 @Autowired
 private FideicomisoService fideicomisoService;
@@ -73,6 +77,8 @@ private SubfisoService subfisoService;
 	   try{
 	   	
 	Contratoinversion contratoinversion = new Contratoinversion();
+	
+	
 	   	
 	   			Fideicomiso fideicomiso = fideicomisoService.getFideicomiso(contratoinversionBean.getFideicomisoId());
 	   			contratoinversion.setFideicomisoId(fideicomiso);

@@ -38,9 +38,11 @@ import com.softtek.acceleo.demo.exception.GenericException;
 import com.softtek.acceleo.demo.catalogo.bean.KycBean;
 import com.softtek.acceleo.demo.domain.Kyc;
 import com.softtek.acceleo.demo.domain.Fideicomiso;
-
+	
 import com.softtek.acceleo.demo.service.KycService;
 import com.softtek.acceleo.demo.service.FideicomisoService;
+
+
 
 /**
  * Clase KycController.
@@ -52,6 +54,8 @@ public class KycController {
 
 	@Autowired
 	private KycService kycService;
+	
+	
 	
 @Autowired
 private FideicomisoService fideicomisoService;
@@ -69,6 +73,8 @@ private FideicomisoService fideicomisoService;
 	   try{
 	   	
 	Kyc kyc = new Kyc();
+	
+	
 	   	
 	   			Fideicomiso fideicomiso = fideicomisoService.getFideicomiso(kycBean.getFideicomisoId());
 	   			kyc.setFideicomisoId(fideicomiso);

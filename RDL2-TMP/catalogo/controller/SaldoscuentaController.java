@@ -39,10 +39,12 @@ import com.softtek.acceleo.demo.catalogo.bean.SaldoscuentaBean;
 import com.softtek.acceleo.demo.domain.Saldoscuenta;
 import com.softtek.acceleo.demo.domain.Fideicomiso;
 import com.softtek.acceleo.demo.domain.Subfiso;
-
+	
 import com.softtek.acceleo.demo.service.SaldoscuentaService;
 import com.softtek.acceleo.demo.service.FideicomisoService;
 import com.softtek.acceleo.demo.service.SubfisoService;
+
+
 
 /**
  * Clase SaldoscuentaController.
@@ -54,6 +56,8 @@ public class SaldoscuentaController {
 
 	@Autowired
 	private SaldoscuentaService saldoscuentaService;
+	
+	
 	
 @Autowired
 private FideicomisoService fideicomisoService;
@@ -73,6 +77,8 @@ private SubfisoService subfisoService;
 	   try{
 	   	
 	Saldoscuenta saldoscuenta = new Saldoscuenta();
+	
+	
 	   	
 	   			Fideicomiso fideicomiso = fideicomisoService.getFideicomiso(saldoscuentaBean.getFideicomisoId());
 	   			saldoscuenta.setFideicomisoId(fideicomiso);

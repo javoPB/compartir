@@ -39,10 +39,12 @@ import com.softtek.acceleo.demo.catalogo.bean.MonitoreochekermonerarioBean;
 import com.softtek.acceleo.demo.domain.Monitoreochekermonerario;
 import com.softtek.acceleo.demo.domain.Subfiso;
 import com.softtek.acceleo.demo.domain.Fideicomiso;
-
+	
 import com.softtek.acceleo.demo.service.MonitoreochekermonerarioService;
 import com.softtek.acceleo.demo.service.SubfisoService;
 import com.softtek.acceleo.demo.service.FideicomisoService;
+
+
 
 /**
  * Clase MonitoreochekermonerarioController.
@@ -54,6 +56,8 @@ public class MonitoreochekermonerarioController {
 
 	@Autowired
 	private MonitoreochekermonerarioService monitoreochekermonerarioService;
+	
+	
 	
 @Autowired
 private SubfisoService subfisoService;
@@ -73,6 +77,8 @@ private FideicomisoService fideicomisoService;
 	   try{
 	   	
 	Monitoreochekermonerario monitoreochekermonerario = new Monitoreochekermonerario();
+	
+	
 	   	
 	   			Subfiso subfiso = subfisoService.getSubfiso(monitoreochekermonerarioBean.getSubfisoId());
 	   			monitoreochekermonerario.setSubfisoId(subfiso);

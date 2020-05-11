@@ -40,11 +40,13 @@ import com.softtek.acceleo.demo.domain.Aportaciones;
 import com.softtek.acceleo.demo.domain.Fideicomiso;
 import com.softtek.acceleo.demo.domain.Instruccion;
 import com.softtek.acceleo.demo.domain.Subfiso;
-
+	
 import com.softtek.acceleo.demo.service.AportacionesService;
 import com.softtek.acceleo.demo.service.FideicomisoService;
 import com.softtek.acceleo.demo.service.InstruccionService;
 import com.softtek.acceleo.demo.service.SubfisoService;
+
+
 
 /**
  * Clase AportacionesController.
@@ -56,6 +58,8 @@ public class AportacionesController {
 
 	@Autowired
 	private AportacionesService aportacionesService;
+	
+	
 	
 @Autowired
 private FideicomisoService fideicomisoService;
@@ -77,6 +81,8 @@ private SubfisoService subfisoService;
 	   try{
 	   	
 	Aportaciones aportaciones = new Aportaciones();
+	
+	
 	   	
 	   			Fideicomiso fideicomiso = fideicomisoService.getFideicomiso(aportacionesBean.getFideicomisoId());
 	   			aportaciones.setFideicomisoId(fideicomiso);

@@ -37,8 +37,10 @@ import com.softtek.acceleo.demo.exception.GenericException;
 
 import com.softtek.acceleo.demo.catalogo.bean.RetiroBean;
 import com.softtek.acceleo.demo.domain.Retiro;
-
+	
 import com.softtek.acceleo.demo.service.RetiroService;
+
+
 
 /**
  * Clase RetiroController.
@@ -50,6 +52,8 @@ public class RetiroController {
 
 	@Autowired
 	private RetiroService retiroService;
+	
+	
 	
 	
 	Retiro retiro = new Retiro();
@@ -65,6 +69,8 @@ public class RetiroController {
 	   try{
 	   	
 	Retiro retiro = new Retiro();
+	
+	
 	   	
 	   		
 	retiro.setUsuario(retiroBean.getUsuario());

@@ -38,9 +38,11 @@ import com.softtek.acceleo.demo.exception.GenericException;
 import com.softtek.acceleo.demo.catalogo.bean.HonorarioadministracionBean;
 import com.softtek.acceleo.demo.domain.Honorarioadministracion;
 import com.softtek.acceleo.demo.domain.Fideicomiso;
-
+	
 import com.softtek.acceleo.demo.service.HonorarioadministracionService;
 import com.softtek.acceleo.demo.service.FideicomisoService;
+
+
 
 /**
  * Clase HonorarioadministracionController.
@@ -52,6 +54,8 @@ public class HonorarioadministracionController {
 
 	@Autowired
 	private HonorarioadministracionService honorarioadministracionService;
+	
+	
 	
 @Autowired
 private FideicomisoService fideicomisoService;
@@ -69,6 +73,8 @@ private FideicomisoService fideicomisoService;
 	   try{
 	   	
 	Honorarioadministracion honorarioadministracion = new Honorarioadministracion();
+	
+	
 	   	
 	   			Fideicomiso fideicomiso = fideicomisoService.getFideicomiso(honorarioadministracionBean.getFideicomisoId());
 	   			honorarioadministracion.setFideicomisoId(fideicomiso);
