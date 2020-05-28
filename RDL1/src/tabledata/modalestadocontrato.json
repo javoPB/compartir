@@ -1,0 +1,116 @@
+{
+	"ids":[
+		{
+			"id": "estadocontrato-results",
+			"headers": [
+{ "label": "ACTIVO" },
+{ "label": "CANCELADO" },
+{ "label": "LITIGIO" },
+{ "label": "EXTINTO" },
+{ "label": "SUSPENDIDO" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"EXTINTO",
+						"EXTINTO",
+						"ACTIVO",
+						"SUSPENDIDO",
+						"ACTIVO"
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"SUSPENDIDO",
+						"ACTIVO",
+						"CANCELADO",
+						"CANCELADO",
+						"EN LITIGIO"
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"EXTINTO",
+						"ACTIVO",
+						"EN LITIGIO",
+						"SUSPENDIDO",
+						"CANCELADO"
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"EN LITIGIO",
+						"EXTINTO",
+						"SUSPENDIDO",
+						"SUSPENDIDO",
+						"ACTIVO"
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"ACTIVO",
+						"EN LITIGIO",
+						"SUSPENDIDO",
+						"ACTIVO",
+						"CANCELADO"
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"SUSPENDIDO",
+						"SUSPENDIDO",
+						"ACTIVO",
+						"CANCELADO",
+						"EXTINTO"
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"CANCELADO",
+						"ACTIVO",
+						"EXTINTO",
+						"SUSPENDIDO",
+						"EN LITIGIO"
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"EXTINTO",
+						"ACTIVO",
+						"EXTINTO",
+						"CANCELADO",
+						"CANCELADO"
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"SUSPENDIDO",
+						"EXTINTO",
+						"ACTIVO",
+						"EXTINTO",
+						"CANCELADO"
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"SUSPENDIDO",
+						"ACTIVO",
+						"CANCELADO",
+						"EXTINTO",
+						"EN LITIGIO"
+					]
+				}
+			]
+		}
+	]
+}

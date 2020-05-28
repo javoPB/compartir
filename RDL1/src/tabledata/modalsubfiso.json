@@ -1,0 +1,105 @@
+{
+	"ids":[
+		{
+			"id": "subfiso-results",
+			"headers": [
+			{ "label": "Fideicomiso" },
+			{ "label": "Número" },
+			{ "label": "Nombre" },
+			{ "label": "Estatus" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"YYYYYYYY",
+						"6,283",
+						"Tempora voluptatem est vel culpa qui eos.",
+						"BAJA"
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"YYYYYYYY",
+						"9,815",
+						"Voluptates ut quibusdam debitis velit aperiam illo.",
+						"CANCELADO"
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"YYYYYYYY",
+						"399",
+						"Aut a impedit.",
+						"BAJA"
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"YYYYYYYY",
+						"2,829",
+						"Nobis et sit molestias.",
+						"CANCELADO"
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"YYYYYYYY",
+						"3,228",
+						"Ad eligendi fugiat consequatur.",
+						"CANCELADO"
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"YYYYYYYY",
+						"3,068",
+						"Debitis vel quasi omnis deleniti doloribus deleniti.",
+						"CANCELADO"
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"YYYYYYYY",
+						"5,465",
+						"Eum magni hic tenetur voluptas.",
+						"SUSPENDIDO"
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"YYYYYYYY",
+						"4,872",
+						"Expedita accusamus quas voluptas voluptas.",
+						"CANCELADO"
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"YYYYYYYY",
+						"8,137",
+						"Quo blanditiis vero.",
+						"SUSPENDIDO"
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"YYYYYYYY",
+						"1,460",
+						"Vel vel praesentium modi architecto saepe in.",
+						"BAJA"
+					]
+				}
+			]
+		}
+	]
+}

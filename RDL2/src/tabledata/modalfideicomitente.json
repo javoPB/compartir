@@ -1,0 +1,95 @@
+
+	{
+		"ids":[
+			{
+				"id": "fideicomitente-results",
+				"headers": [
+				{ "label": "Número Fideicomitente" },
+				{ "label": "Participante/Razón social" },
+				{ "label": "Fideicomiso" }
+				],
+				"rows": [
+					{
+						"id": "1",
+						"data": [
+							"Sint laudantium dolor.",
+							"Et consequatur quae.",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "2",
+						"data": [
+							"Quos eius sit dignissimos totam.",
+							"Sequi ipsa et ab.",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "3",
+						"data": [
+							"Nostrum porro officia voluptatibus.",
+							"Et neque ut illum.",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "4",
+						"data": [
+							"Sed aut at optio ut enim beatae.",
+							"Ut et et vero sit.",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "5",
+						"data": [
+							"Molestiae ex nesciunt possimus accusamus rem in velit.",
+							"Provident aut dolor commodi ipsam deserunt nisi provident.",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "6",
+						"data": [
+							"Dolorem molestiae quia quaerat iste.",
+							"Dolor ipsum accusantium odio provident ut quo possimus.",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "7",
+						"data": [
+							"Non voluptas occaecati unde et alias.",
+							"Tempora quam maxime eligendi enim nesciunt iure et.",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "8",
+						"data": [
+							"Et vero iste.",
+							"Quasi iure veniam neque.",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "9",
+						"data": [
+							"Culpa aliquid eum occaecati reiciendis.",
+							"In incidunt et.",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "10",
+						"data": [
+							"Quidem aspernatur officia.",
+							"Eius sint error non nobis optio sit dolorem.",
+							"YYYYYYYY"
+						]
+					}
+				]
+			}
+		]
+	}

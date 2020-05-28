@@ -1,0 +1,204 @@
+{
+	"ids":[
+		{
+			"id": "compraventavalores-results",
+			"headers": [
+			{ "label": "Fecha operación" },
+			{ "label": "Generó la operación" },
+			{ "label": "Sub fiso" },
+			{ "label": "Contrato de inversión" },
+			{ "label": "Descripción de la operación" },
+			{ "label": "Operación" },
+			{ "label": "Monto operación $" },
+			{ "label": "Intermediario" },
+			{ "label": "Fideicomiso" },
+			{ "label": "Descripción fideicomiso" },
+			{ "label": "Política de inversión" },
+			{ "label": "Moneda" },
+			{ "label": "Emergente" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"2018-Mar-23",
+						"Quas vitae culpa et aut est.",
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"Veniam ab similique in quaerat sint et.",
+						"VENTA",
+						"Enim fugit excepturi.",
+						"Quasi aut et ipsam officia doloribus expedita perspiciatis.",
+						"YYYYYYYY",
+						"Quia eaque commodi est qui.",
+						"Repellendus quia eos at voluptate.",
+						"DLS. U.S.A.",
+						"SI"
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"2019-May-12",
+						"Nihil sed et ipsam consequatur et in.",
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"Ipsam ad et necessitatibus quaerat neque velit quos.",
+						"VENTA",
+						"Voluptatibus sequi architecto.",
+						"Mollitia qui quam fugiat consequatur iusto sint deleniti.",
+						"YYYYYYYY",
+						"Et doloribus maxime esse adipisci esse suscipit.",
+						"Accusantium nam nostrum.",
+						"MONEDA NACIONAL",
+						"NO"
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"2019-Jun-06",
+						"Quo vitae inventore dignissimos eum in.",
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"Temporibus sit quia.",
+						"VENTA",
+						"Illo et nemo voluptatibus et nemo ut.",
+						"Soluta sequi voluptatem rerum tenetur recusandae fuga dolor.",
+						"YYYYYYYY",
+						"Dolores autem omnis temporibus earum.",
+						"Laborum aut ut et nesciunt facere nam.",
+						"DLS. U.S.A.",
+						"SI"
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"2019-Apr-25",
+						"Doloribus iusto omnis ea voluptatem.",
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"Incidunt quas qui perspiciatis.",
+						"COMPRA",
+						"Voluptas impedit deserunt aut ipsam eveniet quidem.",
+						"Dolores velit esse deserunt ut.",
+						"YYYYYYYY",
+						"Sunt numquam dolores autem iusto deleniti.",
+						"Possimus ab dolores veritatis qui voluptas.",
+						"MONEDA NACIONAL",
+						"SI"
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"2019-Jan-15",
+						"Amet quibusdam unde officia molestias laborum sit ut.",
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"Aut mollitia soluta at reiciendis.",
+						"COMPRA",
+						"Libero pariatur asperiores aut et unde.",
+						"Illum dolore aut soluta.",
+						"YYYYYYYY",
+						"Repellat voluptas explicabo culpa assumenda minus atque libero.",
+						"Molestiae nobis quaerat.",
+						"EUROS",
+						"SI"
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"2019-Jan-02",
+						"Est officia corporis eius laudantium sit natus voluptatem.",
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"Recusandae eligendi id nam.",
+						"VENTA",
+						"Unde labore a sit aut libero velit.",
+						"Ipsam maiores reprehenderit eos omnis consequatur molestias.",
+						"YYYYYYYY",
+						"Cum autem dolores reprehenderit distinctio perspiciatis.",
+						"Laborum saepe nihil occaecati nostrum.",
+						"MONEDA NACIONAL",
+						"NO"
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"2019-Oct-06",
+						"Maxime possimus et.",
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"Mollitia asperiores aperiam sit rerum ipsum earum.",
+						"COMPRA",
+						"Magni vero in vero autem soluta doloribus quis.",
+						"Pariatur repellendus iusto.",
+						"YYYYYYYY",
+						"Rerum qui tenetur sed.",
+						"Vero quia et eligendi quod fugit vel voluptate.",
+						"MONEDA NACIONAL",
+						"SI"
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"2018-Nov-26",
+						"Eligendi omnis ea repellendus.",
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"Sed id dolor.",
+						"VENTA",
+						"Harum natus occaecati aut quasi repellendus.",
+						"Numquam modi mollitia sunt est.",
+						"YYYYYYYY",
+						"Amet maxime sed non ut omnis.",
+						"Dolorem sed quo veniam eum doloremque dolor.",
+						"DLS. U.S.A.",
+						"SI"
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"2019-Dec-14",
+						"Voluptatem ad illum.",
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"Placeat molestiae nam modi pariatur ea sapiente consequuntur.",
+						"COMPRA",
+						"Possimus hic ut aut et repellendus tempore veniam.",
+						"Perferendis sunt doloremque enim aliquid eius.",
+						"YYYYYYYY",
+						"Modi voluptas quae libero qui dignissimos.",
+						"Illum enim reiciendis.",
+						"MONEDA NACIONAL",
+						"NO"
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"2020-Feb-28",
+						"Dolores sit ex quia id quia consequatur ut.",
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"Quia occaecati dolorem nemo et.",
+						"VENTA",
+						"Non et rerum exercitationem dolores deserunt.",
+						"Inventore eos nihil ipsa id et.",
+						"YYYYYYYY",
+						"Autem omnis quod vero omnis voluptatem autem.",
+						"Consectetur debitis deleniti et error tenetur.",
+						"EUROS",
+						"SI"
+					]
+				}
+			]
+		}
+	]
+}

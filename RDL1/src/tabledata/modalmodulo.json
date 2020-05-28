@@ -1,0 +1,116 @@
+{
+	"ids":[
+		{
+			"id": "modulo-results",
+			"headers": [
+{ "label": "MOD1" },
+{ "label": "MOD2" },
+{ "label": "MOD3" },
+{ "label": "MOD4" },
+{ "label": "MOD5" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"INMUEBLES",
+						"INVERSIONES",
+						"HONORARIOS",
+						"ADMINISTRACION",
+						"INMUEBLES"
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"HONORARIOS",
+						"ADMINISTRACION",
+						"OPERACIÓN FIDUCIARIA",
+						"HONORARIOS",
+						"HONORARIOS"
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"HONORARIOS",
+						"OPERACIÓN FIDUCIARIA",
+						"HONORARIOS",
+						"INVERSIONES",
+						"INMUEBLES"
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"INVERSIONES",
+						"OPERACIÓN FIDUCIARIA",
+						"HONORARIOS",
+						"OPERACIÓN FIDUCIARIA",
+						"OPERACIÓN FIDUCIARIA"
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"ADMINISTRACION",
+						"INMUEBLES",
+						"ADMINISTRACION",
+						"ADMINISTRACION",
+						"ADMINISTRACION"
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"INMUEBLES",
+						"OPERACIÓN FIDUCIARIA",
+						"ADMINISTRACION",
+						"INVERSIONES",
+						"INVERSIONES"
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"OPERACIÓN FIDUCIARIA",
+						"INVERSIONES",
+						"HONORARIOS",
+						"INVERSIONES",
+						"OPERACIÓN FIDUCIARIA"
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"ADMINISTRACION",
+						"INVERSIONES",
+						"INMUEBLES",
+						"ADMINISTRACION",
+						"INVERSIONES"
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"OPERACIÓN FIDUCIARIA",
+						"OPERACIÓN FIDUCIARIA",
+						"INMUEBLES",
+						"INMUEBLES",
+						"INMUEBLES"
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"INVERSIONES",
+						"OPERACIÓN FIDUCIARIA",
+						"OPERACIÓN FIDUCIARIA",
+						"HONORARIOS",
+						"INVERSIONES"
+					]
+				}
+			]
+		}
+	]
+}

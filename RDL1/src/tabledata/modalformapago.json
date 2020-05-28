@@ -1,0 +1,127 @@
+{
+	"ids":[
+		{
+			"id": "formapago-results",
+			"headers": [
+{ "label": "PAGO1" },
+{ "label": "PAGO2" },
+{ "label": "PAGO3" },
+{ "label": "PAGO4" },
+{ "label": "PAGO5" },
+{ "label": "PAGO6" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"CARGO A OTRO CONTRATO",
+						"CARGO AL CONTRATO",
+						"VIA GESTIÓN",
+						"CARGO A TARJETA DE CREDITO",
+						"TERMINAL FINANCIERO",
+						"CARGO A TARJETA DE CREDITO"
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"CARGO A CUENTA DE CHEQUES",
+						"TERMINAL FINANCIERO",
+						"CARGO AL CONTRATO",
+						"TERMINAL FINANCIERO",
+						"CARGO A TARJETA DE CREDITO",
+						"CARGO A TARJETA DE CREDITO"
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"CARGO AL CONTRATO",
+						"CARGO A CUENTA DE CHEQUES",
+						"TERMINAL FINANCIERO",
+						"CARGO A OTRO CONTRATO",
+						"CARGO A CUENTA DE CHEQUES",
+						"CARGO A OTRO CONTRATO"
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"CARGO A CUENTA DE CHEQUES",
+						"VIA GESTIÓN",
+						"CARGO A TARJETA DE CREDITO",
+						"TERMINAL FINANCIERO",
+						"CARGO A TARJETA DE CREDITO",
+						"VIA GESTIÓN"
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"CARGO A TARJETA DE CREDITO",
+						"VIA GESTIÓN",
+						"VIA GESTIÓN",
+						"VIA GESTIÓN",
+						"CARGO A TARJETA DE CREDITO",
+						"CARGO A CUENTA DE CHEQUES"
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"CARGO A TARJETA DE CREDITO",
+						"CARGO A CUENTA DE CHEQUES",
+						"TERMINAL FINANCIERO",
+						"VIA GESTIÓN",
+						"VIA GESTIÓN",
+						"CARGO A TARJETA DE CREDITO"
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"CARGO A CUENTA DE CHEQUES",
+						"TERMINAL FINANCIERO",
+						"TERMINAL FINANCIERO",
+						"TERMINAL FINANCIERO",
+						"CARGO A CUENTA DE CHEQUES",
+						"CARGO AL CONTRATO"
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"VIA GESTIÓN",
+						"CARGO AL CONTRATO",
+						"CARGO AL CONTRATO",
+						"CARGO A CUENTA DE CHEQUES",
+						"VIA GESTIÓN",
+						"CARGO A OTRO CONTRATO"
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"TERMINAL FINANCIERO",
+						"VIA GESTIÓN",
+						"CARGO A CUENTA DE CHEQUES",
+						"CARGO A CUENTA DE CHEQUES",
+						"TERMINAL FINANCIERO",
+						"TERMINAL FINANCIERO"
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"VIA GESTIÓN",
+						"CARGO AL CONTRATO",
+						"TERMINAL FINANCIERO",
+						"VIA GESTIÓN",
+						"CARGO A TARJETA DE CREDITO",
+						"CARGO A OTRO CONTRATO"
+					]
+				}
+			]
+		}
+	]
+}

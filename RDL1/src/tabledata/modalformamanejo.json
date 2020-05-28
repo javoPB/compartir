@@ -1,0 +1,105 @@
+{
+	"ids":[
+		{
+			"id": "formamanejo-results",
+			"headers": [
+{ "label": "DISCRESTR" },
+{ "label": "NODISCR" },
+{ "label": "SINMANEJO" },
+{ "label": "ADMINISTRACION" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"DISCRECIONAL RESTRINGIDO",
+						"NO DISCRECIONAL",
+						"ADMINISTRACIÓN",
+						"SIN MANEJO DE INVERSION"
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"DISCRECIONAL RESTRINGIDO",
+						"NO DISCRECIONAL",
+						"DISCRECIONAL RESTRINGIDO",
+						"DISCRECIONAL RESTRINGIDO"
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"DISCRECIONAL RESTRINGIDO",
+						"NO DISCRECIONAL",
+						"ADMINISTRACIÓN",
+						"SIN MANEJO DE INVERSION"
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"ADMINISTRACIÓN",
+						"ADMINISTRACIÓN",
+						"ADMINISTRACIÓN",
+						"DISCRECIONAL RESTRINGIDO"
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"SIN MANEJO DE INVERSION",
+						"ADMINISTRACIÓN",
+						"ADMINISTRACIÓN",
+						"NO DISCRECIONAL"
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"ADMINISTRACIÓN",
+						"ADMINISTRACIÓN",
+						"ADMINISTRACIÓN",
+						"NO DISCRECIONAL"
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"ADMINISTRACIÓN",
+						"NO DISCRECIONAL",
+						"ADMINISTRACIÓN",
+						"NO DISCRECIONAL"
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"ADMINISTRACIÓN",
+						"SIN MANEJO DE INVERSION",
+						"ADMINISTRACIÓN",
+						"ADMINISTRACIÓN"
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"SIN MANEJO DE INVERSION",
+						"NO DISCRECIONAL",
+						"ADMINISTRACIÓN",
+						"DISCRECIONAL RESTRINGIDO"
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"ADMINISTRACIÓN",
+						"ADMINISTRACIÓN",
+						"SIN MANEJO DE INVERSION",
+						"DISCRECIONAL RESTRINGIDO"
+					]
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,72 @@
+{
+	"ids":[
+		{
+			"id": "tipoparticipante-results",
+			"headers": [
+{ "label": "FIDEICOMITENTE" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"FIDEICOMITENTE"
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"FIDEICOMITENTE"
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"FIDEICOMITENTE"
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"FIDEICOMITENTE"
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"FIDEICOMITENTE"
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"FIDEICOMITENTE"
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"FIDEICOMITENTE"
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"FIDEICOMITENTE"
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"FIDEICOMITENTE"
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"FIDEICOMITENTE"
+					]
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,183 @@
+
+	{
+		"ids":[
+			{
+				"id": "monitoreochekermonerario-results",
+				"headers": [
+				{ "label": "Fideicomiso" },
+				{ "label": "Sub fiso" },
+				{ "label": "Folio de operación" },
+				{ "label": "Importe" },
+				{ "label": "Fecha de operación" },
+				{ "label": "Total Pagos" },
+				{ "label": "Liq" },
+				{ "label": "Cont" },
+				{ "label": "Pend" },
+				{ "label": "Error" },
+				{ "label": "Estatus" }
+				],
+				"rows": [
+					{
+						"id": "1",
+						"data": [
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"Quam et quisquam.",
+							"Veritatis saepe dolores minima quod omnis.",
+							"Corrupti id tempora vero sed.",
+							"Et rerum cum.",
+							"375",
+							"7,765",
+							"8,535",
+							"3,870",
+							"APLICADO PARCIAL"
+						]
+					},
+					{
+						"id": "2",
+						"data": [
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"Adipisci quaerat hic excepturi sit eveniet.",
+							"Ut labore quos odio tempora.",
+							"Ex nulla consequuntur.",
+							"Repellat aliquid beatae officia placeat expedita numquam.",
+							"885",
+							"6,267",
+							"7,404",
+							"9,778",
+							"CANCELADO"
+						]
+					},
+					{
+						"id": "3",
+						"data": [
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"Repudiandae aperiam quo rerum.",
+							"Aperiam labore impedit quidem est voluptatibus repudiandae id.",
+							"Enim qui fugit qui quas animi.",
+							"Atque molestias error voluptatibus.",
+							"7,228",
+							"2,417",
+							"4,418",
+							"1,982",
+							"APLICADO"
+						]
+					},
+					{
+						"id": "4",
+						"data": [
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"Ut facere cupiditate.",
+							"Tempore nam rem rem ipsum sapiente.",
+							"Debitis modi nostrum a laudantium.",
+							"Sed voluptatibus veniam enim labore.",
+							"3,258",
+							"8,905",
+							"5,487",
+							"1,861",
+							"APLICADO"
+						]
+					},
+					{
+						"id": "5",
+						"data": [
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"Minima aut nobis non aut numquam aliquid.",
+							"Nostrum eos quam.",
+							"Consequuntur officiis magnam voluptates.",
+							"Quis veritatis dolorum alias illum.",
+							"7,406",
+							"6,797",
+							"2,883",
+							"6,673",
+							"EN PROCESO"
+						]
+					},
+					{
+						"id": "6",
+						"data": [
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"Facilis harum accusantium iure illo non nisi inventore.",
+							"Sunt numquam qui consequatur dicta non fuga.",
+							"Cumque odit omnis est.",
+							"Harum ipsa ab ullam repudiandae quam et natus.",
+							"7,427",
+							"7,324",
+							"4,714",
+							"9,040",
+							"APLICADO"
+						]
+					},
+					{
+						"id": "7",
+						"data": [
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"Consequatur minus provident dignissimos incidunt nisi sunt.",
+							"Eveniet ut nulla at minima architecto accusamus magni.",
+							"Ut non ea omnis ut est consequuntur.",
+							"Doloremque totam molestias numquam neque minus ipsam.",
+							"1,913",
+							"2,361",
+							"997",
+							"1,229",
+							"CANCELADO"
+						]
+					},
+					{
+						"id": "8",
+						"data": [
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"Aut veritatis vitae.",
+							"Quos iure quam delectus esse aut dolore provident.",
+							"Amet ut rerum fugiat consequatur aut qui nobis.",
+							"Quam natus aut.",
+							"4,008",
+							"6,973",
+							"2,984",
+							"7,829",
+							"APLICADO PARCIAL"
+						]
+					},
+					{
+						"id": "9",
+						"data": [
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"Voluptatum aut a non.",
+							"Nihil id est facilis.",
+							"Omnis aut expedita qui.",
+							"Cumque dignissimos iste aut consectetur corrupti.",
+							"1,357",
+							"8,319",
+							"2,267",
+							"465",
+							"EN PROCESO"
+						]
+					},
+					{
+						"id": "10",
+						"data": [
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"Dolorum tempore quidem.",
+							"Facere sit recusandae.",
+							"Ratione et et excepturi debitis excepturi.",
+							"Soluta culpa odit deleniti ipsam eos enim.",
+							"8,826",
+							"3,697",
+							"6,847",
+							"8,157",
+							"PENDIENTE"
+						]
+					}
+				]
+			}
+		]
+	}

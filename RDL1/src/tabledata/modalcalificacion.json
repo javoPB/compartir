@@ -1,0 +1,83 @@
+{
+	"ids":[
+		{
+			"id": "calificacion-results",
+			"headers": [
+{ "label": "PENDIENTE" },
+{ "label": "PAGADO" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"PAGADO",
+						"PAGADO"
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"PENDIENTE",
+						"PAGADO"
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"PAGADO",
+						"PAGADO"
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"PAGADO",
+						"PAGADO"
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"PAGADO",
+						"PENDIENTE"
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"PAGADO",
+						"PAGADO"
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"PAGADO",
+						"PAGADO"
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"PENDIENTE",
+						"PAGADO"
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"PAGADO",
+						"PENDIENTE"
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"PENDIENTE",
+						"PAGADO"
+					]
+				}
+			]
+		}
+	]
+}

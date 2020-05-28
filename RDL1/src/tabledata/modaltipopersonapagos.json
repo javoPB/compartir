@@ -1,0 +1,83 @@
+{
+	"ids":[
+		{
+			"id": "tipopersonapagos-results",
+			"headers": [
+{ "label": "TIPO1" },
+{ "label": "TIPO2" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"FIDEICOMISARIO",
+						"FIDEICOMISARIO"
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"TERCERO",
+						"TERCERO"
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"FIDEICOMISARIO",
+						"TERCERO"
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"TERCERO",
+						"FIDEICOMISARIO"
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"TERCERO",
+						"TERCERO"
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"FIDEICOMISARIO",
+						"TERCERO"
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"FIDEICOMISARIO",
+						"FIDEICOMISARIO"
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"FIDEICOMISARIO",
+						"FIDEICOMISARIO"
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"FIDEICOMISARIO",
+						"TERCERO"
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"TERCERO",
+						"TERCERO"
+					]
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,127 @@
+{
+	"ids":[
+		{
+			"id": "nacionalidad-results",
+			"headers": [
+{ "label": "MEXICANO" },
+{ "label": "NORTAM" },
+{ "label": "PERUANA" },
+{ "label": "PANAMENA" },
+{ "label": "FRANCESA" },
+{ "label": "COLOMBIANA" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"COLOMBIANA",
+						"COLOMBIANA",
+						"FRANCESA",
+						"COLOMBIANA",
+						"PERUANA",
+						"MEXICANA"
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"PANAMEÑA",
+						"COLOMBIANA",
+						"FRANCESA",
+						"COLOMBIANA",
+						"PANAMEÑA",
+						"COLOMBIANA"
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"PANAMEÑA",
+						"PANAMEÑA",
+						"PERUANA",
+						"PERUANA",
+						"MEXICANA",
+						"COLOMBIANA"
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"PERUANA",
+						"FRANCESA",
+						"FRANCESA",
+						"PANAMEÑA",
+						"PERUANA",
+						"FRANCESA"
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"ESTADOUNIDENSE",
+						"MEXICANA",
+						"PERUANA",
+						"FRANCESA",
+						"PERUANA",
+						"PERUANA"
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"PERUANA",
+						"PERUANA",
+						"PERUANA",
+						"PERUANA",
+						"MEXICANA",
+						"ESTADOUNIDENSE"
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"ESTADOUNIDENSE",
+						"MEXICANA",
+						"PANAMEÑA",
+						"MEXICANA",
+						"FRANCESA",
+						"ESTADOUNIDENSE"
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"PERUANA",
+						"FRANCESA",
+						"PERUANA",
+						"FRANCESA",
+						"ESTADOUNIDENSE",
+						"PERUANA"
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"MEXICANA",
+						"MEXICANA",
+						"MEXICANA",
+						"FRANCESA",
+						"PERUANA",
+						"ESTADOUNIDENSE"
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"FRANCESA",
+						"PANAMEÑA",
+						"PERUANA",
+						"PERUANA",
+						"MEXICANA",
+						"PERUANA"
+					]
+				}
+			]
+		}
+	]
+}

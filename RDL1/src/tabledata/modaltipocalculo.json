@@ -1,0 +1,171 @@
+{
+	"ids":[
+		{
+			"id": "tipocalculo-results",
+			"headers": [
+{ "label": "TIPO1" },
+{ "label": "TIPO2" },
+{ "label": "TIPO3" },
+{ "label": "TIPO4" },
+{ "label": "TIPO5" },
+{ "label": "TIPO10" },
+{ "label": "TIPO6" },
+{ "label": "TIPO7" },
+{ "label": "TIPO8" },
+{ "label": "TIPO9" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"Tabla de cálculo",
+						"Número de Salarios Mínimos",
+						"No Automatizado",
+						"% al millar",
+						"Exento",
+						"Exento",
+						"Importe Fijo + % Pactado",
+						"No Aplica",
+						"Pago único",
+						"Número de Salarios Mínimos"
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"% Pactado",
+						"Número de Salarios Mínimos",
+						"Tabla de cálculo",
+						"No Automatizado",
+						"No Automatizado",
+						"% al millar",
+						"Número de Salarios Mínimos",
+						"No Automatizado",
+						"No Automatizado",
+						"% Pactado"
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"Tabla de cálculo",
+						"Tabla de cálculo",
+						"Importe Fijo",
+						"No Automatizado",
+						"Importe Fijo",
+						"% Pactado",
+						"Exento",
+						"Número de Salarios Mínimos",
+						"% al millar",
+						"Número de Salarios Mínimos"
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"Importe Fijo",
+						"Importe Fijo",
+						"Número de Salarios Mínimos",
+						"No Aplica",
+						"No Automatizado",
+						"% al millar",
+						"Tabla de cálculo",
+						"Importe Fijo",
+						"Número de Salarios Mínimos",
+						"Importe Fijo"
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"Número de Salarios Mínimos",
+						"No Aplica",
+						"Exento",
+						"Importe Fijo + % Pactado",
+						"Pago único",
+						"Exento",
+						"No Aplica",
+						"% al millar",
+						"Pago único",
+						"Pago único"
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"Número de Salarios Mínimos",
+						"Exento",
+						"Importe Fijo",
+						"Exento",
+						"Importe Fijo",
+						"Tabla de cálculo",
+						"Importe Fijo + % Pactado",
+						"No Aplica",
+						"Exento",
+						"% al millar"
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"Tabla de cálculo",
+						"% Pactado",
+						"No Aplica",
+						"% Pactado",
+						"No Automatizado",
+						"Número de Salarios Mínimos",
+						"Importe Fijo",
+						"% al millar",
+						"% Pactado",
+						"No Automatizado"
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"% al millar",
+						"No Aplica",
+						"Exento",
+						"% Pactado",
+						"Tabla de cálculo",
+						"Pago único",
+						"Número de Salarios Mínimos",
+						"Pago único",
+						"Número de Salarios Mínimos",
+						"Tabla de cálculo"
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"Importe Fijo + % Pactado",
+						"Importe Fijo",
+						"Importe Fijo",
+						"No Aplica",
+						"Importe Fijo + % Pactado",
+						"Pago único",
+						"% al millar",
+						"No Aplica",
+						"% al millar",
+						"Pago único"
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"No Automatizado",
+						"Importe Fijo",
+						"No Aplica",
+						"% al millar",
+						"% al millar",
+						"No Automatizado",
+						"No Automatizado",
+						"Exento",
+						"Exento",
+						"Número de Salarios Mínimos"
+					]
+				}
+			]
+		}
+	]
+}

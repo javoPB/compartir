@@ -1,0 +1,116 @@
+{
+	"ids":[
+		{
+			"id": "calidamigratoria-results",
+			"headers": [
+{ "label": "EXRANJERA" },
+{ "label": "INDISTINTA" },
+{ "label": "INMIGRANTE" },
+{ "label": "INMIGRADO" },
+{ "label": "NACIONAL" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"INMIGRANTE",
+						"INDISTINTA",
+						"INMIGRADO",
+						"INMIGRANTE",
+						"NACIONAL"
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"NACIONAL",
+						"INMIGRADO",
+						"NACIONAL",
+						"NACIONAL",
+						"INMIGRADO"
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"INMIGRANTE",
+						"EXRANJERA",
+						"NACIONAL",
+						"INMIGRADO",
+						"INMIGRANTE"
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"INDISTINTA",
+						"NACIONAL",
+						"INDISTINTA",
+						"INMIGRANTE",
+						"INMIGRADO"
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"INDISTINTA",
+						"INDISTINTA",
+						"EXRANJERA",
+						"NACIONAL",
+						"INMIGRADO"
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"INDISTINTA",
+						"EXRANJERA",
+						"INMIGRADO",
+						"EXRANJERA",
+						"NACIONAL"
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"INDISTINTA",
+						"EXRANJERA",
+						"NACIONAL",
+						"EXRANJERA",
+						"INMIGRANTE"
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"INMIGRADO",
+						"INDISTINTA",
+						"INDISTINTA",
+						"INMIGRANTE",
+						"INMIGRADO"
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"INMIGRANTE",
+						"EXRANJERA",
+						"EXRANJERA",
+						"INMIGRANTE",
+						"INDISTINTA"
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"INMIGRADO",
+						"EXRANJERA",
+						"INDISTINTA",
+						"INMIGRADO",
+						"INDISTINTA"
+					]
+				}
+			]
+		}
+	]
+}

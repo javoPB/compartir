@@ -1,0 +1,116 @@
+{
+	"ids":[
+		{
+			"id": "tipocontrato-results",
+			"headers": [
+{ "label": "CONTRATO1" },
+{ "label": "CONTRATO2" },
+{ "label": "CONTRATO3" },
+{ "label": "CONTRATO4" },
+{ "label": "CONTRATO5" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"INVERSION C/INTERFASE",
+						"INVERSION S/INTERFASE",
+						"CUENTA DE CHEQUES SCOTIABANK",
+						"INVERSION S/INTERFASE",
+						"CUENTA DE CHEQUES SCOTIABANK PATRIMONIAL"
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"INVERSION C/INTERFASE",
+						"INVERSION C/INTERFASE",
+						"CUENTA DE CHEQUES OTRA INSTITUCION",
+						"INVERSION S/INTERFASE",
+						"CUENTA DE CHEQUES SCOTIABANK"
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"INVERSION C/INTERFASE",
+						"CUENTA DE CHEQUES SCOTIABANK PATRIMONIAL",
+						"CUENTA DE CHEQUES SCOTIABANK",
+						"CUENTA DE CHEQUES OTRA INSTITUCION",
+						"INVERSION C/INTERFASE"
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"CUENTA DE CHEQUES SCOTIABANK",
+						"CUENTA DE CHEQUES SCOTIABANK",
+						"CUENTA DE CHEQUES OTRA INSTITUCION",
+						"INVERSION S/INTERFASE",
+						"INVERSION C/INTERFASE"
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"INVERSION S/INTERFASE",
+						"CUENTA DE CHEQUES OTRA INSTITUCION",
+						"CUENTA DE CHEQUES SCOTIABANK",
+						"INVERSION C/INTERFASE",
+						"INVERSION S/INTERFASE"
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"INVERSION S/INTERFASE",
+						"INVERSION C/INTERFASE",
+						"CUENTA DE CHEQUES SCOTIABANK PATRIMONIAL",
+						"INVERSION C/INTERFASE",
+						"INVERSION C/INTERFASE"
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"INVERSION C/INTERFASE",
+						"INVERSION C/INTERFASE",
+						"CUENTA DE CHEQUES OTRA INSTITUCION",
+						"INVERSION C/INTERFASE",
+						"CUENTA DE CHEQUES OTRA INSTITUCION"
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"INVERSION S/INTERFASE",
+						"CUENTA DE CHEQUES SCOTIABANK",
+						"INVERSION S/INTERFASE",
+						"INVERSION S/INTERFASE",
+						"CUENTA DE CHEQUES SCOTIABANK PATRIMONIAL"
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"CUENTA DE CHEQUES SCOTIABANK PATRIMONIAL",
+						"INVERSION S/INTERFASE",
+						"INVERSION S/INTERFASE",
+						"CUENTA DE CHEQUES SCOTIABANK PATRIMONIAL",
+						"CUENTA DE CHEQUES SCOTIABANK PATRIMONIAL"
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"INVERSION C/INTERFASE",
+						"INVERSION S/INTERFASE",
+						"INVERSION C/INTERFASE",
+						"CUENTA DE CHEQUES OTRA INSTITUCION",
+						"INVERSION S/INTERFASE"
+					]
+				}
+			]
+		}
+	]
+}

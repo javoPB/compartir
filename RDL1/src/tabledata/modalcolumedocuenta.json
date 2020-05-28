@@ -1,0 +1,138 @@
+{
+	"ids":[
+		{
+			"id": "columedocuenta-results",
+			"headers": [
+{ "label": "ABONO" },
+{ "label": "CARGO" },
+{ "label": "COMPRA" },
+{ "label": "VENTA" },
+{ "label": "CONTABILIZA" },
+{ "label": "POLIZA" },
+{ "label": "CORRECCION" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"CARGO",
+						"CARGO",
+						"VENTA",
+						"CARGO",
+						"CARGO",
+						"COMPRA",
+						"COMPRA"
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"COMPRA",
+						"CARGO",
+						"PÓLIZA",
+						"VENTA",
+						"CONTABILIZA",
+						"CONTABILIZA",
+						"CONTABILIZA"
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"ABONO",
+						"COMPRA",
+						"VENTA",
+						"COMPRA",
+						"CONTABILIZA",
+						"CORRECCIÓN",
+						"CONTABILIZA"
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"COMPRA",
+						"CORRECCIÓN",
+						"COMPRA",
+						"CONTABILIZA",
+						"CONTABILIZA",
+						"CARGO",
+						"CORRECCIÓN"
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"ABONO",
+						"PÓLIZA",
+						"ABONO",
+						"CORRECCIÓN",
+						"ABONO",
+						"COMPRA",
+						"ABONO"
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"ABONO",
+						"PÓLIZA",
+						"CONTABILIZA",
+						"CONTABILIZA",
+						"VENTA",
+						"VENTA",
+						"PÓLIZA"
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"CORRECCIÓN",
+						"CORRECCIÓN",
+						"VENTA",
+						"CONTABILIZA",
+						"VENTA",
+						"ABONO",
+						"CONTABILIZA"
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"VENTA",
+						"CARGO",
+						"CORRECCIÓN",
+						"VENTA",
+						"CONTABILIZA",
+						"CORRECCIÓN",
+						"ABONO"
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"CONTABILIZA",
+						"CARGO",
+						"VENTA",
+						"CARGO",
+						"CARGO",
+						"CARGO",
+						"CORRECCIÓN"
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"COMPRA",
+						"VENTA",
+						"PÓLIZA",
+						"CONTABILIZA",
+						"VENTA",
+						"COMPRA",
+						"CONTABILIZA"
+					]
+				}
+			]
+		}
+	]
+}

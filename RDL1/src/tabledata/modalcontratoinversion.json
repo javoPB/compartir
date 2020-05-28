@@ -1,0 +1,127 @@
+{
+	"ids":[
+		{
+			"id": "contratoinversion-results",
+			"headers": [
+			{ "label": "Fideicomiso" },
+			{ "label": "Intermediario" },
+			{ "label": "Sub fiso" },
+			{ "label": "Estatus" },
+			{ "label": "Contrato inversión" },
+			{ "label": "Contrato otras instituciones" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"YYYYYYYY",
+						"BANAMEX, S.A.",
+						"YYYYYYYY",
+						"ACTIVO",
+						"Voluptatem odio ullam enim.",
+						"Consequatur quae vero quos sequi."
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"YYYYYYYY",
+						"BANSI, S.A.",
+						"YYYYYYYY",
+						"CANCELADO",
+						"Cupiditate qui id.",
+						"Animi omnis cupiditate."
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"YYYYYYYY",
+						"BANCO INBURSA S.A.",
+						"YYYYYYYY",
+						"ACTIVO",
+						"Debitis illo repudiandae doloribus qui assumenda similique.",
+						"Quo placeat occaecati id."
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"YYYYYYYY",
+						"HSBC MEXICO S.A.",
+						"YYYYYYYY",
+						"ACTIVO",
+						"Et sit ut officiis commodi consequatur.",
+						"Et molestiae laudantium incidunt aut eligendi qui."
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"YYYYYYYY",
+						"BANSI, S.A.",
+						"YYYYYYYY",
+						"ACTIVO",
+						"Accusamus sequi quia.",
+						"Omnis ipsa excepturi iure non eum ut."
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"YYYYYYYY",
+						"HSBC MEXICO S.A.",
+						"YYYYYYYY",
+						"CANCELADO",
+						"Officia saepe et eum vero iste.",
+						"Eos odit ea quidem sunt et cum vero."
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"YYYYYYYY",
+						"BANSI, S.A.",
+						"YYYYYYYY",
+						"ACTIVO",
+						"Expedita velit quasi ut culpa occaecati maiores.",
+						"Tempora cumque a ea dolorem nam molestias autem."
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"YYYYYYYY",
+						"BANCO INBURSA S.A.",
+						"YYYYYYYY",
+						"SUSPENDIDO",
+						"Dolor quia et molestias qui blanditiis quaerat eius.",
+						"Et veritatis vitae fuga quo quam impedit."
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"YYYYYYYY",
+						"HSBC MEXICO S.A.",
+						"YYYYYYYY",
+						"ACTIVO",
+						"Harum praesentium sit placeat hic esse rem.",
+						"Ut et consectetur occaecati."
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"YYYYYYYY",
+						"HSBC MEXICO S.A.",
+						"YYYYYYYY",
+						"SUSPENDIDO",
+						"Consequatur sint et quo adipisci fugiat earum ea.",
+						"Cum iste quasi est."
+					]
+				}
+			]
+		}
+	]
+}

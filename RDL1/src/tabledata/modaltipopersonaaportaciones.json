@@ -1,0 +1,83 @@
+{
+	"ids":[
+		{
+			"id": "tipopersonaaportaciones-results",
+			"headers": [
+{ "label": "FIDEICOMISARIO" },
+{ "label": "FIDEICOMITENTE" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"FIDEICOMITENTE",
+						"FIDEICOMITENTE"
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"FIDEICOMITENTE",
+						"FIDEICOMISARIO"
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"FIDEICOMITENTE",
+						"FIDEICOMISARIO"
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"FIDEICOMISARIO",
+						"FIDEICOMITENTE"
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"FIDEICOMISARIO",
+						"FIDEICOMISARIO"
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"FIDEICOMITENTE",
+						"FIDEICOMITENTE"
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"FIDEICOMITENTE",
+						"FIDEICOMISARIO"
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"FIDEICOMITENTE",
+						"FIDEICOMITENTE"
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"FIDEICOMISARIO",
+						"FIDEICOMISARIO"
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"FIDEICOMITENTE",
+						"FIDEICOMITENTE"
+					]
+				}
+			]
+		}
+	]
+}

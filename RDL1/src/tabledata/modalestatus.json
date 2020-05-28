@@ -1,0 +1,127 @@
+{
+	"ids":[
+		{
+			"id": "estatus-results",
+			"headers": [
+{ "label": "ACTIVO" },
+{ "label": "CANCELADO" },
+{ "label": "CONSTITUIDO" },
+{ "label": "ENVRESULTADOS" },
+{ "label": "SUSPENDIDO" },
+{ "label": "ANTEPROYECTO" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"CONSTITUIDO",
+						"ANTEPROYECTO",
+						"CANCELADO",
+						"ACTIVO",
+						"CONSTITUIDO",
+						"ACTIVO"
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"ENV. A RESULTADOS",
+						"ACTIVO",
+						"CONSTITUIDO",
+						"CANCELADO",
+						"ACTIVO",
+						"CONSTITUIDO"
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"ANTEPROYECTO",
+						"CONSTITUIDO",
+						"ANTEPROYECTO",
+						"CANCELADO",
+						"SUSPENDIDO",
+						"ENV. A RESULTADOS"
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"ENV. A RESULTADOS",
+						"CANCELADO",
+						"SUSPENDIDO",
+						"CONSTITUIDO",
+						"SUSPENDIDO",
+						"ANTEPROYECTO"
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"CONSTITUIDO",
+						"CONSTITUIDO",
+						"ENV. A RESULTADOS",
+						"ANTEPROYECTO",
+						"SUSPENDIDO",
+						"CANCELADO"
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"CONSTITUIDO",
+						"ANTEPROYECTO",
+						"ENV. A RESULTADOS",
+						"SUSPENDIDO",
+						"CANCELADO",
+						"ENV. A RESULTADOS"
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"SUSPENDIDO",
+						"SUSPENDIDO",
+						"CONSTITUIDO",
+						"ANTEPROYECTO",
+						"CONSTITUIDO",
+						"CONSTITUIDO"
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"CONSTITUIDO",
+						"CONSTITUIDO",
+						"CANCELADO",
+						"ENV. A RESULTADOS",
+						"ENV. A RESULTADOS",
+						"CONSTITUIDO"
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"SUSPENDIDO",
+						"CANCELADO",
+						"ANTEPROYECTO",
+						"SUSPENDIDO",
+						"ANTEPROYECTO",
+						"CONSTITUIDO"
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"ANTEPROYECTO",
+						"ENV. A RESULTADOS",
+						"CANCELADO",
+						"SUSPENDIDO",
+						"ACTIVO",
+						"ACTIVO"
+					]
+				}
+			]
+		}
+	]
+}

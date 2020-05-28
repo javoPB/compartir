@@ -1,0 +1,94 @@
+{
+	"ids":[
+		{
+			"id": "tipopersona-results",
+			"headers": [
+{ "label": "FISICA" },
+{ "label": "GOBIERNO" },
+{ "label": "MORAL" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"MORAL",
+						"MORAL",
+						"FISICA"
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"GOBIERNO",
+						"MORAL",
+						"GOBIERNO"
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"FISICA",
+						"FISICA",
+						"MORAL"
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"MORAL",
+						"MORAL",
+						"FISICA"
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"FISICA",
+						"MORAL",
+						"FISICA"
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"GOBIERNO",
+						"FISICA",
+						"GOBIERNO"
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"MORAL",
+						"FISICA",
+						"GOBIERNO"
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"GOBIERNO",
+						"MORAL",
+						"GOBIERNO"
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"MORAL",
+						"GOBIERNO",
+						"GOBIERNO"
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"FISICA",
+						"MORAL",
+						"GOBIERNO"
+					]
+				}
+			]
+		}
+	]
+}

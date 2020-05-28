@@ -1,0 +1,139 @@
+
+	{
+		"ids":[
+			{
+				"id": "kyc-results",
+				"headers": [
+				{ "label": "Fideicomiso" },
+				{ "label": "Nombre" },
+				{ "label": "Número de Registro" },
+				{ "label": "Oficina" },
+				{ "label": "Concepto de Impresión" },
+				{ "label": "CR de la Banca" },
+				{ "label": "Folio" }
+				],
+				"rows": [
+					{
+						"id": "1",
+						"data": [
+							"YYYYYYYY",
+							"Mollitia impedit reprehenderit deleniti eum eius id beatae.",
+							"Doloribus voluptas maiores temporibus aliquam aut.",
+							"Qui voluptatem ab id dignissimos.",
+							"CAMBIO DE DATOS ADMINISTRATIVOS(Administración Fiduciaria)",
+							"Qui non suscipit vel.",
+							"Eligendi modi doloribus tempore ipsum ducimus voluptas."
+						]
+					},
+					{
+						"id": "2",
+						"data": [
+							"YYYYYYYY",
+							"Maxime blanditiis amet libero vero sed qui.",
+							"Non tempora sed.",
+							"Ipsum praesentium ipsum distinctio quidem.",
+							"ALTA DEL CONTRATO(Promoción Fiduciaria)",
+							"Ut porro omnis quae voluptatem.",
+							"Porro fugiat est."
+						]
+					},
+					{
+						"id": "3",
+						"data": [
+							"YYYYYYYY",
+							"Aut doloribus magnam reiciendis quidem optio fuga quasi.",
+							"Quas doloremque non ratione.",
+							"Laborum veniam rerum laudantium cupiditate et.",
+							"CALL REPORT(Administración Fiducuario)",
+							"Illo quia mollitia sunt pariatur impedit et.",
+							"Asperiores magnam tempora."
+						]
+					},
+					{
+						"id": "4",
+						"data": [
+							"YYYYYYYY",
+							"Consequatur excepturi accusamus sit id officia nihil dolorem.",
+							"Consequatur est possimus beatae modi quod omnis.",
+							"Corporis autem delectus.",
+							"CALL REPORT(Administración Fiducuario)",
+							"Est ea sapiente quas et corporis natus nihil.",
+							"Magni vero odit ut."
+						]
+					},
+					{
+						"id": "5",
+						"data": [
+							"YYYYYYYY",
+							"Aut et distinctio.",
+							"Rerum asperiores accusantium illum veritatis et architecto ut.",
+							"Vero ipsam modi.",
+							"CAMBIO DE DATOS ADMINISTRATIVOS(Administración Fiduciaria)",
+							"Quod odio omnis ullam dolorem.",
+							"Cumque dolorem aut aut qui."
+						]
+					},
+					{
+						"id": "6",
+						"data": [
+							"YYYYYYYY",
+							"Ea dolorem exercitationem earum dolores iusto id.",
+							"Occaecati nihil cumque.",
+							"Rerum aspernatur placeat cupiditate sed qui.",
+							"CAMBIO DE DATOS ADMINISTRATIVOS(Administración Fiduciaria)",
+							"Est blanditiis tempore odit nihil rerum.",
+							"Velit animi reprehenderit."
+						]
+					},
+					{
+						"id": "7",
+						"data": [
+							"YYYYYYYY",
+							"Rerum est rerum illo ducimus accusantium.",
+							"Odit nam soluta vero tempore aliquid.",
+							"Quibusdam enim voluptas sunt.",
+							"CAMBIO DE DATOS ADMINISTRATIVOS(Administración Fiduciaria)",
+							"Illum velit in est cupiditate optio.",
+							"Impedit sapiente fugiat aspernatur eligendi animi."
+						]
+					},
+					{
+						"id": "8",
+						"data": [
+							"YYYYYYYY",
+							"Unde omnis consectetur mollitia odit non quasi eaque.",
+							"Iure quae repellat et.",
+							"Tempora quae suscipit quia.",
+							"CALL REPORT(Administración Fiducuario)",
+							"Voluptatibus ut quasi excepturi nulla ratione.",
+							"Sunt quia qui deleniti dolores possimus ipsum."
+						]
+					},
+					{
+						"id": "9",
+						"data": [
+							"YYYYYYYY",
+							"Magni sequi labore expedita minima beatae dolore.",
+							"Explicabo delectus enim.",
+							"Est nesciunt soluta dignissimos nostrum sed.",
+							"CALL REPORT(Administración Fiducuario)",
+							"At impedit repellat.",
+							"Quod cumque numquam ratione exercitationem molestiae est."
+						]
+					},
+					{
+						"id": "10",
+						"data": [
+							"YYYYYYYY",
+							"Iste non cum repudiandae ut nam aperiam.",
+							"Laudantium impedit in sequi excepturi deleniti aliquid iure.",
+							"Debitis illum omnis.",
+							"CAMBIO DE DATOS ADMINISTRATIVOS(Administración Fiduciaria)",
+							"Doloribus odio et.",
+							"Mollitia non accusantium omnis."
+						]
+					}
+				]
+			}
+		]
+	}

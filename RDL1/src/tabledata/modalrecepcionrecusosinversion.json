@@ -1,0 +1,105 @@
+{
+	"ids":[
+		{
+			"id": "recepcionrecusosinversion-results",
+			"headers": [
+{ "label": "RECEP1" },
+{ "label": "RECEP2" },
+{ "label": "RECEP3" },
+{ "label": "RECEP4" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"CUENTA CONCENTRADORA",
+						"CUENTA CONCENTRADORA INDIVIDUAL",
+						"CUENTA CONCENTRADORA",
+						"CUENTA PARTICULAR (SCOTIABANK)"
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"CUENTA CONCENTRADORA",
+						"CUENTA CONCENTRADORA GENERAL",
+						"CUENTA PARTICULAR (SCOTIABANK)",
+						"CUENTA CONCENTRADORA INDIVIDUAL"
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"CUENTA PARTICULAR (SCOTIABANK)",
+						"CUENTA CONCENTRADORA INDIVIDUAL",
+						"CUENTA CONCENTRADORA INDIVIDUAL",
+						"CUENTA PARTICULAR (SCOTIABANK)"
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"CUENTA PARTICULAR (SCOTIABANK)",
+						"CUENTA CONCENTRADORA GENERAL",
+						"CUENTA CONCENTRADORA",
+						"CUENTA CONCENTRADORA GENERAL"
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"CUENTA CONCENTRADORA",
+						"CUENTA CONCENTRADORA",
+						"CUENTA CONCENTRADORA INDIVIDUAL",
+						"CUENTA CONCENTRADORA INDIVIDUAL"
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"CUENTA CONCENTRADORA INDIVIDUAL",
+						"CUENTA CONCENTRADORA GENERAL",
+						"CUENTA PARTICULAR (SCOTIABANK)",
+						"CUENTA CONCENTRADORA"
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"CUENTA CONCENTRADORA INDIVIDUAL",
+						"CUENTA PARTICULAR (SCOTIABANK)",
+						"CUENTA CONCENTRADORA INDIVIDUAL",
+						"CUENTA CONCENTRADORA"
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"CUENTA CONCENTRADORA",
+						"CUENTA CONCENTRADORA GENERAL",
+						"CUENTA CONCENTRADORA INDIVIDUAL",
+						"CUENTA PARTICULAR (SCOTIABANK)"
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"CUENTA PARTICULAR (SCOTIABANK)",
+						"CUENTA CONCENTRADORA GENERAL",
+						"CUENTA PARTICULAR (SCOTIABANK)",
+						"CUENTA CONCENTRADORA GENERAL"
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"CUENTA CONCENTRADORA",
+						"CUENTA CONCENTRADORA GENERAL",
+						"CUENTA PARTICULAR (SCOTIABANK)",
+						"CUENTA CONCENTRADORA INDIVIDUAL"
+					]
+				}
+			]
+		}
+	]
+}

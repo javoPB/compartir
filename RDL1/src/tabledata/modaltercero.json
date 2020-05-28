@@ -1,0 +1,127 @@
+{
+	"ids":[
+		{
+			"id": "tercero-results",
+			"headers": [
+			{ "label": "Fideicomiso" },
+			{ "label": "No. de tercero" },
+			{ "label": "Razón social" },
+			{ "label": "Actividad económica" },
+			{ "label": "Estatus" },
+			{ "label": "RFC" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"YYYYYYYY",
+						"9,774",
+						"Dignissimos fuga odio ea.",
+						"COMERCIANTE",
+						"ACTIVO",
+						"Nulla harum quidem et."
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"YYYYYYYY",
+						"9,492",
+						"Placeat repellat voluptatem earum quo veniam voluptas.",
+						"INGENIERO",
+						"ACTIVO",
+						"Qui vel non ullam perferendis distinctio."
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"YYYYYYYY",
+						"4,634",
+						"Est dicta quo velit necessitatibus sequi.",
+						"COMERCIANTE",
+						"ACTIVO",
+						"Numquam ex consequuntur reiciendis labore et repudiandae."
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"YYYYYYYY",
+						"4,783",
+						"Molestiae ipsum neque eos eveniet.",
+						"INGENIERO",
+						"BAJA",
+						"Dolores vitae quia nemo voluptas cumque."
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"YYYYYYYY",
+						"4,402",
+						"Ut aut dolor dolore vitae quia eligendi.",
+						"INGENIERO",
+						"CANCELADO",
+						"Voluptas rerum mollitia consequatur qui."
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"YYYYYYYY",
+						"6,512",
+						"Eos asperiores sit explicabo deleniti necessitatibus et.",
+						"EMPRESARIO",
+						"BAJA",
+						"Alias et asperiores in quo."
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"YYYYYYYY",
+						"5,062",
+						"Sunt mollitia molestiae aliquam.",
+						"ARQUITECTO",
+						"SUSPENDIDO",
+						"Occaecati praesentium temporibus quis."
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"YYYYYYYY",
+						"5,388",
+						"Magni sed et odit fuga.",
+						"EMPRESARIO",
+						"BAJA",
+						"Et occaecati non."
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"YYYYYYYY",
+						"2,055",
+						"Quae vero non nesciunt in voluptatem.",
+						"ARQUITECTO",
+						"CANCELADO",
+						"Nihil et voluptatem molestiae dolor consequuntur et rem."
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"YYYYYYYY",
+						"2,809",
+						"Ut minus molestiae modi animi totam quod ad.",
+						"EMPRESARIO",
+						"SUSPENDIDO",
+						"Et est quo soluta saepe voluptas non enim."
+					]
+				}
+			]
+		}
+	]
+}

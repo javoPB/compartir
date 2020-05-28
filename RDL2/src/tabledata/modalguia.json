@@ -1,0 +1,227 @@
+
+	{
+		"ids":[
+			{
+				"id": "guia-results",
+				"headers": [
+				{ "label": "Número de Transacción" },
+				{ "label": "Sec" },
+				{ "label": "Nombre de la cuenta" },
+				{ "label": "Cta.Mayor" },
+				{ "label": "SCta" },
+				{ "label": "SsCta" },
+				{ "label": "SssCtaCopia" },
+				{ "label": "SsssCta" },
+				{ "label": "Auxiliar 1" },
+				{ "label": "Auxiliar 2" },
+				{ "label": "Auxiliar 3" },
+				{ "label": "Aplica Dato" },
+				{ "label": "C/A" },
+				{ "label": "Descripción" },
+				{ "label": "Estatus" }
+				],
+				"rows": [
+					{
+						"id": "1",
+						"data": [
+							"YYYYYYYY",
+							"Dolor velit quas illum tenetur delectus rem.",
+							"Provident cumque aut et aliquid deleniti sequi sed.",
+							"Magnam alias nisi sit incidunt.",
+							"Magnam eos neque omnis tempora ut amet magnam.",
+							"Quo facere voluptas eligendi non vitae quod.",
+							"Consequatur sequi minus facilis omnis omnis.",
+							"Recusandae beatae consequuntur ut vel.",
+							"Esse earum alias perspiciatis molestiae esse.",
+							"Nesciunt quasi officiis.",
+							"Officia et velit exercitationem nesciunt accusamus.",
+							"IVA COMISIÓN",
+							"ABONO",
+							"Quia provident consequuntur unde velit libero officia.",
+							"CANCELADO"
+						]
+					},
+					{
+						"id": "2",
+						"data": [
+							"YYYYYYYY",
+							"Quis incidunt exercitationem.",
+							"Ea culpa corrupti.",
+							"Tempore maxime esse quo.",
+							"Minima cupiditate amet minima.",
+							"Possimus quam ut nesciunt nostrum doloribus ut qui.",
+							"Dolores quod ab qui architecto quisquam voluptatem dicta.",
+							"Esse incidunt quis non.",
+							"Consequuntur molestiae sapiente dolorem.",
+							"Porro aut quia.",
+							"Ad sunt rerum ipsam doloremque nulla et.",
+							"IPC",
+							"CARGO",
+							"Velit consequatur voluptatibus eum.",
+							"BAJA"
+						]
+					},
+					{
+						"id": "3",
+						"data": [
+							"YYYYYYYY",
+							"Et soluta modi numquam enim voluptas quia.",
+							"Necessitatibus sit ab expedita aut id nobis voluptatem.",
+							"Ea accusamus nemo.",
+							"Blanditiis numquam officiis consequatur consequatur quia similique.",
+							"Mollitia qui doloribus sint rerum.",
+							"Ipsa natus molestias qui.",
+							"In reprehenderit nesciunt error nisi quis ipsa et.",
+							"Atque itaque officiis.",
+							"Nisi omnis perspiciatis cum itaque quis.",
+							"Dolorem officiis vitae.",
+							"IPC",
+							"CARGO",
+							"Non at aut voluptates et quas.",
+							"CANCELADO"
+						]
+					},
+					{
+						"id": "4",
+						"data": [
+							"YYYYYYYY",
+							"Id cupiditate quia sed quae aspernatur quia fuga.",
+							"Qui doloremque minima praesentium omnis.",
+							"Rerum ipsam quam quisquam molestiae.",
+							"Dolorem natus odio incidunt sapiente maiores ipsam.",
+							"Temporibus consectetur nemo aut architecto.",
+							"Velit optio enim quidem.",
+							"Et qui illum eos.",
+							"Dolor repudiandae cumque.",
+							"In iste eaque.",
+							"Accusamus optio cum asperiores quas nam iusto ut.",
+							"IVA COMISIÓN",
+							"CARGO",
+							"Recusandae similique nostrum animi repellat.",
+							"SUSPENDIDO"
+						]
+					},
+					{
+						"id": "5",
+						"data": [
+							"YYYYYYYY",
+							"At vero autem esse nisi unde autem doloremque.",
+							"Accusantium ipsum id dolores culpa suscipit.",
+							"Eum omnis ut aut.",
+							"Aut blanditiis labore rerum sed et.",
+							"Omnis nesciunt nisi vel velit.",
+							"Unde unde reprehenderit culpa.",
+							"Beatae iste dolores.",
+							"Dignissimos alias sint nisi et aperiam quasi occaecati.",
+							"Id nihil non.",
+							"Inventore dolorem ad ad.",
+							"IMPORTE",
+							"CARGO",
+							"Omnis fuga tempora molestiae.",
+							"SUSPENDIDO"
+						]
+					},
+					{
+						"id": "6",
+						"data": [
+							"YYYYYYYY",
+							"Libero suscipit culpa et.",
+							"Rerum non dolor ducimus aut.",
+							"Ipsa rerum aspernatur praesentium amet.",
+							"Necessitatibus ipsa sapiente enim et et culpa.",
+							"Molestiae magnam cumque rerum.",
+							"Tenetur et iusto qui.",
+							"Cum dolores nisi rerum autem quia.",
+							"Consectetur aliquid optio assumenda veritatis natus eos asperiores.",
+							"Aut veritatis quam culpa modi vero.",
+							"Facilis natus non temporibus voluptatem modi iure molestiae.",
+							"ISR",
+							"ABONO",
+							"Hic voluptas nobis et.",
+							"ACTIVO"
+						]
+					},
+					{
+						"id": "7",
+						"data": [
+							"YYYYYYYY",
+							"Itaque delectus ab sunt.",
+							"Explicabo dolor porro architecto beatae.",
+							"Voluptatibus reprehenderit occaecati.",
+							"Laborum voluptate non qui quisquam distinctio sunt.",
+							"Et nesciunt doloribus rem aut et voluptas.",
+							"Perspiciatis ut et ut at vero quas et.",
+							"Consequuntur rerum voluptate veniam delectus consectetur fuga consequuntur.",
+							"Saepe vitae hic cupiditate sit quis sequi.",
+							"Porro enim qui.",
+							"Dolore accusantium fugit repellat aspernatur libero fugiat.",
+							"IPC",
+							"ABONO",
+							"Incidunt voluptas consequuntur id dolorem consectetur temporibus.",
+							"CANCELADO"
+						]
+					},
+					{
+						"id": "8",
+						"data": [
+							"YYYYYYYY",
+							"Accusantium sit impedit.",
+							"Doloremque dolor facere.",
+							"Sequi perspiciatis aperiam totam beatae.",
+							"Quisquam corporis sed praesentium sint pariatur.",
+							"Sunt unde tenetur rem quae.",
+							"Asperiores voluptatem quidem.",
+							"Voluptates commodi rem rerum at quo.",
+							"Natus quia qui.",
+							"Dolorum ratione hic sed praesentium voluptas vero cupiditate.",
+							"Accusamus ut unde commodi quidem.",
+							"IVA COMISIÓN",
+							"CARGO",
+							"Numquam labore voluptas.",
+							"SUSPENDIDO"
+						]
+					},
+					{
+						"id": "9",
+						"data": [
+							"YYYYYYYY",
+							"A mollitia quasi occaecati eum aut voluptatem.",
+							"Impedit sint reiciendis et at temporibus quas.",
+							"Voluptatum et similique consequatur accusantium.",
+							"Voluptatibus perspiciatis architecto.",
+							"Vel harum est animi beatae libero.",
+							"Animi nihil magnam.",
+							"Voluptatem quaerat facilis quia.",
+							"Est earum ut ut.",
+							"Mollitia placeat nihil illum dolorum vel commodi.",
+							"Qui ut in et voluptatum alias odio.",
+							"IPC",
+							"CARGO",
+							"Nemo vel quaerat consequatur est enim cumque.",
+							"CANCELADO"
+						]
+					},
+					{
+						"id": "10",
+						"data": [
+							"YYYYYYYY",
+							"Distinctio aut minima minus.",
+							"Quia voluptatem qui et possimus iure.",
+							"Debitis neque qui corrupti.",
+							"Commodi non sed occaecati quia dicta.",
+							"Beatae aut voluptates nam culpa quo voluptatem.",
+							"Ut quae praesentium omnis.",
+							"Et cupiditate odio ea consectetur.",
+							"A rerum saepe natus aut quia.",
+							"Possimus eum et voluptatem.",
+							"Porro vel laborum in.",
+							"IVA",
+							"ABONO",
+							"Ratione praesentium rem aut.",
+							"CANCELADO"
+						]
+					}
+				]
+			}
+		]
+	}

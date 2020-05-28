@@ -1,0 +1,94 @@
+{
+	"ids":[
+		{
+			"id": "autorizacioncuentabancaria-results",
+			"headers": [
+{ "label": "CARGOS" },
+{ "label": "ABONOS" },
+{ "label": "AMBOS" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"AMBOS",
+						"CARGOS",
+						"AMBOS"
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"CARGOS",
+						"AMBOS",
+						"ABONOS"
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"CARGOS",
+						"ABONOS",
+						"AMBOS"
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"CARGOS",
+						"AMBOS",
+						"CARGOS"
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"ABONOS",
+						"CARGOS",
+						"ABONOS"
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"AMBOS",
+						"CARGOS",
+						"AMBOS"
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"AMBOS",
+						"AMBOS",
+						"CARGOS"
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"AMBOS",
+						"CARGOS",
+						"ABONOS"
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"CARGOS",
+						"ABONOS",
+						"AMBOS"
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"AMBOS",
+						"ABONOS",
+						"AMBOS"
+					]
+				}
+			]
+		}
+	]
+}

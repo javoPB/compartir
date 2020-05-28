@@ -1,0 +1,116 @@
+{
+	"ids":[
+		{
+			"id": "administrador-results",
+			"headers": [
+{ "label": "ADMIN1002" },
+{ "label": "ADMIN1003" },
+{ "label": "ADMIN1004" },
+{ "label": "ADMIN1005" },
+{ "label": "ADMIN1006" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"ADMINISTRADOR 1005",
+						"ADMINISTRADOR 1004",
+						"ADMINISTRADOR 1005",
+						"ADMINISTRADOR 1005",
+						"ADMINISTRADOR 1005"
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"ADMINISTRADOR 1006",
+						"ADMINISTRADOR 1006",
+						"ADMINISTRADOR 1006",
+						"ADMINISTRADOR 1004",
+						"ADMINISTRADOR 1005"
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"ADMINISTRADOR 1003",
+						"ADMINISTRADOR 1002",
+						"ADMINISTRADOR 1003",
+						"ADMINISTRADOR 1006",
+						"ADMINISTRADOR 1003"
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"ADMINISTRADOR 1003",
+						"ADMINISTRADOR 1004",
+						"ADMINISTRADOR 1003",
+						"ADMINISTRADOR 1006",
+						"ADMINISTRADOR 1006"
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"ADMINISTRADOR 1004",
+						"ADMINISTRADOR 1005",
+						"ADMINISTRADOR 1003",
+						"ADMINISTRADOR 1006",
+						"ADMINISTRADOR 1003"
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"ADMINISTRADOR 1002",
+						"ADMINISTRADOR 1006",
+						"ADMINISTRADOR 1006",
+						"ADMINISTRADOR 1004",
+						"ADMINISTRADOR 1002"
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"ADMINISTRADOR 1005",
+						"ADMINISTRADOR 1004",
+						"ADMINISTRADOR 1003",
+						"ADMINISTRADOR 1005",
+						"ADMINISTRADOR 1003"
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"ADMINISTRADOR 1004",
+						"ADMINISTRADOR 1004",
+						"ADMINISTRADOR 1002",
+						"ADMINISTRADOR 1004",
+						"ADMINISTRADOR 1004"
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"ADMINISTRADOR 1003",
+						"ADMINISTRADOR 1006",
+						"ADMINISTRADOR 1006",
+						"ADMINISTRADOR 1005",
+						"ADMINISTRADOR 1004"
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"ADMINISTRADOR 1003",
+						"ADMINISTRADOR 1002",
+						"ADMINISTRADOR 1006",
+						"ADMINISTRADOR 1005",
+						"ADMINISTRADOR 1005"
+					]
+				}
+			]
+		}
+	]
+}

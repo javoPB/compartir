@@ -1,0 +1,94 @@
+{
+	"ids":[
+		{
+			"id": "fideicomisario-results",
+			"headers": [
+			{ "label": "Número Fideicomisario" },
+			{ "label": "Participante/Razón social" },
+			{ "label": "Fideicomiso" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"Dolorem eos soluta ab aut est aliquam.",
+						"Cumque et dolor.",
+						"YYYYYYYY"
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"Repudiandae ipsam qui et ex nemo qui.",
+						"Deleniti repellendus sint quia doloremque praesentium.",
+						"YYYYYYYY"
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"Consequatur autem ut tempora.",
+						"Ratione fuga cupiditate consequatur qui neque aut earum.",
+						"YYYYYYYY"
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"Nihil eius est consequatur.",
+						"Quia hic aut quasi quod ducimus.",
+						"YYYYYYYY"
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"Dolorum blanditiis sapiente ratione assumenda.",
+						"Quod laborum quod reiciendis.",
+						"YYYYYYYY"
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"Corporis a in commodi laudantium eos provident.",
+						"Sit consequuntur tempora earum occaecati dolorem voluptatem.",
+						"YYYYYYYY"
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"Laudantium ea ut et vel blanditiis.",
+						"Voluptate ducimus magnam ex perferendis.",
+						"YYYYYYYY"
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"Autem qui aut et maxime sed repellat.",
+						"Similique et fugiat dignissimos consequatur qui ea animi.",
+						"YYYYYYYY"
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"Qui dolores aliquam ut et qui repellat.",
+						"Distinctio sit aut corrupti ab.",
+						"YYYYYYYY"
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"Voluptatibus dignissimos eum numquam tempore sit eum aliquid.",
+						"Eum ullam accusamus.",
+						"YYYYYYYY"
+					]
+				}
+			]
+		}
+	]
+}

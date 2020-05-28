@@ -1,0 +1,116 @@
+{
+	"ids":[
+		{
+			"id": "tiponegocio-results",
+			"headers": [
+{ "label": "TIPO1" },
+{ "label": "TIPO2" },
+{ "label": "TIPO3" },
+{ "label": "TIPO4" },
+{ "label": "TIPO5" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"COMISIÓN MERCANTIL",
+						"FIDEICOMISO",
+						"FIDEICOMISO",
+						"FIDEICOMISO",
+						"MANDATO"
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"REPRESENTACIÓN COMÚN",
+						"MANDATO",
+						"DEPÓSITO CONDICIONAL",
+						"DEPÓSITO CONDICIONAL",
+						"REPRESENTACIÓN COMÚN"
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"DEPÓSITO CONDICIONAL",
+						"DEPÓSITO CONDICIONAL",
+						"COMISIÓN MERCANTIL",
+						"MANDATO",
+						"COMISIÓN MERCANTIL"
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"FIDEICOMISO",
+						"REPRESENTACIÓN COMÚN",
+						"REPRESENTACIÓN COMÚN",
+						"MANDATO",
+						"COMISIÓN MERCANTIL"
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"MANDATO",
+						"FIDEICOMISO",
+						"REPRESENTACIÓN COMÚN",
+						"MANDATO",
+						"MANDATO"
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"DEPÓSITO CONDICIONAL",
+						"MANDATO",
+						"MANDATO",
+						"COMISIÓN MERCANTIL",
+						"MANDATO"
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"MANDATO",
+						"DEPÓSITO CONDICIONAL",
+						"MANDATO",
+						"MANDATO",
+						"COMISIÓN MERCANTIL"
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"MANDATO",
+						"DEPÓSITO CONDICIONAL",
+						"COMISIÓN MERCANTIL",
+						"DEPÓSITO CONDICIONAL",
+						"FIDEICOMISO"
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"DEPÓSITO CONDICIONAL",
+						"FIDEICOMISO",
+						"MANDATO",
+						"REPRESENTACIÓN COMÚN",
+						"MANDATO"
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"MANDATO",
+						"MANDATO",
+						"COMISIÓN MERCANTIL",
+						"MANDATO",
+						"FIDEICOMISO"
+					]
+				}
+			]
+		}
+	]
+}

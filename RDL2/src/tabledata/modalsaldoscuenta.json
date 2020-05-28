@@ -1,0 +1,227 @@
+
+	{
+		"ids":[
+			{
+				"id": "saldoscuenta-results",
+				"headers": [
+				{ "label": "Fideicomiso" },
+				{ "label": "Sub fiso" },
+				{ "label": "Cuenta" },
+				{ "label": "Sct" },
+				{ "label": "Ssct" },
+				{ "label": "Sssct" },
+				{ "label": "Ssssct" },
+				{ "label": "Moneda" },
+				{ "label": "Auxiliar 1" },
+				{ "label": "Auxiliar 2" },
+				{ "label": "Auxiliar 3" },
+				{ "label": "Saldo inicial" },
+				{ "label": "Cargos" },
+				{ "label": "Abonos" },
+				{ "label": "Saldo actual" }
+				],
+				"rows": [
+					{
+						"id": "1",
+						"data": [
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"Reprehenderit est doloremque reprehenderit blanditiis consequatur illum.",
+							"Qui ut ut sapiente veniam repudiandae cupiditate itaque.",
+							"Qui rerum dolores ut rerum.",
+							"Id nemo eum voluptatibus inventore eum.",
+							"Consequatur magnam dicta quo omnis dolor nulla nulla.",
+							"EUROS",
+							"Et quod aut blanditiis.",
+							"Corrupti quis tenetur excepturi aperiam.",
+							"Consequatur dolorem nisi.",
+							"Quia ut error.",
+							"Qui libero facere.",
+							"Esse aut est molestiae ut et non.",
+							"Consequatur dolorum et sed laudantium et veniam."
+						]
+					},
+					{
+						"id": "2",
+						"data": [
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"Non omnis at est.",
+							"Ullam ea aut tempora suscipit.",
+							"Ad laboriosam aspernatur alias quia sed.",
+							"Recusandae ea rerum.",
+							"Est consequatur excepturi.",
+							"MONEDA NACIONAL",
+							"Est tempora iure laboriosam aut.",
+							"Et quia ipsa quas.",
+							"Consequatur non reiciendis occaecati.",
+							"Tenetur molestiae aliquam quia consequatur reprehenderit numquam rerum.",
+							"Vel voluptatem omnis dolorem ipsum neque.",
+							"Odit pariatur impedit.",
+							"Animi impedit et."
+						]
+					},
+					{
+						"id": "3",
+						"data": [
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"Qui eos animi voluptates fuga delectus molestias.",
+							"Eligendi temporibus doloremque vel est ut deleniti.",
+							"Dolor ipsam vel est fuga rem itaque error.",
+							"Expedita quis adipisci porro mollitia officia rerum dolorum.",
+							"Rerum ut non.",
+							"DLS. U.S.A.",
+							"Sunt corrupti officia commodi voluptatem.",
+							"Ut inventore est qui aliquid accusamus et in.",
+							"Dicta aperiam dolorem.",
+							"Ex incidunt incidunt quis ab.",
+							"Aspernatur accusantium quia in.",
+							"Quasi pariatur iste pariatur libero.",
+							"Vel adipisci et rerum aut iste error vel."
+						]
+					},
+					{
+						"id": "4",
+						"data": [
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"Non quod eaque earum est qui alias quia.",
+							"Amet enim ipsum voluptas sunt esse voluptas ipsa.",
+							"Et quo culpa.",
+							"Incidunt et porro ut.",
+							"Autem dolor iusto enim.",
+							"EUROS",
+							"Laudantium ex reiciendis eaque molestias vel itaque.",
+							"Officiis blanditiis id dolorum amet sed et.",
+							"Ut aut distinctio.",
+							"Enim fugiat molestias quam accusamus eligendi.",
+							"Aut minima rerum sit nihil et animi.",
+							"Asperiores hic consequatur fuga velit possimus aut.",
+							"Libero mollitia quisquam dolore qui voluptatem explicabo modi."
+						]
+					},
+					{
+						"id": "5",
+						"data": [
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"Error tempore ad doloribus quae.",
+							"Qui dolor deleniti consequatur dignissimos corrupti.",
+							"Aliquid soluta facere quas harum.",
+							"Sunt iure vel.",
+							"Voluptatem nulla quod.",
+							"DLS. U.S.A.",
+							"Placeat ut qui aut quisquam aut alias voluptatem.",
+							"Aut molestiae aut.",
+							"Qui nostrum ad sed.",
+							"Ipsum excepturi quia tempore omnis recusandae sapiente rerum.",
+							"Temporibus dolorum pariatur minus eum.",
+							"Rem mollitia et optio.",
+							"Aliquam eveniet omnis libero et."
+						]
+					},
+					{
+						"id": "6",
+						"data": [
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"Atque molestias aut.",
+							"Perspiciatis incidunt enim nostrum.",
+							"Architecto est eum odit autem cupiditate qui.",
+							"Ut dolor vitae.",
+							"Fugiat dolores officiis blanditiis iste at doloremque illo.",
+							"DLS. U.S.A.",
+							"Qui iste a sed sed.",
+							"Neque molestiae aut vel et cum.",
+							"Esse consequuntur corporis adipisci quo.",
+							"Recusandae non quis sunt.",
+							"Ducimus provident et harum architecto.",
+							"Accusamus harum optio consequatur dolor consequuntur maxime.",
+							"Aliquid corporis in aliquam."
+						]
+					},
+					{
+						"id": "7",
+						"data": [
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"Voluptate minus sit ea.",
+							"Quos fugiat recusandae.",
+							"Odit beatae cupiditate facilis sit fugit.",
+							"Nobis quasi doloremque.",
+							"Autem ullam qui ipsam recusandae magnam cum in.",
+							"EUROS",
+							"Impedit explicabo cupiditate non velit.",
+							"Dolorum velit nihil tenetur tempore impedit labore odio.",
+							"Ipsam ad vero.",
+							"Animi molestiae nisi similique.",
+							"Vitae nisi soluta numquam tempore.",
+							"Blanditiis cumque expedita maxime fugiat.",
+							"Delectus officia aut voluptate consequuntur nostrum accusantium voluptate."
+						]
+					},
+					{
+						"id": "8",
+						"data": [
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"Tempore sed dolores.",
+							"Harum culpa suscipit sint et placeat.",
+							"Dicta eveniet esse optio et rem accusantium.",
+							"Earum harum voluptatem aut inventore fuga totam eligendi.",
+							"Nesciunt molestias et animi iusto.",
+							"DLS. U.S.A.",
+							"Deserunt eos placeat.",
+							"Repellendus ratione suscipit ullam qui et.",
+							"Accusantium maiores consequatur magni esse necessitatibus non repudiandae.",
+							"Rerum et ut quod.",
+							"Placeat ipsum ut et neque dolorem.",
+							"Assumenda qui illo non rerum.",
+							"Officia ipsam amet optio."
+						]
+					},
+					{
+						"id": "9",
+						"data": [
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"Sunt molestias aut.",
+							"Et qui non.",
+							"Culpa enim sit aut.",
+							"Mollitia numquam exercitationem maiores earum quos.",
+							"Ut dignissimos ab architecto.",
+							"DLS. U.S.A.",
+							"Officia reiciendis voluptatem.",
+							"Saepe error cupiditate est sit et cumque et.",
+							"Illo explicabo id necessitatibus et velit ut.",
+							"Laboriosam eveniet ex temporibus.",
+							"Dolorem laborum facilis atque aut temporibus.",
+							"Voluptatem tenetur corporis est.",
+							"Ullam voluptas est facilis aspernatur ut blanditiis nesciunt."
+						]
+					},
+					{
+						"id": "10",
+						"data": [
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"Quia incidunt est corporis corrupti.",
+							"Eos maxime ut cupiditate suscipit aut.",
+							"Inventore autem deleniti ipsum vel.",
+							"Doloremque occaecati similique.",
+							"Quis praesentium aliquam adipisci.",
+							"MONEDA NACIONAL",
+							"Aut deleniti sit cupiditate asperiores at aperiam.",
+							"Atque amet quidem.",
+							"Doloribus eligendi modi.",
+							"Alias quo facilis.",
+							"Aut accusamus quia asperiores quaerat ullam.",
+							"Nostrum omnis odio omnis.",
+							"Esse quae sed voluptatibus."
+						]
+					}
+				]
+			}
+		]
+	}

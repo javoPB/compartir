@@ -1,0 +1,172 @@
+
+	{
+		"ids":[
+			{
+				"id": "formasliquidacion-results",
+				"headers": [
+				{ "label": "Fideicomiso" },
+				{ "label": "Participante" },
+				{ "label": "Tipo de persona" },
+				{ "label": "Fideicomisario" },
+				{ "label": "Forma de liquidación" },
+				{ "label": "Moneda" },
+				{ "label": "Sec. Cuenta Seleccionada" },
+				{ "label": "P.L. Principal" },
+				{ "label": "Estado" },
+				{ "label": "Sec. Param Liq" }
+				],
+				"rows": [
+					{
+						"id": "1",
+						"data": [
+							"YYYYYYYY",
+							"Occaecati consequatur dolorem itaque magnam aut.",
+							"FISICA",
+							"Qui est aut quia nesciunt magnam cumque.",
+							"PAGO POR TRANSFERENCIA INTERBANCARIA TARJETA DE DEBITO",
+							"MONEDA NACIONAL",
+							"Nihil officia nemo aliquid qui.",
+							"EUROS",
+							"SUSPENDIDO",
+							"Quia beatae qui vel molestiae at asperiores qui."
+						]
+					},
+					{
+						"id": "2",
+						"data": [
+							"YYYYYYYY",
+							"Saepe exercitationem vel corporis.",
+							"GOBIERNO",
+							"Et distinctio aut magni rerum.",
+							"ABONO A CUENTA DE CHEQUES SCOTIABANK REFERENCIADA",
+							"DLS. U.S.A.",
+							"Incidunt ipsum magni esse.",
+							"MONEDA NACIONAL",
+							"BAJA",
+							"Voluptatem non aut officia distinctio nulla iure numquam."
+						]
+					},
+					{
+						"id": "3",
+						"data": [
+							"YYYYYYYY",
+							"Consequuntur laboriosam eos sunt quod.",
+							"GOBIERNO",
+							"Perferendis facilis facere qui.",
+							"ABONO A CUENTA DE CHEQUES SCOTIABANK",
+							"MONEDA NACIONAL",
+							"Sequi voluptatum et.",
+							"EUROS",
+							"BAJA",
+							"Incidunt sint dignissimos corrupti."
+						]
+					},
+					{
+						"id": "4",
+						"data": [
+							"YYYYYYYY",
+							"Sequi autem rerum itaque et.",
+							"FISICA",
+							"Dicta placeat et.",
+							"PAGO A TRAVES DE UNA CUENTA CONTABLE OPERATIVA EN LINEA",
+							"EUROS",
+							"Esse qui aut soluta perferendis aperiam.",
+							"EUROS",
+							"ACTIVO",
+							"Quaerat eos accusantium aut in ab aut facere."
+						]
+					},
+					{
+						"id": "5",
+						"data": [
+							"YYYYYYYY",
+							"Aperiam dolor aperiam fugiat harum est natus dolores.",
+							"GOBIERNO",
+							"Eum quam rem voluptatem necessitatibus quis.",
+							"PAGO TARJETA DE CREDITO",
+							"EUROS",
+							"Dignissimos est eos saepe aspernatur.",
+							"MONEDA NACIONAL",
+							"SUSPENDIDO",
+							"Iure sed perspiciatis aut."
+						]
+					},
+					{
+						"id": "6",
+						"data": [
+							"YYYYYYYY",
+							"Expedita porro omnis.",
+							"GOBIERNO",
+							"Nihil facere sed ratione ab.",
+							"CON ORDEN DE PAGO NACIONAL",
+							"EUROS",
+							"Iure officiis nihil eveniet.",
+							"EUROS",
+							"BAJA",
+							"Ab dolorem possimus eum."
+						]
+					},
+					{
+						"id": "7",
+						"data": [
+							"YYYYYYYY",
+							"Id est quas.",
+							"GOBIERNO",
+							"Necessitatibus consequatur eos libero corrupti.",
+							"ABONO A CUENTA DE CHEQUES SCOTIABANK REFERENCIADA",
+							"MONEDA NACIONAL",
+							"Vel est ipsam qui.",
+							"MONEDA NACIONAL",
+							"CANCELADO",
+							"Laudantium animi voluptatem est voluptatem commodi expedita ut."
+						]
+					},
+					{
+						"id": "8",
+						"data": [
+							"YYYYYYYY",
+							"Qui sit praesentium nostrum.",
+							"FISICA",
+							"Sint et quo molestiae.",
+							"PAGO POR TRANSFERENCIA INTERBANCARIA TARJETA DE DEBITO",
+							"DLS. U.S.A.",
+							"Facilis nihil similique quo occaecati aliquam.",
+							"DLS. U.S.A.",
+							"CANCELADO",
+							"Nobis rem dolores amet quisquam."
+						]
+					},
+					{
+						"id": "9",
+						"data": [
+							"YYYYYYYY",
+							"Laborum expedita unde dignissimos vel.",
+							"MORAL",
+							"Molestiae soluta sed quisquam ex eius.",
+							"PAGO A TRAVES DE CUENTAS CONCENTRADORAS DE FIDUCIARIO",
+							"DLS. U.S.A.",
+							"Dolores minima et iusto.",
+							"DLS. U.S.A.",
+							"CANCELADO",
+							"Doloribus sed est nihil cumque."
+						]
+					},
+					{
+						"id": "10",
+						"data": [
+							"YYYYYYYY",
+							"Eos et sequi aut officia.",
+							"MORAL",
+							"Recusandae reprehenderit nulla autem dolorem.",
+							"PAGO A TRAVES DE UNA CUENTA CONTABLE OPERATIVA EN LINEA",
+							"DLS. U.S.A.",
+							"Pariatur quod explicabo.",
+							"EUROS",
+							"ACTIVO",
+							"Vel quia aspernatur doloribus."
+						]
+					}
+				]
+			}
+		]
+	}

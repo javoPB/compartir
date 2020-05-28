@@ -1,0 +1,105 @@
+{
+	"ids":[
+		{
+			"id": "estatusparticipante-results",
+			"headers": [
+{ "label": "ACTIVO" },
+{ "label": "CANCELADO" },
+{ "label": "SUSPENDIDO" },
+{ "label": "BAJA" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"CANCELADO",
+						"BAJA",
+						"SUSPENDIDO",
+						"ACTIVO"
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"BAJA",
+						"ACTIVO",
+						"ACTIVO",
+						"SUSPENDIDO"
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"CANCELADO",
+						"ACTIVO",
+						"CANCELADO",
+						"CANCELADO"
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"BAJA",
+						"CANCELADO",
+						"SUSPENDIDO",
+						"CANCELADO"
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"BAJA",
+						"CANCELADO",
+						"BAJA",
+						"BAJA"
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"BAJA",
+						"ACTIVO",
+						"SUSPENDIDO",
+						"BAJA"
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"CANCELADO",
+						"ACTIVO",
+						"ACTIVO",
+						"SUSPENDIDO"
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"SUSPENDIDO",
+						"SUSPENDIDO",
+						"BAJA",
+						"BAJA"
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"SUSPENDIDO",
+						"SUSPENDIDO",
+						"SUSPENDIDO",
+						"BAJA"
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"ACTIVO",
+						"SUSPENDIDO",
+						"ACTIVO",
+						"ACTIVO"
+					]
+				}
+			]
+		}
+	]
+}

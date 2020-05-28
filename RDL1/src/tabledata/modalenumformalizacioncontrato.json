@@ -1,0 +1,83 @@
+{
+	"ids":[
+		{
+			"id": "enumformalizacioncontrato-results",
+			"headers": [
+{ "label": "PRIVADO" },
+{ "label": "ESCPUB" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"Contrato Privado",
+						"Contrato Privado"
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"Escritura Pública",
+						"Escritura Pública"
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"Escritura Pública",
+						"Contrato Privado"
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"Contrato Privado",
+						"Contrato Privado"
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"Contrato Privado",
+						"Escritura Pública"
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"Escritura Pública",
+						"Escritura Pública"
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"Contrato Privado",
+						"Contrato Privado"
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"Escritura Pública",
+						"Contrato Privado"
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"Contrato Privado",
+						"Contrato Privado"
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"Escritura Pública",
+						"Contrato Privado"
+					]
+				}
+			]
+		}
+	]
+}

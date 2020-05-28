@@ -1,0 +1,83 @@
+{
+	"ids":[
+		{
+			"id": "tipoadministracion-results",
+			"headers": [
+{ "label": "DELEGADA" },
+{ "label": "FIDUCIARIA" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"ADMINISTRACION FIDUCIARIA",
+						"ADMINISTRACION DELEGADA"
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"ADMINISTRACION FIDUCIARIA",
+						"ADMINISTRACION FIDUCIARIA"
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"ADMINISTRACION DELEGADA",
+						"ADMINISTRACION DELEGADA"
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"ADMINISTRACION DELEGADA",
+						"ADMINISTRACION DELEGADA"
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"ADMINISTRACION DELEGADA",
+						"ADMINISTRACION DELEGADA"
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"ADMINISTRACION FIDUCIARIA",
+						"ADMINISTRACION FIDUCIARIA"
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"ADMINISTRACION DELEGADA",
+						"ADMINISTRACION FIDUCIARIA"
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"ADMINISTRACION FIDUCIARIA",
+						"ADMINISTRACION DELEGADA"
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"ADMINISTRACION FIDUCIARIA",
+						"ADMINISTRACION FIDUCIARIA"
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"ADMINISTRACION DELEGADA",
+						"ADMINISTRACION DELEGADA"
+					]
+				}
+			]
+		}
+	]
+}

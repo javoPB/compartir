@@ -1,0 +1,259 @@
+{
+	"ids":[
+		{
+			"id": "aportaciones-results",
+			"headers": [
+			{ "label": "Instrucción" },
+			{ "label": "Fideicomiso" },
+			{ "label": "Sub fiso" },
+			{ "label": "Total importe" },
+			{ "label": "Destino de la recepción" },
+			{ "label": "Estatus" },
+			{ "label": "Moneda" },
+			{ "label": "Forma de la recepción" },
+			{ "label": "Estatus de operación" },
+			{ "label": "Tipo persona" },
+			{ "label": "Fecha de contabilización" },
+			{ "label": "Nombre" },
+			{ "label": "Descripción complementaria" },
+			{ "label": "Nombre del fideicomiso" },
+			{ "label": "Eventos realizados/eventos separados" },
+			{ "label": "Total Aplicado" },
+			{ "label": "Importe de la recepción" },
+			{ "label": "Origen recursos" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"Ipsa blanditiis voluptatibus perferendis commodi quia.",
+						"COBRO LIQUIDACIÓN DIARIA",
+						"CANCELADO",
+						"DLS. U.S.A.",
+						"DEPÓSITO EN SUCURSAL TF EFECTIVO",
+						"SOLO CONTABLE",
+						"FIDEICOMISARIO",
+						"2019-Oct-04",
+						"Harum harum eos.",
+						"Vel voluptatem aut aut pariatur odio praesentium dolores.",
+						"Autem dolorem tempora aspernatur.",
+						"Quis dolor sequi nemo veritatis.",
+						"Voluptatem consequatur corrupti iusto recusandae in.",
+						"Sequi magni facilis et.",
+						"APORTACIONES SOLIDARIOS"
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"Odit in aut numquam eligendi laudantium eos.",
+						"COBRO LIQUIDACIÓN DIARIA",
+						"PENDIENTE",
+						"MONEDA NACIONAL",
+						"DEPÓSITO CHEQUE SCOTIABAKN",
+						"SOLO CONTABLE",
+						"FIDEICOMISARIO",
+						"2018-Jun-28",
+						"Iste quia nostrum dolor id nam pariatur necessitatibus.",
+						"Ut doloremque aut at molestiae.",
+						"Aut vero rerum autem harum.",
+						"Ex est error quis odit nulla.",
+						"Facere animi occaecati ab at quis corrupti.",
+						"Reiciendis iusto ex qui est.",
+						"FIDEICOMITENTE A"
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"Quaerat modi omnis qui officia.",
+						"DONATIVOS",
+						"PENDIENTE",
+						"MONEDA NACIONAL",
+						"DEPÓSITO CHEQUE SCOTIABAKN",
+						"NORMAL",
+						"FIDEICOMISARIO",
+						"2019-Feb-22",
+						"Et esse similique sed occaecati nesciunt vel.",
+						"Dolorem nostrum sequi occaecati voluptatem voluptatibus impedit molestias.",
+						"Tenetur tenetur deserunt occaecati quaerat.",
+						"Sunt harum officiis enim enim ducimus ipsam et.",
+						"Dolorem quaerat exercitationem vel unde.",
+						"Velit praesentium est sunt.",
+						"PARTICULARES"
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"Distinctio exercitationem deserunt voluptatem error modi.",
+						"DONATIVOS",
+						"APLICADO PARCIAL",
+						"DLS. U.S.A.",
+						"DEPÓSITO CHEQUE SCOTIABAKN",
+						"SOLO CONTABLE",
+						"FIDEICOMITENTE",
+						"2018-Jul-21",
+						"Nam aperiam dignissimos eveniet.",
+						"Magni natus quisquam.",
+						"Natus natus molestias sit magnam animi accusamus.",
+						"Et esse dignissimos neque aliquid perspiciatis.",
+						"Consectetur incidunt excepturi sit nihil.",
+						"Omnis quaerat ut.",
+						"PARTICULARES"
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"Optio quae sit nihil.",
+						"COBRO LIQUIDACIÓN AL VENCIMIENTO",
+						"APLICADO PARCIAL",
+						"MONEDA NACIONAL",
+						"DEPÓSITO EN SUCURSAL TF EFECTIVO",
+						"NORMAL",
+						"FIDEICOMISARIO",
+						"2019-Apr-16",
+						"Sed error perspiciatis vel perferendis dolorum.",
+						"Quibusdam earum sunt dolore.",
+						"Eos est neque quia accusamus qui.",
+						"Ducimus distinctio dicta doloribus qui consequatur ut.",
+						"Ducimus inventore in est.",
+						"Quidem dignissimos illum delectus.",
+						"GOBIERNO FEDERAL"
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"Nihil inventore accusamus et incidunt.",
+						"COBRO LIQUIDACIÓN AL VENCIMIENTO",
+						"CANCELADO",
+						"DLS. U.S.A.",
+						"CARGO A CUENTA CHEQUES SCOTIABANK",
+						"NORMAL",
+						"FIDEICOMITENTE",
+						"2020-Jan-21",
+						"Et sit qui suscipit optio.",
+						"Eligendi esse modi magnam.",
+						"Et officia quod fugit.",
+						"Id est inventore blanditiis amet harum non.",
+						"Qui veniam tenetur et ratione facere aut et.",
+						"Voluptatem dolorem aperiam aut.",
+						"GOBIERNO FEDERAL"
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"Dolorum ea sed adipisci asperiores aspernatur rerum quis.",
+						"DONATIVOS",
+						"APLICADO PARCIAL",
+						"EUROS",
+						"CARGO A CUENTA CHEQUES SCOTIABANK",
+						"SOLO CONTABLE",
+						"FIDEICOMITENTE",
+						"2018-Dec-27",
+						"Dolorem sit sed qui consectetur impedit ut.",
+						"Earum aut optio id.",
+						"Exercitationem est non amet.",
+						"Eius nihil dolores.",
+						"Ut earum fugiat aliquam.",
+						"Earum omnis nihil.",
+						"GOBIERNO FEDERAL"
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"Dolores veniam et labore est quas recusandae in.",
+						"COBROD DE COMISIONES",
+						"CANCELADO",
+						"DLS. U.S.A.",
+						"CARGO A CUENTA CHEQUES SCOTIABANK",
+						"SOLO CONTABLE",
+						"FIDEICOMISARIO",
+						"2018-Dec-29",
+						"Fugiat sit quibusdam molestiae et minima.",
+						"Magni porro ut cum doloremque aut consequatur.",
+						"Iste accusantium accusantium accusamus.",
+						"Eum consectetur tenetur voluptates qui molestiae.",
+						"Quis quis fugiat distinctio.",
+						"Consequatur distinctio qui harum.",
+						"FIDEICOMITENTE A"
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"Aut facilis distinctio totam.",
+						"POR VENTA DE DIVISAS",
+						"CANCELADO",
+						"EUROS",
+						"DEPÓSITO EN SUCURSAL TF EFECTIVO",
+						"NORMAL",
+						"FIDEICOMISARIO",
+						"2018-Jun-03",
+						"Autem sequi sunt tenetur in et.",
+						"Placeat eveniet modi inventore quae id consequuntur.",
+						"Facere sunt magnam animi id sint quod omnis.",
+						"Ut cum dolor et nam natus quisquam commodi.",
+						"Et voluptates eos tenetur nulla.",
+						"Enim in perferendis aut laudantium eveniet.",
+						"PARTICULARES"
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"Quis consequatur alias est sint molestias provident sequi.",
+						"POR VENTA DE DIVISAS",
+						"APLICADO PARCIAL",
+						"DLS. U.S.A.",
+						"DEPÓSITO EN SUCURSAL TF EFECTIVO",
+						"SOLO CONTABLE",
+						"FIDEICOMITENTE",
+						"2018-Jul-04",
+						"Quia reprehenderit aspernatur modi non.",
+						"Provident et nemo dicta velit.",
+						"Qui porro molestiae.",
+						"Sit aut in rerum maxime repellendus.",
+						"Veniam ab ad cumque voluptas voluptatem neque et.",
+						"Officia molestiae et non dolor impedit.",
+						"GOBIERNO MUNICIPAL"
+					]
+				}
+			]
+		}
+	]
+}

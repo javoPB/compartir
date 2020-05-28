@@ -1,0 +1,184 @@
+{
+	"ids":[
+		{
+			"id": "fideicomiso-results",
+			"headers": [
+			{ "label": "Fideicomisario" },
+			{ "label": "Tercero" },
+			{ "label": "Subfiso" },
+			{ "label": "Contrato de Inversión" },
+			{ "label": "Cuentas de Cheques" },
+			{ "label": "Número" },
+			{ "label": "Nombre" },
+			{ "label": "Administrador" },
+			{ "label": "Promotor" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"5,240",
+						"2018-Jun-07",
+						"ADMINISTRADOR 1005",
+						"PROMOTOR 1002"
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"9,585",
+						"2019-Sep-25",
+						"ADMINISTRADOR 1003",
+						"PROMOTOR 1002"
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"2,994",
+						"2018-Apr-20",
+						"ADMINISTRADOR 1003",
+						"PROMOTOR 1002"
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"2,604",
+						"2019-Aug-23",
+						"ADMINISTRADOR 1002",
+						"PROMOTOR 1002"
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"2,596",
+						"2020-May-14",
+						"ADMINISTRADOR 1004",
+						"PROMOTOR 1006"
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"2,095",
+						"2019-May-05",
+						"ADMINISTRADOR 1003",
+						"PROMOTOR 1005"
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"3,788",
+						"2018-Sep-12",
+						"ADMINISTRADOR 1006",
+						"PROMOTOR 1006"
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"5,737",
+						"2018-Sep-29",
+						"ADMINISTRADOR 1005",
+						"PROMOTOR 1002"
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"9,152",
+						"2019-Oct-17",
+						"ADMINISTRADOR 1004",
+						"PROMOTOR 1004"
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"9,344",
+						"2020-Mar-04",
+						"ADMINISTRADOR 1004",
+						"PROMOTOR 1004"
+					]
+				}
+			]
+					    ,
+			"actions": [
+				{
+				"group": "Relaciones",
+				"actions": [
+				
+								    
+				{ "label": "Fideicomisario", "link": "/fideicomisario-admin/" },
+				
+								    
+				{ "label": "Tercero", "link": "/tercero-admin/" },
+				
+								    
+				{ "label": "Subfiso", "link": "/subfiso-admin/" },
+				
+								    
+				{ "label": "Contrato de Inversión", "link": "/contratoinversion-admin/" },
+				
+								    
+				{ "label": "Cuentas de Cheques", "link": "/cuentacheques-admin/" }
+				
+				]
+				}
+			]
+		}
+	]
+}

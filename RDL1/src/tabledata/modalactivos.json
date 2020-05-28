@@ -1,0 +1,83 @@
+{
+	"ids":[
+		{
+			"id": "activos-results",
+			"headers": [
+{ "label": "AUMENTO" },
+{ "label": "DISMINUCION" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"Aumento de activos",
+						"Aumento de activos"
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"Disminución de activos",
+						"Disminución de activos"
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"Disminución de activos",
+						"Disminución de activos"
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"Aumento de activos",
+						"Disminución de activos"
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"Disminución de activos",
+						"Disminución de activos"
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"Disminución de activos",
+						"Disminución de activos"
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"Aumento de activos",
+						"Aumento de activos"
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"Aumento de activos",
+						"Aumento de activos"
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"Aumento de activos",
+						"Disminución de activos"
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"Disminución de activos",
+						"Disminución de activos"
+					]
+				}
+			]
+		}
+	]
+}

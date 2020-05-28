@@ -1,0 +1,83 @@
+{
+	"ids":[
+		{
+			"id": "tipodeclaracion-results",
+			"headers": [
+{ "label": "NORMAL" },
+{ "label": "COMPL" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"COMPLEMENTARIA",
+						"NORMAL"
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"COMPLEMENTARIA",
+						"COMPLEMENTARIA"
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"NORMAL",
+						"COMPLEMENTARIA"
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"COMPLEMENTARIA",
+						"NORMAL"
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"NORMAL",
+						"COMPLEMENTARIA"
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"NORMAL",
+						"COMPLEMENTARIA"
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"NORMAL",
+						"COMPLEMENTARIA"
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"COMPLEMENTARIA",
+						"NORMAL"
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"COMPLEMENTARIA",
+						"COMPLEMENTARIA"
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"COMPLEMENTARIA",
+						"NORMAL"
+					]
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,94 @@
+{
+	"ids":[
+		{
+			"id": "instrumentocompradirecto-results",
+			"headers": [
+{ "label": "INST1" },
+{ "label": "INST2" },
+{ "label": "INST3" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"DEPÓSITO A LA VISTA",
+						"INVERSIÓN GLOBAL",
+						"INVERSIÓN GLOBAL EN INST. FINANCIERAS DEL PAÍS"
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"INVERSIÓN GLOBAL",
+						"INVERSIÓN GLOBAL EN INST. FINANCIERAS DEL PAÍS",
+						"INVERSIÓN GLOBAL"
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"INVERSIÓN GLOBAL",
+						"INVERSIÓN GLOBAL",
+						"INVERSIÓN GLOBAL"
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"DEPÓSITO A LA VISTA",
+						"INVERSIÓN GLOBAL",
+						"DEPÓSITO A LA VISTA"
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"INVERSIÓN GLOBAL EN INST. FINANCIERAS DEL PAÍS",
+						"INVERSIÓN GLOBAL",
+						"INVERSIÓN GLOBAL"
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"INVERSIÓN GLOBAL",
+						"INVERSIÓN GLOBAL EN INST. FINANCIERAS DEL PAÍS",
+						"INVERSIÓN GLOBAL"
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"DEPÓSITO A LA VISTA",
+						"DEPÓSITO A LA VISTA",
+						"DEPÓSITO A LA VISTA"
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"INVERSIÓN GLOBAL EN INST. FINANCIERAS DEL PAÍS",
+						"INVERSIÓN GLOBAL EN INST. FINANCIERAS DEL PAÍS",
+						"INVERSIÓN GLOBAL"
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"INVERSIÓN GLOBAL EN INST. FINANCIERAS DEL PAÍS",
+						"INVERSIÓN GLOBAL",
+						"INVERSIÓN GLOBAL"
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"DEPÓSITO A LA VISTA",
+						"DEPÓSITO A LA VISTA",
+						"INVERSIÓN GLOBAL"
+					]
+				}
+			]
+		}
+	]
+}

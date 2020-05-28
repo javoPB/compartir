@@ -1,0 +1,116 @@
+{
+	"ids":[
+		{
+			"id": "formarecepcion-results",
+			"headers": [
+{ "label": "CARTA" },
+{ "label": "CORREO" },
+{ "label": "INSERTAS" },
+{ "label": "TELEFONICA" },
+{ "label": "INTERNET" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"CARTA ORIGINAL",
+						"CORREO ELECTRONICO",
+						"TELEFÓNICA (EXCLUSIVO BANDER)",
+						"TELEFÓNICA (EXCLUSIVO BANDER)",
+						"CARTA ORIGINAL"
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"CARTA ORIGINAL",
+						"CARTA ORIGINAL",
+						"CARTA ORIGINAL",
+						"CARTA ORIGINAL",
+						"CARTA ORIGINAL"
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"INTERNET (EXCLUSIVO AFORE)",
+						"CORREO ELECTRONICO",
+						"CORREO ELECTRONICO",
+						"CORREO ELECTRONICO",
+						"INSERTAS EN EL CONTRATO"
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"INSERTAS EN EL CONTRATO",
+						"INSERTAS EN EL CONTRATO",
+						"INSERTAS EN EL CONTRATO",
+						"INTERNET (EXCLUSIVO AFORE)",
+						"CORREO ELECTRONICO"
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"CORREO ELECTRONICO",
+						"INTERNET (EXCLUSIVO AFORE)",
+						"TELEFÓNICA (EXCLUSIVO BANDER)",
+						"TELEFÓNICA (EXCLUSIVO BANDER)",
+						"INSERTAS EN EL CONTRATO"
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"CORREO ELECTRONICO",
+						"CORREO ELECTRONICO",
+						"INSERTAS EN EL CONTRATO",
+						"CORREO ELECTRONICO",
+						"TELEFÓNICA (EXCLUSIVO BANDER)"
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"CORREO ELECTRONICO",
+						"CARTA ORIGINAL",
+						"CARTA ORIGINAL",
+						"CARTA ORIGINAL",
+						"INSERTAS EN EL CONTRATO"
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"INTERNET (EXCLUSIVO AFORE)",
+						"CARTA ORIGINAL",
+						"CORREO ELECTRONICO",
+						"CARTA ORIGINAL",
+						"CORREO ELECTRONICO"
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"INTERNET (EXCLUSIVO AFORE)",
+						"CARTA ORIGINAL",
+						"TELEFÓNICA (EXCLUSIVO BANDER)",
+						"INSERTAS EN EL CONTRATO",
+						"INSERTAS EN EL CONTRATO"
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"CARTA ORIGINAL",
+						"INTERNET (EXCLUSIVO AFORE)",
+						"CARTA ORIGINAL",
+						"INSERTAS EN EL CONTRATO",
+						"INTERNET (EXCLUSIVO AFORE)"
+					]
+				}
+			]
+		}
+	]
+}

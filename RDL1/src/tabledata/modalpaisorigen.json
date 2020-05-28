@@ -1,0 +1,127 @@
+{
+	"ids":[
+		{
+			"id": "paisorigen-results",
+			"headers": [
+{ "label": "MEX" },
+{ "label": "USA" },
+{ "label": "PERU" },
+{ "label": "PANAMA" },
+{ "label": "FRANCIA" },
+{ "label": "COLOMBIA" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"MEXICO",
+						"PERÚ",
+						"PERÚ",
+						"PANAMÁ",
+						"ESTADOS UNIDOS",
+						"ESTADOS UNIDOS"
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"MEXICO",
+						"FRANCIA",
+						"PERÚ",
+						"MEXICO",
+						"MEXICO",
+						"COLOMBIA"
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"FRANCIA",
+						"COLOMBIA",
+						"ESTADOS UNIDOS",
+						"PANAMÁ",
+						"MEXICO",
+						"PANAMÁ"
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"PANAMÁ",
+						"PERÚ",
+						"PANAMÁ",
+						"ESTADOS UNIDOS",
+						"MEXICO",
+						"PANAMÁ"
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"PANAMÁ",
+						"MEXICO",
+						"COLOMBIA",
+						"MEXICO",
+						"PERÚ",
+						"MEXICO"
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"MEXICO",
+						"PANAMÁ",
+						"PANAMÁ",
+						"PANAMÁ",
+						"FRANCIA",
+						"PANAMÁ"
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"FRANCIA",
+						"MEXICO",
+						"PERÚ",
+						"MEXICO",
+						"ESTADOS UNIDOS",
+						"PANAMÁ"
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"MEXICO",
+						"FRANCIA",
+						"FRANCIA",
+						"MEXICO",
+						"COLOMBIA",
+						"ESTADOS UNIDOS"
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"PERÚ",
+						"COLOMBIA",
+						"PANAMÁ",
+						"PANAMÁ",
+						"FRANCIA",
+						"PERÚ"
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"FRANCIA",
+						"COLOMBIA",
+						"PANAMÁ",
+						"PERÚ",
+						"COLOMBIA",
+						"PERÚ"
+					]
+				}
+			]
+		}
+	]
+}

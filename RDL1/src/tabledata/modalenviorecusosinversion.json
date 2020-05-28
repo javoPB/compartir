@@ -1,0 +1,94 @@
+{
+	"ids":[
+		{
+			"id": "enviorecusosinversion-results",
+			"headers": [
+{ "label": "ENV1" },
+{ "label": "ENV2" },
+{ "label": "ENV3" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"TERCERO",
+						"TERCERO",
+						"FIDEICOMITENTE"
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"FIDEICOMITENTE",
+						"FIDEICOMISARIO",
+						"TERCERO"
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"FIDEICOMITENTE",
+						"FIDEICOMITENTE",
+						"TERCERO"
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"TERCERO",
+						"FIDEICOMISARIO",
+						"FIDEICOMITENTE"
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"FIDEICOMITENTE",
+						"FIDEICOMISARIO",
+						"FIDEICOMITENTE"
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"FIDEICOMITENTE",
+						"FIDEICOMITENTE",
+						"TERCERO"
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"FIDEICOMISARIO",
+						"TERCERO",
+						"TERCERO"
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"TERCERO",
+						"TERCERO",
+						"TERCERO"
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"TERCERO",
+						"TERCERO",
+						"FIDEICOMITENTE"
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"FIDEICOMISARIO",
+						"FIDEICOMITENTE",
+						"FIDEICOMITENTE"
+					]
+				}
+			]
+		}
+	]
+}

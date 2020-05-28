@@ -1,0 +1,83 @@
+{
+	"ids":[
+		{
+			"id": "cargoabono-results",
+			"headers": [
+{ "label": "CARGO" },
+{ "label": "ABONO" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"CARGO",
+						"ABONO"
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"ABONO",
+						"CARGO"
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"ABONO",
+						"CARGO"
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"ABONO",
+						"ABONO"
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"CARGO",
+						"ABONO"
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"CARGO",
+						"ABONO"
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"CARGO",
+						"CARGO"
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"ABONO",
+						"ABONO"
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"CARGO",
+						"CARGO"
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"ABONO",
+						"ABONO"
+					]
+				}
+			]
+		}
+	]
+}

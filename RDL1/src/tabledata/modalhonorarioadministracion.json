@@ -1,0 +1,138 @@
+{
+	"ids":[
+		{
+			"id": "honorarioadministracion-results",
+			"headers": [
+			{ "label": "Fideicomiso" },
+			{ "label": "Periodo" },
+			{ "label": "Monto de Patrimonio (MXP)" },
+			{ "label": "De" },
+			{ "label": "A" },
+			{ "label": "Honorario Actual" },
+			{ "label": "Cuota mínima (MXP)" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"YYYYYYYY",
+						"ANUAL",
+						"Quia sit cum dolor maxime modi asperiores iure.",
+						"Laboriosam inventore cum tenetur quidem aut quae numquam.",
+						"Quam voluptatibus vero.",
+						"Aliquam ut nobis animi et.",
+						"Iure ipsam rerum doloribus."
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"YYYYYYYY",
+						"SEMESTRAL",
+						"Facere beatae esse sint recusandae quae.",
+						"Sed vero sequi.",
+						"Adipisci sunt adipisci laudantium.",
+						"Quos magnam aut id quia ullam dolores sunt.",
+						"Sunt a numquam molestiae."
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"YYYYYYYY",
+						"SEMESTRAL",
+						"Aperiam voluptates culpa nostrum corrupti soluta.",
+						"Ratione tenetur voluptatem tempora aspernatur.",
+						"Quia quis ipsum qui eaque consequatur nulla.",
+						"Architecto ipsam quisquam in veniam quisquam quidem rerum.",
+						"Fugiat natus nostrum."
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"YYYYYYYY",
+						"TRIMESTRAL",
+						"Velit eaque expedita perferendis in eaque.",
+						"Minima dolores ut voluptates sed corrupti sunt quidem.",
+						"Velit fugit deleniti dolorum explicabo non aut ipsam.",
+						"Alias ad in.",
+						"Omnis accusamus ut qui distinctio necessitatibus."
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"YYYYYYYY",
+						"MENSUAL",
+						"Et ex beatae illum atque similique eligendi modi.",
+						"Quos facilis libero facilis id.",
+						"Explicabo quaerat debitis autem ea.",
+						"Minus amet eum optio nesciunt officia quia quae.",
+						"Enim est voluptas."
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"YYYYYYYY",
+						"SEMESTRAL",
+						"Ad qui laudantium quisquam.",
+						"Et veniam qui qui autem.",
+						"Eveniet non sint qui sed minus.",
+						"Doloribus eum adipisci ratione.",
+						"Aliquid porro voluptate debitis assumenda."
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"YYYYYYYY",
+						"MENSUAL",
+						"Nisi est quam distinctio.",
+						"Iure exercitationem facere repellendus impedit nihil.",
+						"Soluta harum consequatur.",
+						"Dolore omnis consequatur autem ad.",
+						"Doloribus quia ut sequi."
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"YYYYYYYY",
+						"MENSUAL",
+						"Ea aut laborum omnis accusantium similique.",
+						"Rerum placeat in est nulla.",
+						"Magnam quia eius quis labore enim iste delectus.",
+						"Provident quas iste.",
+						"Qui odio enim ipsum."
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"YYYYYYYY",
+						"SEMESTRAL",
+						"Optio et dolorem sint.",
+						"Quia assumenda nihil.",
+						"Qui cumque quibusdam velit quidem quia laboriosam.",
+						"Enim eum velit dolorum eligendi dolorem laudantium commodi.",
+						"Aut nulla occaecati."
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"YYYYYYYY",
+						"SEMESTRAL",
+						"Itaque rerum a et omnis.",
+						"Et reprehenderit consectetur et quaerat iste.",
+						"Consequatur id quia accusantium.",
+						"Suscipit ipsa sed.",
+						"Recusandae numquam dolor earum aliquam quisquam."
+					]
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,149 @@
+{
+	"ids":[
+		{
+			"id": "destinorecepcion-results",
+			"headers": [
+{ "label": "DESTINO1" },
+{ "label": "DESTINO2" },
+{ "label": "DESTINO3" },
+{ "label": "DESTINO4" },
+{ "label": "DESTINO5" },
+{ "label": "DESTINO6" },
+{ "label": "DESTINO7" },
+{ "label": "DESTINO8" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"DEVOLUCIONES POR APLICAR",
+						"COBRO LIQUIDACIÓN DIARIA",
+						"COBRO LIQUIDACIÓN AL VENCIMIENTO",
+						"POR VENTA DE DIVISAS",
+						"COBRO LIQUIDACIÓN AL VENCIMIENTO",
+						"APORTACION PATRIMONIAL",
+						"COBRO LIQUIDACIÓN DIARIA",
+						"APORTACION PATRIMONIAL"
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"COBRO LIQUIDACIÓN AL VENCIMIENTO",
+						"APORTACION PATRIMONIAL",
+						"DEPÓSITOS PARA PAGO DE HONORARIOS",
+						"DEVOLUCIONES POR APLICAR",
+						"COBRO LIQUIDACIÓN AL VENCIMIENTO",
+						"DONATIVOS",
+						"DONATIVOS",
+						"DEPÓSITOS PARA PAGO DE HONORARIOS"
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"DONATIVOS",
+						"DEVOLUCIONES POR APLICAR",
+						"DEPÓSITOS PARA PAGO DE HONORARIOS",
+						"DONATIVOS",
+						"POR VENTA DE DIVISAS",
+						"COBROD DE COMISIONES",
+						"COBRO LIQUIDACIÓN AL VENCIMIENTO",
+						"DEVOLUCIONES POR APLICAR"
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"COBRO LIQUIDACIÓN DIARIA",
+						"DEVOLUCIONES POR APLICAR",
+						"COBRO LIQUIDACIÓN AL VENCIMIENTO",
+						"COBROD DE COMISIONES",
+						"DONATIVOS",
+						"COBRO LIQUIDACIÓN AL VENCIMIENTO",
+						"COBROD DE COMISIONES",
+						"DEVOLUCIONES POR APLICAR"
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"POR VENTA DE DIVISAS",
+						"POR VENTA DE DIVISAS",
+						"DEPÓSITOS PARA PAGO DE HONORARIOS",
+						"COBRO LIQUIDACIÓN DIARIA",
+						"DEPÓSITOS PARA PAGO DE HONORARIOS",
+						"DEVOLUCIONES POR APLICAR",
+						"APORTACION PATRIMONIAL",
+						"COBRO LIQUIDACIÓN AL VENCIMIENTO"
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"DEVOLUCIONES POR APLICAR",
+						"POR VENTA DE DIVISAS",
+						"COBROD DE COMISIONES",
+						"COBROD DE COMISIONES",
+						"APORTACION PATRIMONIAL",
+						"DEPÓSITOS PARA PAGO DE HONORARIOS",
+						"DONATIVOS",
+						"DEVOLUCIONES POR APLICAR"
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"APORTACION PATRIMONIAL",
+						"DONATIVOS",
+						"DEPÓSITOS PARA PAGO DE HONORARIOS",
+						"POR VENTA DE DIVISAS",
+						"DEVOLUCIONES POR APLICAR",
+						"APORTACION PATRIMONIAL",
+						"COBRO LIQUIDACIÓN AL VENCIMIENTO",
+						"DEPÓSITOS PARA PAGO DE HONORARIOS"
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"COBROD DE COMISIONES",
+						"DEVOLUCIONES POR APLICAR",
+						"COBRO LIQUIDACIÓN AL VENCIMIENTO",
+						"DONATIVOS",
+						"DEVOLUCIONES POR APLICAR",
+						"DEPÓSITOS PARA PAGO DE HONORARIOS",
+						"DONATIVOS",
+						"COBRO LIQUIDACIÓN AL VENCIMIENTO"
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"DONATIVOS",
+						"COBRO LIQUIDACIÓN AL VENCIMIENTO",
+						"APORTACION PATRIMONIAL",
+						"DEPÓSITOS PARA PAGO DE HONORARIOS",
+						"DEPÓSITOS PARA PAGO DE HONORARIOS",
+						"POR VENTA DE DIVISAS",
+						"COBROD DE COMISIONES",
+						"DONATIVOS"
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"DEPÓSITOS PARA PAGO DE HONORARIOS",
+						"COBRO LIQUIDACIÓN AL VENCIMIENTO",
+						"DEPÓSITOS PARA PAGO DE HONORARIOS",
+						"APORTACION PATRIMONIAL",
+						"DEVOLUCIONES POR APLICAR",
+						"POR VENTA DE DIVISAS",
+						"DONATIVOS",
+						"DEVOLUCIONES POR APLICAR"
+					]
+				}
+			]
+		}
+	]
+}

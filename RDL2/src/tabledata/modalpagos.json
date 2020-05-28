@@ -1,0 +1,260 @@
+
+	{
+		"ids":[
+			{
+				"id": "pagos-results",
+				"headers": [
+				{ "label": "Instrucción" },
+				{ "label": "Fideicomiso" },
+				{ "label": "Importe instrucción" },
+				{ "label": "Movimientos" },
+				{ "label": "Tipo persona" },
+				{ "label": "Concepto de pago" },
+				{ "label": "Clave" },
+				{ "label": "Nombre" },
+				{ "label": "Forma de liquidación" },
+				{ "label": "Tipo de pago" },
+				{ "label": "Datos concentradora" },
+				{ "label": "Descripción complementaria" },
+				{ "label": "Sub fiso" },
+				{ "label": "Importe Total" },
+				{ "label": "Estatus de operación" },
+				{ "label": "Importe" },
+				{ "label": "Fecha a liquidar" },
+				{ "label": "Estatus" }
+				],
+				"rows": [
+					{
+						"id": "1",
+						"data": [
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"Vel nobis nemo.",
+							"Sapiente in exercitationem possimus provident sunt molestiae quis.",
+							"TERCERO",
+							"PAGO DE IMPUESTOS Y CONTRIBUCIONES",
+							"Vero unde cupiditate ut.",
+							"Ut molestiae possimus sapiente eum voluptas.",
+							"Commodi optio dolore unde asperiores.",
+							"Tempore ipsam incidunt.",
+							"Consequatur at dignissimos.",
+							"Dolorem voluptas in magni sapiente.",
+							"YYYYYYYY",
+							"Qui optio voluptatem dolor sint explicabo omnis.",
+							"SOLO CONTABLE",
+							"Dolores eligendi autem sit fugiat quia harum nisi.",
+							"2019-Dec-06",
+							"APLICADO PARCIAL"
+						]
+					},
+					{
+						"id": "2",
+						"data": [
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"Quisquam temporibus ea id debitis ex esse.",
+							"Necessitatibus quas similique vel.",
+							"FIDEICOMISARIO",
+							"PAGO DE LIQUIDACIÓN DIARIA",
+							"Et est repellat quia aut.",
+							"Illum animi quia et.",
+							"Consequuntur aliquam maiores.",
+							"Eaque molestias exercitationem odio eveniet.",
+							"Qui dolore delectus quo.",
+							"Cumque rerum eum.",
+							"YYYYYYYY",
+							"Consectetur sunt temporibus.",
+							"SOLO CONTABLE",
+							"Sint sed debitis tenetur adipisci.",
+							"2020-Apr-27",
+							"EN PROCESO"
+						]
+					},
+					{
+						"id": "3",
+						"data": [
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"Sint et harum omnis deserunt dolorum.",
+							"Odio doloribus reprehenderit.",
+							"FIDEICOMISARIO",
+							"APLICACIÓN EFECTIVO DE FIDEICOMISOS EXTINGUIDOS",
+							"Deleniti nihil odit mollitia et.",
+							"Esse et dolores nihil in adipisci atque enim.",
+							"Itaque voluptatem et.",
+							"Illum nihil dignissimos dolorem rerum repellat sed.",
+							"Temporibus distinctio maiores qui repellat cumque enim.",
+							"Quas beatae id nihil non assumenda rem est.",
+							"YYYYYYYY",
+							"Sequi deleniti ut architecto.",
+							"SOLO CONTABLE",
+							"Quia asperiores voluptatem ad asperiores.",
+							"2019-Jun-28",
+							"EN PROCESO"
+						]
+					},
+					{
+						"id": "4",
+						"data": [
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"Et est aut est doloremque assumenda.",
+							"Accusantium doloribus ut.",
+							"TERCERO",
+							"RETIRO DEL PATRIMONIO",
+							"Est aliquam est ut tempora.",
+							"Cupiditate fugit incidunt voluptas est praesentium nulla.",
+							"Vel aut ea omnis.",
+							"Eaque consectetur veritatis itaque adipisci aut non nemo.",
+							"Maiores non rerum illo minus quia et corrupti.",
+							"Inventore consectetur deleniti voluptas nostrum.",
+							"YYYYYYYY",
+							"Enim ut est et iure repellat quod sed.",
+							"SOLO CONTABLE",
+							"Vitae molestias et distinctio hic enim.",
+							"2018-Jul-09",
+							"APLICADO PARCIAL"
+						]
+					},
+					{
+						"id": "5",
+						"data": [
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"Dolor quia et.",
+							"Hic aut possimus ut recusandae atque.",
+							"FIDEICOMISARIO",
+							"COMRA DE DIVISAS",
+							"Exercitationem ad quo.",
+							"Et qui rem recusandae omnis nisi corporis voluptas.",
+							"Velit non enim molestiae voluptates suscipit.",
+							"Doloribus ducimus aut harum architecto recusandae harum.",
+							"Nihil ipsa perferendis accusamus.",
+							"Dignissimos amet minus et voluptate vero voluptas.",
+							"YYYYYYYY",
+							"Excepturi occaecati aut.",
+							"NORMAL",
+							"Omnis ipsam commodi et quas.",
+							"2018-Jun-14",
+							"PENDIENTE"
+						]
+					},
+					{
+						"id": "6",
+						"data": [
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"Dolore voluptatem perspiciatis autem enim veniam accusantium.",
+							"Labore cumque non voluptatem iure.",
+							"FIDEICOMISARIO",
+							"PAGO A BENEFICIARIOS (CAPITAL)",
+							"Dolorem ut excepturi et repudiandae.",
+							"Aut consequatur placeat quia voluptatibus aperiam quia.",
+							"Eveniet assumenda sit natus nihil sunt.",
+							"Consequatur ex et.",
+							"Ut accusantium placeat at.",
+							"In qui consequuntur facilis accusamus odit.",
+							"YYYYYYYY",
+							"Ut officia et eum consectetur sit omnis necessitatibus.",
+							"NORMAL",
+							"Sit dolore tempore aut.",
+							"2019-Apr-19",
+							"PENDIENTE"
+						]
+					},
+					{
+						"id": "7",
+						"data": [
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"Rerum ab incidunt qui autem voluptatem.",
+							"Possimus voluptas molestias.",
+							"TERCERO",
+							"OTROS PAGOS (CAPITAL)",
+							"Repudiandae reprehenderit aut veniam tempore enim inventore.",
+							"Aliquid ex ducimus quibusdam eos non aliquid.",
+							"Ea facere quis molestiae nostrum et odio incidunt.",
+							"Non sit sequi dolorem nostrum rem.",
+							"Temporibus sint reprehenderit nostrum exercitationem.",
+							"Quibusdam ab suscipit inventore laborum laboriosam voluptatum.",
+							"YYYYYYYY",
+							"Non laborum qui laudantium dolor dignissimos voluptas.",
+							"NORMAL",
+							"Nam occaecati ipsa omnis corporis.",
+							"2018-Nov-02",
+							"APLICADO"
+						]
+					},
+					{
+						"id": "8",
+						"data": [
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"Possimus rerum aliquid nulla.",
+							"Sunt dolor culpa nihil.",
+							"TERCERO",
+							"PAGO DE LIQUIDACIÓN DIARIA",
+							"Eos aut atque fuga omnis.",
+							"Asperiores magni quia dolore minima quia.",
+							"Eius placeat quas.",
+							"Sit autem porro possimus accusantium earum veniam in.",
+							"Iste hic nostrum hic voluptate blanditiis.",
+							"Repudiandae sequi optio architecto.",
+							"YYYYYYYY",
+							"Molestias nihil aut.",
+							"NORMAL",
+							"Vel et et.",
+							"2019-Jul-08",
+							"APLICADO PARCIAL"
+						]
+					},
+					{
+						"id": "9",
+						"data": [
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"Placeat eius quidem provident dicta.",
+							"Quos et blanditiis.",
+							"FIDEICOMISARIO",
+							"PAGO DE IMPUESTOS Y CONTRIBUCIONES",
+							"Numquam aliquid officiis qui.",
+							"Dolorem totam commodi velit at ipsam.",
+							"Cupiditate voluptatem sed dolores perspiciatis ducimus odit fugiat.",
+							"Nobis quaerat vel natus alias voluptate.",
+							"Aut tempora aut et qui tenetur illo.",
+							"Aliquam et corporis.",
+							"YYYYYYYY",
+							"Eum sequi animi fuga sapiente amet quia fuga.",
+							"NORMAL",
+							"Consequatur non sunt praesentium.",
+							"2019-Sep-12",
+							"APLICADO"
+						]
+					},
+					{
+						"id": "10",
+						"data": [
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"Explicabo placeat exercitationem deleniti.",
+							"Error incidunt animi.",
+							"TERCERO",
+							"PAGO DE IMPUESTOS Y CONTRIBUCIONES",
+							"Explicabo ut perspiciatis numquam cumque consequuntur laudantium.",
+							"Delectus provident fuga corrupti et voluptas quas.",
+							"Quibusdam et animi excepturi dicta ea consequatur et.",
+							"Autem nihil veniam reprehenderit occaecati.",
+							"Non dolores aliquam velit molestiae facilis labore.",
+							"Voluptatem totam quod pariatur ut libero non fugiat.",
+							"YYYYYYYY",
+							"Est quas assumenda modi consequatur laboriosam velit.",
+							"NORMAL",
+							"Eos animi non est molestiae voluptatem.",
+							"2018-Jun-15",
+							"PENDIENTE"
+						]
+					}
+				]
+			}
+		]
+	}

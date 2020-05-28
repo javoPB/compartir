@@ -1,0 +1,138 @@
+{
+	"ids":[
+		{
+			"id": "accionista-results",
+			"headers": [
+			{ "label": "Accionista de" },
+			{ "label": "Nombre" },
+			{ "label": "RFC" },
+			{ "label": "% de Participación Accionaria" },
+			{ "label": "Tipo de Persona" },
+			{ "label": "Nacionalidad" },
+			{ "label": "Persona Políticamente Expuesta (PEP)" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"Hic nihil reprehenderit sit sed voluptatem. Ratione at possimus perferendis temporibus est velit. Sequi dignissimos debitis quidem deserunt repudiandae ad. Atque excepturi fuga exercitationem ut id harum sed. Velit quod ut blanditiis sit molestiae excepturi quis.",
+						"Quia qui ipsam sunt debitis quidem perferendis explicabo.",
+						"Quaerat quaerat vel unde.",
+						"Aut magnam similique repellendus cumque.",
+						"GOBIERNO",
+						"PERUANA",
+						"SI"
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"Iusto voluptates et deleniti provident aut et qui. Asperiores laboriosam facere harum similique. Dolorum voluptatem impedit reprehenderit maiores. Ex sunt eaque voluptates.",
+						"Aut quidem similique optio.",
+						"Asperiores tenetur totam sed qui.",
+						"Qui qui eligendi dolorum odit rem et quidem.",
+						"GOBIERNO",
+						"PERUANA",
+						"SI"
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"Porro nulla at ut quam excepturi. Ut reprehenderit qui impedit quis dicta sint nobis. Aut qui vero natus eum. Nihil dolore illum commodi eum aperiam quae fugit. Est voluptatem exercitationem nisi porro deleniti voluptate repellat.",
+						"Quisquam molestias consequatur sapiente mollitia iusto quia.",
+						"Sit odit molestias.",
+						"Ex deleniti quia temporibus nemo distinctio.",
+						"MORAL",
+						"PERUANA",
+						"NO"
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"Optio sed delectus culpa ipsam cumque ut. Animi ut nesciunt rerum. Sit cupiditate autem totam nam nostrum quia molestias.",
+						"Aut qui nulla et rem non totam.",
+						"Beatae magnam quas vitae et et magni animi.",
+						"Laboriosam iusto distinctio possimus aut reprehenderit quo.",
+						"FISICA",
+						"ESTADOUNIDENSE",
+						"NO"
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"Voluptate nam culpa distinctio veritatis quo. Voluptas voluptatem dolorum. Laboriosam est optio enim voluptate voluptatem. Unde placeat quaerat alias ducimus ut consequatur totam. Culpa tempora vel unde quasi rem.",
+						"Saepe qui magni et omnis eaque quisquam.",
+						"Et nobis dolor.",
+						"Nisi eum quam.",
+						"FISICA",
+						"ESTADOUNIDENSE",
+						"SI"
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"Voluptatibus iusto aut deleniti quis id qui. Error nostrum et. Vitae laborum ad. Facere iste a.",
+						"Nam laboriosam quibusdam.",
+						"Et sit quia nostrum deleniti sunt laudantium.",
+						"Rem delectus cumque.",
+						"GOBIERNO",
+						"COLOMBIANA",
+						"NO"
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"Soluta officiis exercitationem dolor unde. Doloremque et nisi vitae voluptates non illum. Et iusto eaque alias.",
+						"Similique quaerat nihil suscipit reprehenderit modi nihil esse.",
+						"Qui et tenetur corporis totam voluptatem laborum.",
+						"Itaque et at eum eligendi.",
+						"MORAL",
+						"COLOMBIANA",
+						"SI"
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"Nobis pariatur consequatur omnis molestiae. Molestiae officia blanditiis voluptatibus minus sunt iure. Facilis omnis omnis ab voluptatem inventore ut voluptates. Nostrum vero ea quia eius suscipit ut nulla.",
+						"Perferendis culpa officiis nisi.",
+						"Temporibus illo sed officia placeat aut labore.",
+						"Voluptatem fugit et aut eligendi provident ut cum.",
+						"MORAL",
+						"ESTADOUNIDENSE",
+						"SI"
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"Vel et vero esse dolorem voluptate praesentium. Necessitatibus quia illo hic. Consequatur autem ullam.",
+						"Expedita aut ab eveniet.",
+						"Officia ipsam saepe.",
+						"Ad vitae excepturi est ea iste.",
+						"FISICA",
+						"MEXICANA",
+						"SI"
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"Qui aut nemo. Labore rerum soluta. Officia molestiae velit earum esse voluptas. Ratione commodi consequuntur dolorem voluptas in.",
+						"Molestiae maiores unde ut incidunt rerum ut qui.",
+						"Numquam accusamus in perspiciatis.",
+						"Deserunt in ullam qui sit qui ut.",
+						"FISICA",
+						"PANAMEÑA",
+						"NO"
+					]
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,150 @@
+
+	{
+		"ids":[
+			{
+				"id": "carteraadeudo-results",
+				"headers": [
+				{ "label": "Honorarios Contrato" },
+				{ "label": "Folio adeudo" },
+				{ "label": "Calificación" },
+				{ "label": "Fecha de cálculo" },
+				{ "label": "Del" },
+				{ "label": "Al" },
+				{ "label": "Moneda" },
+				{ "label": "Importe" }
+				],
+				"rows": [
+					{
+						"id": "1",
+						"data": [
+							"YYYYYYYY",
+							"Perferendis quo sint ea fugiat tempore occaecati aliquid.",
+							"PENDIENTE",
+							"2018-Dec-22",
+							"2018-Dec-17",
+							"2019-Jun-03",
+							"MONEDA NACIONAL",
+							"Et quidem veritatis ut."
+						]
+					},
+					{
+						"id": "2",
+						"data": [
+							"YYYYYYYY",
+							"Blanditiis quibusdam vero.",
+							"PENDIENTE",
+							"2019-Mar-31",
+							"2019-Aug-11",
+							"2020-Feb-25",
+							"EUROS",
+							"Eum dicta itaque saepe repellendus."
+						]
+					},
+					{
+						"id": "3",
+						"data": [
+							"YYYYYYYY",
+							"Consectetur dolor dolor.",
+							"PENDIENTE",
+							"2018-Jul-02",
+							"2018-Nov-29",
+							"2019-Mar-21",
+							"MONEDA NACIONAL",
+							"Tempore dolores sit nam."
+						]
+					},
+					{
+						"id": "4",
+						"data": [
+							"YYYYYYYY",
+							"Non et quo quos rerum ut et.",
+							"PAGADO",
+							"2019-Jul-13",
+							"2018-May-31",
+							"2018-Nov-14",
+							"MONEDA NACIONAL",
+							"Ut sequi nobis."
+						]
+					},
+					{
+						"id": "5",
+						"data": [
+							"YYYYYYYY",
+							"Voluptatem ut dolorem necessitatibus.",
+							"PAGADO",
+							"2019-Mar-06",
+							"2019-May-03",
+							"2019-Sep-23",
+							"EUROS",
+							"Ea ducimus explicabo quidem magnam in consequatur."
+						]
+					},
+					{
+						"id": "6",
+						"data": [
+							"YYYYYYYY",
+							"Fugit id doloremque quod.",
+							"PENDIENTE",
+							"2019-Oct-11",
+							"2019-May-21",
+							"2020-May-22",
+							"DLS. U.S.A.",
+							"Illum unde est."
+						]
+					},
+					{
+						"id": "7",
+						"data": [
+							"YYYYYYYY",
+							"Voluptate reprehenderit optio enim fuga est illum.",
+							"PENDIENTE",
+							"2018-Oct-26",
+							"2020-Feb-16",
+							"2019-Jun-26",
+							"EUROS",
+							"Iusto omnis exercitationem."
+						]
+					},
+					{
+						"id": "8",
+						"data": [
+							"YYYYYYYY",
+							"Esse aliquam quas rerum modi quasi.",
+							"PAGADO",
+							"2020-Mar-13",
+							"2020-Apr-27",
+							"2020-Jan-02",
+							"EUROS",
+							"Autem quidem expedita est dolorem culpa est adipisci."
+						]
+					},
+					{
+						"id": "9",
+						"data": [
+							"YYYYYYYY",
+							"Sunt ipsa magnam doloremque ipsam voluptas sunt.",
+							"PENDIENTE",
+							"2019-Feb-05",
+							"2018-May-03",
+							"2019-Mar-04",
+							"EUROS",
+							"Velit ratione facilis."
+						]
+					},
+					{
+						"id": "10",
+						"data": [
+							"YYYYYYYY",
+							"Nesciunt odio excepturi quia eos velit repellendus.",
+							"PENDIENTE",
+							"2019-Jul-09",
+							"2020-Apr-05",
+							"2019-Feb-12",
+							"EUROS",
+							"Et ut ipsam natus voluptatibus sequi minima."
+						]
+					}
+				]
+			}
+		]
+	}

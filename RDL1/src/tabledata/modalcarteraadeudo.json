@@ -1,0 +1,149 @@
+{
+	"ids":[
+		{
+			"id": "carteraadeudo-results",
+			"headers": [
+			{ "label": "Honorarios Contrato" },
+			{ "label": "Folio adeudo" },
+			{ "label": "Calificación" },
+			{ "label": "Fecha de cálculo" },
+			{ "label": "Del" },
+			{ "label": "Al" },
+			{ "label": "Moneda" },
+			{ "label": "Importe" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"YYYYYYYY",
+						"Rem nihil fugit animi in cupiditate nisi rerum.",
+						"PAGADO",
+						"2019-Jan-08",
+						"2020-Mar-11",
+						"2019-Feb-20",
+						"EUROS",
+						"Modi magnam et sint esse consectetur quos."
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"YYYYYYYY",
+						"Natus at ut amet ullam voluptatem iste.",
+						"PAGADO",
+						"2019-Jan-15",
+						"2019-Sep-16",
+						"2019-Jan-30",
+						"EUROS",
+						"Sed placeat eum odit et."
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"YYYYYYYY",
+						"Eum molestiae et dolorum distinctio.",
+						"PAGADO",
+						"2018-Aug-03",
+						"2018-Sep-03",
+						"2019-May-21",
+						"DLS. U.S.A.",
+						"Nostrum et sit incidunt accusantium corrupti."
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"YYYYYYYY",
+						"Minus excepturi consequatur dolorum voluptas molestiae et adipisci.",
+						"PENDIENTE",
+						"2018-Nov-01",
+						"2018-Aug-13",
+						"2019-May-27",
+						"EUROS",
+						"Sunt quae quo reprehenderit."
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"YYYYYYYY",
+						"Delectus quam quo exercitationem odit quia autem.",
+						"PAGADO",
+						"2018-Nov-11",
+						"2018-May-02",
+						"2019-Aug-29",
+						"MONEDA NACIONAL",
+						"Est occaecati ipsa animi atque dignissimos aut."
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"YYYYYYYY",
+						"Quia laboriosam nihil.",
+						"PAGADO",
+						"2018-Aug-09",
+						"2020-Mar-04",
+						"2018-Mar-30",
+						"EUROS",
+						"Voluptas numquam et eos id."
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"YYYYYYYY",
+						"Quae atque voluptate officia.",
+						"PAGADO",
+						"2018-Apr-05",
+						"2019-Apr-02",
+						"2018-Dec-01",
+						"MONEDA NACIONAL",
+						"Asperiores ut blanditiis deserunt provident."
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"YYYYYYYY",
+						"Omnis voluptates temporibus.",
+						"PAGADO",
+						"2018-Aug-02",
+						"2018-Sep-16",
+						"2019-Mar-09",
+						"MONEDA NACIONAL",
+						"Dolorem atque esse illum voluptas est."
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"YYYYYYYY",
+						"Velit culpa quod dolorem est quas.",
+						"PAGADO",
+						"2018-Sep-02",
+						"2020-May-21",
+						"2020-Mar-10",
+						"EUROS",
+						"Corporis occaecati voluptatem est deserunt labore corrupti."
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"YYYYYYYY",
+						"Et molestias aut.",
+						"PAGADO",
+						"2018-Oct-08",
+						"2018-Dec-21",
+						"2019-May-05",
+						"DLS. U.S.A.",
+						"Accusamus et incidunt distinctio dolorem consequuntur."
+					]
+				}
+			]
+		}
+	]
+}

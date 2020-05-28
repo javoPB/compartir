@@ -1,0 +1,94 @@
+{
+	"ids":[
+		{
+			"id": "notario-results",
+			"headers": [
+{ "label": "NOTARIO01" },
+{ "label": "NOTARIO02" },
+{ "label": "NOTARIO03" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"NOTARIO 03",
+						"NOTARIO 02",
+						"NOTARIO 01"
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"NOTARIO 03",
+						"NOTARIO 02",
+						"NOTARIO 02"
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"NOTARIO 01",
+						"NOTARIO 01",
+						"NOTARIO 01"
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"NOTARIO 01",
+						"NOTARIO 01",
+						"NOTARIO 03"
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"NOTARIO 03",
+						"NOTARIO 03",
+						"NOTARIO 03"
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"NOTARIO 01",
+						"NOTARIO 02",
+						"NOTARIO 02"
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"NOTARIO 03",
+						"NOTARIO 03",
+						"NOTARIO 01"
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"NOTARIO 01",
+						"NOTARIO 01",
+						"NOTARIO 01"
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"NOTARIO 03",
+						"NOTARIO 03",
+						"NOTARIO 01"
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"NOTARIO 02",
+						"NOTARIO 02",
+						"NOTARIO 03"
+					]
+				}
+			]
+		}
+	]
+}

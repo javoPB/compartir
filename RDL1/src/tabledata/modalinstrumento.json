@@ -1,0 +1,226 @@
+{
+	"ids":[
+		{
+			"id": "instrumento-results",
+			"headers": [
+{ "label": "INT1" },
+{ "label": "INT2" },
+{ "label": "INT3" },
+{ "label": "INT4" },
+{ "label": "INT5" },
+{ "label": "INT6" },
+{ "label": "INT7" },
+{ "label": "INT8" },
+{ "label": "INT9" },
+{ "label": "INT10" },
+{ "label": "INT11" },
+{ "label": "INT12" },
+{ "label": "INT13" },
+{ "label": "INT14" },
+{ "label": "INT15" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"Trans o Inst Mont Unicamente Pago Honorarios PF/PM",
+						"Ints Mon > 1,000,000 mn -PF-",
+						"Trans Nac => 100,000 <= 500,000 mn -PF-",
+						"Trans Nac > 5,000,000 <= 1,000,000 mn -PM-",
+						"Trans Nac => 100,000 <= 500,000 mn -PF-",
+						"Inst Mon => 100,000 <= 500,000 mn -PF-",
+						"Trans Int > 5,000,000 = 1,000,000 mn -PM-",
+						"Inst Mon => 100,000 <= 500,000 mn -PF-",
+						"Trans Nac => 100,000 <= 500,000 mn -PF-",
+						"Ints Mon > 1,000,000 mn -PF-",
+						"Tans Nac > 100,000 mn -PF-",
+						"Trans Int => 100,000 <= 500,000 mn -PF-",
+						"Inst Mon < 99,000 mn -PF-",
+						"Tans Nac > 100,000 mn -PF-",
+						"Trans Nac 0 < 99,000 MN -PF-"
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"Tans Nac > 100,000 mn -PF-",
+						"Inst Mon < 99,000 mn -PF-",
+						"Trans Nac 0 < 99,000 MN -PF-",
+						"Trans Nac 0 < 99,000 MN -PF-",
+						"Inst Mon < 99,000 mn -PF-",
+						"Trans Nac > 5,000,000 <= 1,000,000 mn -PM-",
+						"Ints Mon > 1,000,000 mn -PF-",
+						"Inst Mon < 99,000 mn -PF-",
+						"Trans Int > 5,000,000 = 1,000,000 mn -PM-",
+						"Trans Nac > 5,000,000 <= 1,000,000 mn -PM-",
+						"Trans Int > 5,000,000 = 1,000,000 mn -PM-",
+						"Trans Int > 5,000,000 = 1,000,000 mn -PM-",
+						"Trans Nac => 250,000 <= 500,000 mn -PM-",
+						"Tans Nac > 100,000 mn -PF-",
+						"Ints Mon > 1,000,000 mn -PF-"
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"Trans o Inst Mont Unicamente Pago Honorarios PF/PM",
+						"Trans Int > 5,000,000 = 1,000,000 mn -PM-",
+						"Trans Nac => 250,000 <= 500,000 mn -PM-",
+						"Trans Int > 1,000,000 mn -PF-",
+						"Trans o Inst Mont Unicamente Pago Honorarios PF/PM",
+						"Trans Int < 99,000 mn -PF-",
+						"Trans Int > 5,000,000 = 1,000,000 mn -PM-",
+						"Trans Int => 250,000 <= 5,000,000 mn -PM-",
+						"Trans Nac 0 < 99,000 MN -PF-",
+						"Trans Int > 1,000,000 mn -PF-",
+						"Trans Nac => 250,000 <= 500,000 mn -PM-",
+						"Inst Mon < 99,000 mn -PF-",
+						"Trans Int > 1,000,000 mn -PF-",
+						"Trans Nac 0 < 99,000 MN -PF-",
+						"Ints Mon > 1,000,000 mn -PF-"
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"Trans Nac => 250,000 <= 500,000 mn -PM-",
+						"Trans Int > 1,000,000 mn -PF-",
+						"Tans Nac > 100,000 mn -PF-",
+						"Trans o Inst Mont Unicamente Pago Honorarios PF/PM",
+						"Trans Nac 0 < 99,000 MN -PF-",
+						"Trans Int => 250,000 <= 5,000,000 mn -PM-",
+						"Inst Mon => 100,000 <= 500,000 mn -PF-",
+						"Trans Nac > 5,000,000 <= 1,000,000 mn -PM-",
+						"Tans Nac > 100,000 mn -PF-",
+						"Trans o Inst Mont Unicamente Pago Honorarios PF/PM",
+						"Ints Mon > 1,000,000 mn -PF-",
+						"Trans Nac => 100,000 <= 500,000 mn -PF-",
+						"Trans Int > 1,000,000 mn -PF-",
+						"Trans Int => 100,000 <= 500,000 mn -PF-",
+						"Ints Mon > 1,000,000 mn -PF-"
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"Trans Nac 0 < 99,000 MN -PF-",
+						"Ints Mon > 1,000,000 mn -PF-",
+						"Ints Mon > 1,000,000 mn -PF-",
+						"Tans Nac > 100,000 mn -PF-",
+						"Trans Nac > 5,000,000 <= 1,000,000 mn -PM-",
+						"Ints Mon > 1,000,000 mn -PF-",
+						"Trans Nac => 250,000 <= 500,000 mn -PM-",
+						"Trans Nac > 5,000,000 <= 1,000,000 mn -PM-",
+						"Inst Mon => 100,000 <= 500,000 mn -PF-",
+						"Trans Int > 5,000,000 = 1,000,000 mn -PM-",
+						"Trans Int > 1,000,000 mn -PF-",
+						"Ints Mon > 1,000,000 mn -PF-",
+						"Trans Nac > 1,000,000 mn -PM-",
+						"Trans Int > 1,000,000 mn -PF-",
+						"Trans Int => 250,000 <= 5,000,000 mn -PM-"
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"Trans Nac 0 < 99,000 MN -PF-",
+						"Trans Nac > 1,000,000 mn -PM-",
+						"Trans Int => 100,000 <= 500,000 mn -PF-",
+						"Trans Int => 100,000 <= 500,000 mn -PF-",
+						"Inst Mon < 99,000 mn -PF-",
+						"Trans Int > 5,000,000 = 1,000,000 mn -PM-",
+						"Trans Nac > 5,000,000 <= 1,000,000 mn -PM-",
+						"Trans Int > 5,000,000 = 1,000,000 mn -PM-",
+						"Trans o Inst Mont Unicamente Pago Honorarios PF/PM",
+						"Inst Mon => 100,000 <= 500,000 mn -PF-",
+						"Ints Mon > 1,000,000 mn -PF-",
+						"Tans Nac > 100,000 mn -PF-",
+						"Trans o Inst Mont Unicamente Pago Honorarios PF/PM",
+						"Trans Int => 100,000 <= 500,000 mn -PF-",
+						"Trans Int < 99,000 mn -PF-"
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"Trans Int => 250,000 <= 5,000,000 mn -PM-",
+						"Inst Mon => 100,000 <= 500,000 mn -PF-",
+						"Trans Int => 250,000 <= 5,000,000 mn -PM-",
+						"Tans Nac > 100,000 mn -PF-",
+						"Trans Int < 99,000 mn -PF-",
+						"Trans Nac => 250,000 <= 500,000 mn -PM-",
+						"Trans o Inst Mont Unicamente Pago Honorarios PF/PM",
+						"Trans Nac => 250,000 <= 500,000 mn -PM-",
+						"Trans Int => 250,000 <= 5,000,000 mn -PM-",
+						"Trans Int => 250,000 <= 5,000,000 mn -PM-",
+						"Trans Int > 5,000,000 = 1,000,000 mn -PM-",
+						"Trans Nac 0 < 99,000 MN -PF-",
+						"Trans Nac > 1,000,000 mn -PM-",
+						"Trans Int => 100,000 <= 500,000 mn -PF-",
+						"Trans Nac => 250,000 <= 500,000 mn -PM-"
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"Tans Nac > 100,000 mn -PF-",
+						"Trans Int > 5,000,000 = 1,000,000 mn -PM-",
+						"Trans Int > 5,000,000 = 1,000,000 mn -PM-",
+						"Ints Mon > 1,000,000 mn -PF-",
+						"Inst Mon < 99,000 mn -PF-",
+						"Trans Int => 100,000 <= 500,000 mn -PF-",
+						"Ints Mon > 1,000,000 mn -PF-",
+						"Trans Int => 250,000 <= 5,000,000 mn -PM-",
+						"Inst Mon => 100,000 <= 500,000 mn -PF-",
+						"Trans o Inst Mont Unicamente Pago Honorarios PF/PM",
+						"Trans Int < 99,000 mn -PF-",
+						"Tans Nac > 100,000 mn -PF-",
+						"Tans Nac > 100,000 mn -PF-",
+						"Trans Int < 99,000 mn -PF-",
+						"Inst Mon < 99,000 mn -PF-"
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"Trans Nac > 5,000,000 <= 1,000,000 mn -PM-",
+						"Trans o Inst Mont Unicamente Pago Honorarios PF/PM",
+						"Trans Int < 99,000 mn -PF-",
+						"Trans Int => 250,000 <= 5,000,000 mn -PM-",
+						"Trans Int > 1,000,000 mn -PF-",
+						"Trans Int > 5,000,000 = 1,000,000 mn -PM-",
+						"Trans Nac => 250,000 <= 500,000 mn -PM-",
+						"Inst Mon < 99,000 mn -PF-",
+						"Trans Nac => 250,000 <= 500,000 mn -PM-",
+						"Inst Mon < 99,000 mn -PF-",
+						"Trans Nac 0 < 99,000 MN -PF-",
+						"Inst Mon < 99,000 mn -PF-",
+						"Trans Nac 0 < 99,000 MN -PF-",
+						"Trans Nac => 250,000 <= 500,000 mn -PM-",
+						"Inst Mon => 100,000 <= 500,000 mn -PF-"
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"Trans Nac > 5,000,000 <= 1,000,000 mn -PM-",
+						"Trans Nac => 250,000 <= 500,000 mn -PM-",
+						"Ints Mon > 1,000,000 mn -PF-",
+						"Trans Int > 1,000,000 mn -PF-",
+						"Trans Nac 0 < 99,000 MN -PF-",
+						"Ints Mon > 1,000,000 mn -PF-",
+						"Trans Int => 100,000 <= 500,000 mn -PF-",
+						"Trans Nac => 100,000 <= 500,000 mn -PF-",
+						"Trans Nac > 1,000,000 mn -PM-",
+						"Trans o Inst Mont Unicamente Pago Honorarios PF/PM",
+						"Trans Int < 99,000 mn -PF-",
+						"Trans Int < 99,000 mn -PF-",
+						"Ints Mon > 1,000,000 mn -PF-",
+						"Trans Int > 5,000,000 = 1,000,000 mn -PM-",
+						"Ints Mon > 1,000,000 mn -PF-"
+					]
+				}
+			]
+		}
+	]
+}

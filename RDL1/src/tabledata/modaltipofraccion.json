@@ -1,0 +1,116 @@
+{
+	"ids":[
+		{
+			"id": "tipofraccion-results",
+			"headers": [
+{ "label": "TIPO1" },
+{ "label": "TIPO2" },
+{ "label": "TIPO3" },
+{ "label": "TIPO4" },
+{ "label": "TIPO5" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"BODEGA",
+						"ESTACIONAMIENTO",
+						"CASA HABITACIÓN",
+						"ESTACIONAMIENTO",
+						"ESTACIONAMIENTO"
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"DEPARTAMENTO",
+						"DEPARTAMENTO",
+						"DEPARTAMENTO",
+						"BODEGA",
+						"CASA HABITACIÓN"
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"BODEGA",
+						"BODEGA",
+						"DEPARTAMENTO",
+						"CUARTO",
+						"DEPARTAMENTO"
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"DEPARTAMENTO",
+						"ESTACIONAMIENTO",
+						"BODEGA",
+						"BODEGA",
+						"DEPARTAMENTO"
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"CUARTO",
+						"BODEGA",
+						"BODEGA",
+						"ESTACIONAMIENTO",
+						"CASA HABITACIÓN"
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"ESTACIONAMIENTO",
+						"CUARTO",
+						"DEPARTAMENTO",
+						"CUARTO",
+						"ESTACIONAMIENTO"
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"DEPARTAMENTO",
+						"DEPARTAMENTO",
+						"BODEGA",
+						"BODEGA",
+						"CASA HABITACIÓN"
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"ESTACIONAMIENTO",
+						"ESTACIONAMIENTO",
+						"ESTACIONAMIENTO",
+						"BODEGA",
+						"CUARTO"
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"CUARTO",
+						"CASA HABITACIÓN",
+						"BODEGA",
+						"CASA HABITACIÓN",
+						"DEPARTAMENTO"
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"BODEGA",
+						"BODEGA",
+						"BODEGA",
+						"DEPARTAMENTO",
+						"ESTACIONAMIENTO"
+					]
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,105 @@
+{
+	"ids":[
+		{
+			"id": "intermediario-results",
+			"headers": [
+{ "label": "INTERMEDIARIO2" },
+{ "label": "INTERMEDIARIO3" },
+{ "label": "INTERMEDIARIO4" },
+{ "label": "INTERMEDIARIO5" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"BANSI, S.A.",
+						"BANSI, S.A.",
+						"BANCO INBURSA S.A.",
+						"BANSI, S.A."
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"BANAMEX, S.A.",
+						"BANCO INBURSA S.A.",
+						"BANAMEX, S.A.",
+						"BANSI, S.A."
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"BANCO INBURSA S.A.",
+						"BANCO INBURSA S.A.",
+						"BANSI, S.A.",
+						"BANSI, S.A."
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"BANSI, S.A.",
+						"HSBC MEXICO S.A.",
+						"BANCO INBURSA S.A.",
+						"BANCO INBURSA S.A."
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"BANAMEX, S.A.",
+						"BANSI, S.A.",
+						"BANAMEX, S.A.",
+						"BANSI, S.A."
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"BANSI, S.A.",
+						"BANSI, S.A.",
+						"BANSI, S.A.",
+						"BANSI, S.A."
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"HSBC MEXICO S.A.",
+						"BANCO INBURSA S.A.",
+						"BANSI, S.A.",
+						"HSBC MEXICO S.A."
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"HSBC MEXICO S.A.",
+						"BANSI, S.A.",
+						"BANAMEX, S.A.",
+						"HSBC MEXICO S.A."
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"BANCO INBURSA S.A.",
+						"BANCO INBURSA S.A.",
+						"BANSI, S.A.",
+						"BANCO INBURSA S.A."
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"BANCO INBURSA S.A.",
+						"BANAMEX, S.A.",
+						"BANCO INBURSA S.A.",
+						"BANAMEX, S.A."
+					]
+				}
+			]
+		}
+	]
+}

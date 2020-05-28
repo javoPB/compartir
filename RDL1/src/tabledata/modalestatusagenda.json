@@ -1,0 +1,83 @@
+{
+	"ids":[
+		{
+			"id": "estatusagenda-results",
+			"headers": [
+{ "label": "APLICADO" },
+{ "label": "ACTIVO" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"APLICADO",
+						"APLICADO"
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"APLICADO",
+						"APLICADO"
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"APLICADO",
+						"APLICADO"
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"APLICADO",
+						"ACTIVO"
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"APLICADO",
+						"ACTIVO"
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"APLICADO",
+						"ACTIVO"
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"ACTIVO",
+						"APLICADO"
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"ACTIVO",
+						"ACTIVO"
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"APLICADO",
+						"APLICADO"
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"APLICADO",
+						"APLICADO"
+					]
+				}
+			]
+		}
+	]
+}

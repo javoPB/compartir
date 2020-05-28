@@ -1,0 +1,259 @@
+{
+	"ids":[
+		{
+			"id": "pagos-results",
+			"headers": [
+			{ "label": "Instrucción" },
+			{ "label": "Fideicomiso" },
+			{ "label": "Importe instrucción" },
+			{ "label": "Movimientos" },
+			{ "label": "Tipo persona" },
+			{ "label": "Concepto de pago" },
+			{ "label": "Clave" },
+			{ "label": "Nombre" },
+			{ "label": "Forma de liquidación" },
+			{ "label": "Tipo de pago" },
+			{ "label": "Datos concentradora" },
+			{ "label": "Descripción complementaria" },
+			{ "label": "Sub fiso" },
+			{ "label": "Importe Total" },
+			{ "label": "Estatus de operación" },
+			{ "label": "Importe" },
+			{ "label": "Fecha a liquidar" },
+			{ "label": "Estatus" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"Tempora itaque velit eum aliquid ducimus qui ut.",
+						"Qui corporis ut nobis.",
+						"FIDEICOMISARIO",
+						"PAGO DE LIQUIDACIÓN DIARIA",
+						"Omnis ut aut totam veritatis aut debitis harum.",
+						"Dolores totam dolore rerum.",
+						"Optio illo quo nemo et eos dolores.",
+						"Harum dolorem quia ratione voluptatem nulla temporibus veritatis.",
+						"Ut numquam aut nisi officia illo aut vitae.",
+						"Voluptas voluptatem aliquid et.",
+						"YYYYYYYY",
+						"Aspernatur repudiandae amet recusandae veniam fuga.",
+						"SOLO CONTABLE",
+						"Ipsam amet quibusdam quia dolorem.",
+						"2019-Sep-28",
+						"EN PROCESO"
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"Magnam ea labore reiciendis ut quos.",
+						"Cumque eos et quia reprehenderit.",
+						"TERCERO",
+						"PAGO A BENEFICIARIOS (CAPITAL)",
+						"Esse mollitia officiis aperiam sed delectus unde voluptas.",
+						"Voluptas explicabo at.",
+						"Adipisci dolorum excepturi illum.",
+						"Id ipsa et itaque quidem similique placeat.",
+						"Voluptatem voluptate voluptas.",
+						"Unde et molestiae nihil quis sed.",
+						"YYYYYYYY",
+						"Repellat repudiandae et quidem et libero temporibus.",
+						"NORMAL",
+						"Dolore facilis vel.",
+						"2020-Apr-17",
+						"EN PROCESO"
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"Earum est enim perspiciatis et.",
+						"Eos consequatur aut voluptatem ut.",
+						"FIDEICOMISARIO",
+						"PAGO A BENEFICIARIOS (CAPITAL)",
+						"Saepe impedit aspernatur.",
+						"A quas asperiores.",
+						"Officia qui officiis dignissimos.",
+						"Ipsum animi velit eius et deserunt architecto reiciendis.",
+						"Consequatur et molestiae omnis facilis asperiores qui.",
+						"Repellat laboriosam consectetur repellat beatae velit voluptas harum.",
+						"YYYYYYYY",
+						"Aliquam qui sed ut corrupti.",
+						"SOLO CONTABLE",
+						"Aperiam ut est odit.",
+						"2018-Mar-30",
+						"EN PROCESO"
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"Quis earum repellendus facere nihil rerum.",
+						"Eos sed et placeat autem molestiae consequatur.",
+						"TERCERO",
+						"COMRA DE DIVISAS",
+						"Eligendi corrupti earum dolor.",
+						"Harum ut omnis.",
+						"At enim culpa laboriosam sint sed natus architecto.",
+						"Unde reprehenderit quo modi maiores sed omnis.",
+						"Quasi saepe dolores quos magnam illum qui dolores.",
+						"Maxime consectetur iure exercitationem provident suscipit nihil.",
+						"YYYYYYYY",
+						"Et iste eveniet sunt non.",
+						"NORMAL",
+						"Dolore quidem consequatur dolorum eum quas modi placeat.",
+						"2020-Jan-19",
+						"PENDIENTE"
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"Beatae dolorem sed eum quo provident.",
+						"Deserunt exercitationem ad consequatur et deserunt.",
+						"TERCERO",
+						"COMRA DE DIVISAS",
+						"Vitae ducimus laudantium voluptas qui quia.",
+						"Ut veritatis nihil officia.",
+						"Nisi beatae corporis neque placeat dicta eius.",
+						"Accusamus ad dolor ut ea assumenda qui qui.",
+						"Alias corporis temporibus vero sapiente omnis quis itaque.",
+						"Qui atque quia aut.",
+						"YYYYYYYY",
+						"Sit exercitationem ipsam.",
+						"NORMAL",
+						"Aut ut deserunt sequi aspernatur sunt et aut.",
+						"2020-Feb-16",
+						"EN PROCESO"
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"Et nulla qui harum possimus.",
+						"Sed non unde distinctio ex non.",
+						"FIDEICOMISARIO",
+						"APLICACIÓN EFECTIVO DE FIDEICOMISOS EXTINGUIDOS",
+						"Similique natus et.",
+						"Id rerum maxime labore qui accusamus ipsum debitis.",
+						"Velit qui porro recusandae harum tempora nemo explicabo.",
+						"Alias ea et quas animi porro.",
+						"Omnis qui rerum animi quas doloremque tempore.",
+						"Aut aut tempora.",
+						"YYYYYYYY",
+						"Repellendus veniam deserunt sed asperiores ratione autem.",
+						"SOLO CONTABLE",
+						"Odit omnis porro molestiae.",
+						"2018-Dec-07",
+						"EN PROCESO"
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"Fugit magnam accusamus.",
+						"Eveniet autem accusantium dolorum ut excepturi nihil minus.",
+						"FIDEICOMISARIO",
+						"PAGO DE IMPUESTOS Y CONTRIBUCIONES",
+						"A asperiores suscipit.",
+						"Fugit voluptates id.",
+						"Quis sed cumque placeat.",
+						"Placeat doloremque magnam earum enim accusamus aliquid.",
+						"Id neque asperiores voluptatem fugiat quos et quia.",
+						"Voluptatem illo provident recusandae.",
+						"YYYYYYYY",
+						"Earum accusamus id natus et aut quae.",
+						"SOLO CONTABLE",
+						"Sunt veritatis ipsam est est sed.",
+						"2018-Nov-19",
+						"CANCELADO"
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"Vel suscipit dicta omnis.",
+						"Cum ratione dolor.",
+						"TERCERO",
+						"OTROS PAGOS (RESULTADOS)",
+						"Minima in eaque rem.",
+						"Et dicta est molestiae.",
+						"Ex dolorem necessitatibus porro.",
+						"Omnis animi at esse velit.",
+						"Quia ab est ea illum.",
+						"Non corporis officia veniam ut.",
+						"YYYYYYYY",
+						"Nihil quas debitis rem eos.",
+						"NORMAL",
+						"Corrupti voluptatibus vel saepe enim.",
+						"2020-Mar-03",
+						"CANCELADO"
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"Vel culpa repellat.",
+						"Aut voluptas adipisci dolores.",
+						"FIDEICOMISARIO",
+						"OTROS PAGOS (RESULTADOS)",
+						"Velit est et mollitia voluptatibus itaque id laudantium.",
+						"Culpa sint voluptatem iste et accusantium ducimus id.",
+						"Consequuntur natus nam earum saepe quibusdam sed.",
+						"Sunt sed quia.",
+						"Velit autem autem nulla quidem nesciunt dolorem quis.",
+						"Perferendis laudantium voluptas corporis quod ex ea veritatis.",
+						"YYYYYYYY",
+						"Voluptatem ab repellendus eos dolores quia et velit.",
+						"SOLO CONTABLE",
+						"Et in voluptate quas dolores animi.",
+						"2019-Jul-29",
+						"PENDIENTE"
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"Tenetur rerum ut iusto numquam laboriosam reiciendis molestiae.",
+						"Et ipsam qui nesciunt.",
+						"TERCERO",
+						"PAGO A BENEFICIARIOS (CAPITAL)",
+						"Voluptas sed delectus sunt et doloremque dolorem.",
+						"Ipsam provident possimus laboriosam exercitationem iste.",
+						"Consequatur modi sunt porro corporis eius ad quas.",
+						"Aliquid cumque totam earum corporis.",
+						"Aut ullam ratione est.",
+						"Vitae nihil consectetur cum voluptas enim unde aliquid.",
+						"YYYYYYYY",
+						"Molestias officiis voluptatum delectus sed.",
+						"NORMAL",
+						"Rem repudiandae consequatur.",
+						"2018-Mar-22",
+						"CANCELADO"
+					]
+				}
+			]
+		}
+	]
+}

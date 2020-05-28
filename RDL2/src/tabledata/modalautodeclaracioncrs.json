@@ -1,0 +1,128 @@
+
+	{
+		"ids":[
+			{
+				"id": "autodeclaracioncrs-results",
+				"headers": [
+				{ "label": "Fideicomiso" },
+				{ "label": "Numero" },
+				{ "label": "Nombre" },
+				{ "label": "Tipo Persona" },
+				{ "label": "Tipo Participante" },
+				{ "label": "Formato CRS" }
+				],
+				"rows": [
+					{
+						"id": "1",
+						"data": [
+							"YYYYYYYY",
+							"Ad qui illo laboriosam similique officiis voluptates.",
+							"Ea nam quia similique facere.",
+							"FISICA",
+							"FIDEICOMITENTE",
+							"Exercitationem fugiat et sint."
+						]
+					},
+					{
+						"id": "2",
+						"data": [
+							"YYYYYYYY",
+							"Quia ea soluta suscipit.",
+							"Id necessitatibus rerum amet ut dolor culpa.",
+							"MORAL",
+							"FIDEICOMITENTE",
+							"Voluptatem praesentium sed velit ut quos eum."
+						]
+					},
+					{
+						"id": "3",
+						"data": [
+							"YYYYYYYY",
+							"Aliquam nemo voluptas tenetur vero.",
+							"Qui sapiente expedita vitae ratione.",
+							"GOBIERNO",
+							"FIDEICOMITENTE",
+							"Aliquam numquam harum autem aut."
+						]
+					},
+					{
+						"id": "4",
+						"data": [
+							"YYYYYYYY",
+							"Deserunt aperiam perferendis.",
+							"Quia alias temporibus voluptatem dolorum odit consequatur.",
+							"GOBIERNO",
+							"FIDEICOMITENTE",
+							"Perferendis cum distinctio."
+						]
+					},
+					{
+						"id": "5",
+						"data": [
+							"YYYYYYYY",
+							"Debitis rerum iure in laboriosam magnam cum corrupti.",
+							"Eaque enim et.",
+							"MORAL",
+							"FIDEICOMITENTE",
+							"Debitis itaque officia nisi eligendi cum dolores."
+						]
+					},
+					{
+						"id": "6",
+						"data": [
+							"YYYYYYYY",
+							"Rem rerum aut dolorem.",
+							"Veritatis dolor voluptatem consequuntur ducimus.",
+							"GOBIERNO",
+							"FIDEICOMITENTE",
+							"Totam dolores iste velit ut quas ut."
+						]
+					},
+					{
+						"id": "7",
+						"data": [
+							"YYYYYYYY",
+							"Adipisci dolorem est reprehenderit natus et est.",
+							"Hic nobis inventore quia ut.",
+							"GOBIERNO",
+							"FIDEICOMITENTE",
+							"Qui odio ut sequi inventore accusantium adipisci."
+						]
+					},
+					{
+						"id": "8",
+						"data": [
+							"YYYYYYYY",
+							"Officiis qui consequatur quisquam quam omnis qui recusandae.",
+							"Voluptate ipsum officia qui.",
+							"GOBIERNO",
+							"FIDEICOMITENTE",
+							"Impedit blanditiis ut harum quod qui."
+						]
+					},
+					{
+						"id": "9",
+						"data": [
+							"YYYYYYYY",
+							"Illum quis ea et perferendis eligendi qui.",
+							"Tempore est voluptas aut eveniet totam non.",
+							"GOBIERNO",
+							"FIDEICOMITENTE",
+							"Ex et repellendus esse quo et."
+						]
+					},
+					{
+						"id": "10",
+						"data": [
+							"YYYYYYYY",
+							"Quasi nihil voluptas nihil aperiam architecto.",
+							"Eius et aut recusandae magnam.",
+							"GOBIERNO",
+							"FIDEICOMITENTE",
+							"Eos fugit esse."
+						]
+					}
+				]
+			}
+		]
+	}

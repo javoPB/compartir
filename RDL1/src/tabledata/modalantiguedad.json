@@ -1,0 +1,94 @@
+{
+	"ids":[
+		{
+			"id": "antiguedad-results",
+			"headers": [
+{ "label": "SIN" },
+{ "label": "MENOSUNO" },
+{ "label": "UNOTRES" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"ENTRE UNO Y TRES",
+						"SIN ANTIGUEDAD",
+						"ENTRE UNO Y TRES"
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"ENTRE UNO Y TRES",
+						"ENTRE UNO Y TRES",
+						"MENOS DE UN AÑO"
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"MENOS DE UN AÑO",
+						"MENOS DE UN AÑO",
+						"SIN ANTIGUEDAD"
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"ENTRE UNO Y TRES",
+						"MENOS DE UN AÑO",
+						"ENTRE UNO Y TRES"
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"SIN ANTIGUEDAD",
+						"ENTRE UNO Y TRES",
+						"ENTRE UNO Y TRES"
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"MENOS DE UN AÑO",
+						"ENTRE UNO Y TRES",
+						"SIN ANTIGUEDAD"
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"SIN ANTIGUEDAD",
+						"ENTRE UNO Y TRES",
+						"SIN ANTIGUEDAD"
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"ENTRE UNO Y TRES",
+						"MENOS DE UN AÑO",
+						"SIN ANTIGUEDAD"
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"ENTRE UNO Y TRES",
+						"MENOS DE UN AÑO",
+						"MENOS DE UN AÑO"
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"MENOS DE UN AÑO",
+						"ENTRE UNO Y TRES",
+						"ENTRE UNO Y TRES"
+					]
+				}
+			]
+		}
+	]
+}

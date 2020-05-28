@@ -1,0 +1,183 @@
+
+	{
+		"ids":[
+			{
+				"id": "compradirecto-results",
+				"headers": [
+				{ "label": "Instrucción" },
+				{ "label": "Activos" },
+				{ "label": "Mercado" },
+				{ "label": "Instrumento" },
+				{ "label": "Moneda" },
+				{ "label": "Fideicomiso" },
+				{ "label": "Contrato de inversión" },
+				{ "label": "Emisiones" },
+				{ "label": "Serie" },
+				{ "label": "Pizarra/Clave de cotización" },
+				{ "label": "Cupón" }
+				],
+				"rows": [
+					{
+						"id": "1",
+						"data": [
+							"YYYYYYYY",
+							"Aumento de activos",
+							"SOCIEDADES DE INVERSIÓN",
+							"INVERSIÓN GLOBAL",
+							"DLS. U.S.A.",
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"CHEQUES GL 0 0",
+							"Mollitia rerum ab dolore culpa impedit.",
+							"Natus aliquam excepturi non velit ratione soluta occaecati.",
+							"Nemo quaerat expedita qui dignissimos ducimus quis."
+						]
+					},
+					{
+						"id": "2",
+						"data": [
+							"YYYYYYYY",
+							"Aumento de activos",
+							"SOCIEDADES DE INVERSIÓN",
+							"INVERSIÓN GLOBAL EN INST. FINANCIERAS DEL PAÍS",
+							"MONEDA NACIONAL",
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"53 1 0",
+							"Similique reiciendis id est.",
+							"Doloribus ipsam quia.",
+							"Pariatur id eveniet accusamus alias veniam."
+						]
+					},
+					{
+						"id": "3",
+						"data": [
+							"YYYYYYYY",
+							"Disminución de activos",
+							"SOCIEDADES DE INVERSIÓN",
+							"INVERSIÓN GLOBAL EN INST. FINANCIERAS DEL PAÍS",
+							"DLS. U.S.A.",
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"INV GLOBAL 0 0",
+							"Eum esse sed et at sed.",
+							"Repudiandae nihil esse doloremque eos.",
+							"Eum consectetur repellendus tempore corrupti delectus distinctio alias."
+						]
+					},
+					{
+						"id": "4",
+						"data": [
+							"YYYYYYYY",
+							"Disminución de activos",
+							"SOCIEDADES DE INVERSIÓN",
+							"DEPÓSITO A LA VISTA",
+							"DLS. U.S.A.",
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"53 1 0",
+							"Minima nesciunt pariatur sequi aut rerum veniam totam.",
+							"Alias et quis.",
+							"Libero ducimus quo."
+						]
+					},
+					{
+						"id": "5",
+						"data": [
+							"YYYYYYYY",
+							"Aumento de activos",
+							"MERCADO DE CAPITALES",
+							"INVERSIÓN GLOBAL EN INST. FINANCIERAS DEL PAÍS",
+							"EUROS",
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"1 1 0",
+							"Illo velit est qui sit perferendis.",
+							"Nihil quod impedit nulla et voluptatem maxime.",
+							"Iure excepturi qui sed."
+						]
+					},
+					{
+						"id": "6",
+						"data": [
+							"YYYYYYYY",
+							"Aumento de activos",
+							"MERCADO DESCONOCIDO",
+							"INVERSIÓN GLOBAL",
+							"DLS. U.S.A.",
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"53 1 0",
+							"Est qui autem commodi quidem.",
+							"Tempora nesciunt tempore ipsum quae sint debitis.",
+							"Corrupti est molestiae aperiam."
+						]
+					},
+					{
+						"id": "7",
+						"data": [
+							"YYYYYYYY",
+							"Aumento de activos",
+							"MERCADO BANCARIO",
+							"INVERSIÓN GLOBAL EN INST. FINANCIERAS DEL PAÍS",
+							"DLS. U.S.A.",
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"53 1 0",
+							"Debitis et quasi velit sint architecto ut.",
+							"Sed officia tempora nihil vel enim optio.",
+							"Adipisci incidunt quidem doloremque voluptas."
+						]
+					},
+					{
+						"id": "8",
+						"data": [
+							"YYYYYYYY",
+							"Aumento de activos",
+							"MERCADO DE DINERO",
+							"INVERSIÓN GLOBAL EN INST. FINANCIERAS DEL PAÍS",
+							"EUROS",
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"1 1 0",
+							"Aut minima eligendi necessitatibus doloribus.",
+							"Perspiciatis necessitatibus voluptatem sunt assumenda ipsam iure.",
+							"Ipsa voluptas consequatur illum temporibus quia ut eveniet."
+						]
+					},
+					{
+						"id": "9",
+						"data": [
+							"YYYYYYYY",
+							"Aumento de activos",
+							"INVERSIONES POR LIQUIDAR",
+							"INVERSIÓN GLOBAL",
+							"EUROS",
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"53 1 0",
+							"Rem iure voluptas et.",
+							"Veniam fuga quaerat est.",
+							"Ipsa est atque consequatur inventore animi adipisci."
+						]
+					},
+					{
+						"id": "10",
+						"data": [
+							"YYYYYYYY",
+							"Disminución de activos",
+							"MERCADO DESCONOCIDO",
+							"INVERSIÓN GLOBAL",
+							"MONEDA NACIONAL",
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"53 1 0",
+							"Quia eius odit quidem ab nihil inventore.",
+							"Cum ex quo voluptas vel porro inventore.",
+							"Cum quia enim."
+						]
+					}
+				]
+			}
+		]
+	}

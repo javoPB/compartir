@@ -1,0 +1,94 @@
+{
+	"ids":[
+		{
+			"id": "clasificacioninstruccion-results",
+			"headers": [
+{ "label": "NOMON" },
+{ "label": "MON" },
+{ "label": "ADMIN" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"ADMINISTRATIVAS",
+						"NO MONETARIAS",
+						"ADMINISTRATIVAS"
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"NO MONETARIAS",
+						"NO MONETARIAS",
+						"ADMINISTRATIVAS"
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"NO MONETARIAS",
+						"NO MONETARIAS",
+						"NO MONETARIAS"
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"NO MONETARIAS",
+						"NO MONETARIAS",
+						"NO MONETARIAS"
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"MONETARIA",
+						"MONETARIA",
+						"MONETARIA"
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"NO MONETARIAS",
+						"NO MONETARIAS",
+						"NO MONETARIAS"
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"NO MONETARIAS",
+						"ADMINISTRATIVAS",
+						"NO MONETARIAS"
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"ADMINISTRATIVAS",
+						"ADMINISTRATIVAS",
+						"NO MONETARIAS"
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"ADMINISTRATIVAS",
+						"MONETARIA",
+						"ADMINISTRATIVAS"
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"ADMINISTRATIVAS",
+						"MONETARIA",
+						"NO MONETARIAS"
+					]
+				}
+			]
+		}
+	]
+}

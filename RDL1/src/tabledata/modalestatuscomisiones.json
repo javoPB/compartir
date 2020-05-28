@@ -1,0 +1,149 @@
+{
+	"ids":[
+		{
+			"id": "estatuscomisiones-results",
+			"headers": [
+{ "label": "ESTCOM1" },
+{ "label": "ESTCOM2" },
+{ "label": "ESTCOM3" },
+{ "label": "ESTCOM4" },
+{ "label": "ESTCOM5" },
+{ "label": "ESTCOM6" },
+{ "label": "ESTCOM7" },
+{ "label": "ESTCOM8" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"RECONOCIM. VIA GESTION",
+						"SUSPENDIDO",
+						"ACTIVO",
+						"ACTIVO",
+						"SUSPENDIDO CON INMUEBLES",
+						"EN TRAMITE DE EXTINCION",
+						"ACTIVO",
+						"EXENTO"
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"SUSPENDIDO CON INMUEBLES",
+						"RECONOCIM. VIA GESTION",
+						"SUSPENDIDO CON INMUEBLES",
+						"RECONOCIM. VIA GESTION",
+						"SUSPENDIDO",
+						"A PARTIR DEL 2o. AÑO",
+						"EN TRAMITE DE EXTINCION",
+						"RECONOCIM. VIA GESTION"
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"EN TRAMITE DE EXTINCION",
+						"A PARTIR DEL 2o. AÑO",
+						"A PARTIR DEL 2o. AÑO",
+						"RECONOCIM. VIA GESTION",
+						"A PARTIR DEL 2o. AÑO",
+						"RECONOCIM. VIA GESTION",
+						"ACTIVO",
+						"EN TRAMITE DE EXTINCION"
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"RECONOCIM. VIA GESTION",
+						"SUSPENDIDO",
+						"SUSPENDIDO",
+						"SUSPENDIDO",
+						"RECONOCIM. VIA GESTION",
+						"A PARTIR DEL 2o. AÑO",
+						"SUSPENDIDO",
+						"RECONOCIM. VIA GESTION"
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"SUSPENDIDO CON INMUEBLES",
+						"RECONOCIM. VIA GESTION",
+						"A PARTIR DEL 2o. AÑO",
+						"SUSPENDIDO CON INMUEBLES",
+						"SUSPENDIDO CON INMUEBLES",
+						"ANORMAL",
+						"ANORMAL",
+						"SUSPENDIDO"
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"EN TRAMITE DE EXTINCION",
+						"A PARTIR DEL 2o. AÑO",
+						"EXENTO",
+						"RECONOCIM. VIA GESTION",
+						"ACTIVO",
+						"ACTIVO",
+						"RECONOCIM. VIA GESTION",
+						"EXENTO"
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"A PARTIR DEL 2o. AÑO",
+						"RECONOCIM. VIA GESTION",
+						"RECONOCIM. VIA GESTION",
+						"SUSPENDIDO CON INMUEBLES",
+						"RECONOCIM. VIA GESTION",
+						"ACTIVO",
+						"SUSPENDIDO CON INMUEBLES",
+						"SUSPENDIDO CON INMUEBLES"
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"EXENTO",
+						"RECONOCIM. VIA GESTION",
+						"ANORMAL",
+						"ACTIVO",
+						"ANORMAL",
+						"EXENTO",
+						"ACTIVO",
+						"SUSPENDIDO"
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"SUSPENDIDO",
+						"ACTIVO",
+						"A PARTIR DEL 2o. AÑO",
+						"SUSPENDIDO",
+						"RECONOCIM. VIA GESTION",
+						"SUSPENDIDO CON INMUEBLES",
+						"RECONOCIM. VIA GESTION",
+						"ACTIVO"
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"EN TRAMITE DE EXTINCION",
+						"A PARTIR DEL 2o. AÑO",
+						"SUSPENDIDO CON INMUEBLES",
+						"EXENTO",
+						"EXENTO",
+						"SUSPENDIDO",
+						"EN TRAMITE DE EXTINCION",
+						"A PARTIR DEL 2o. AÑO"
+					]
+				}
+			]
+		}
+	]
+}

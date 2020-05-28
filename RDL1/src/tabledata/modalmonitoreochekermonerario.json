@@ -1,0 +1,182 @@
+{
+	"ids":[
+		{
+			"id": "monitoreochekermonerario-results",
+			"headers": [
+			{ "label": "Fideicomiso" },
+			{ "label": "Sub fiso" },
+			{ "label": "Folio de operación" },
+			{ "label": "Importe" },
+			{ "label": "Fecha de operación" },
+			{ "label": "Total Pagos" },
+			{ "label": "Liq" },
+			{ "label": "Cont" },
+			{ "label": "Pend" },
+			{ "label": "Error" },
+			{ "label": "Estatus" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"Ipsam quis veritatis quia debitis deserunt.",
+						"Sit vel a quo quaerat.",
+						"Nobis nostrum necessitatibus consequatur.",
+						"Distinctio unde consequatur suscipit necessitatibus.",
+						"5,878",
+						"118",
+						"64",
+						"1,099",
+						"APLICADO"
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"Molestiae et quo ut harum ipsa rerum.",
+						"Iure et aut ab possimus esse.",
+						"Sit architecto et voluptate nemo.",
+						"Deserunt quia maiores placeat omnis hic.",
+						"528",
+						"2,009",
+						"2,120",
+						"7,070",
+						"EN PROCESO"
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"Rerum nemo quia nam incidunt.",
+						"Iusto recusandae eius.",
+						"Vero dolorum consequatur quaerat velit est eum numquam.",
+						"Officia cupiditate consequatur alias eos et quia.",
+						"8,901",
+						"1,824",
+						"4,372",
+						"1,492",
+						"CANCELADO"
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"Omnis eveniet et aut voluptatibus reiciendis.",
+						"Quas aliquam officiis.",
+						"Omnis deleniti quia sequi dolores quis aliquid rem.",
+						"Aut impedit qui at consequatur.",
+						"4,110",
+						"243",
+						"702",
+						"1,985",
+						"APLICADO"
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"Atque assumenda sit.",
+						"Quaerat consequatur eum id.",
+						"Quibusdam autem omnis sunt soluta non nam.",
+						"Ut sequi deleniti nihil.",
+						"4,140",
+						"2,474",
+						"3,852",
+						"426",
+						"CANCELADO"
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"Non a ea.",
+						"Repellat quis aliquam voluptas incidunt temporibus velit eum.",
+						"Doloribus voluptatum ratione molestiae fugit autem facilis molestiae.",
+						"Qui quo nisi numquam.",
+						"7,943",
+						"3,712",
+						"2,969",
+						"330",
+						"APLICADO PARCIAL"
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"Enim rerum dolor et blanditiis totam.",
+						"Autem laborum et et numquam.",
+						"Minima magni enim modi vitae ea.",
+						"Distinctio perferendis sint.",
+						"3,050",
+						"6,202",
+						"290",
+						"544",
+						"CANCELADO"
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"Similique et corporis ex et odio.",
+						"Aliquam non facilis nemo incidunt.",
+						"Id quidem ratione nesciunt sit.",
+						"Ut velit earum voluptas praesentium voluptatum.",
+						"760",
+						"1,034",
+						"656",
+						"8,492",
+						"APLICADO"
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"Quia voluptates deserunt omnis.",
+						"Optio illum quis veritatis accusamus quia accusantium accusantium.",
+						"Quia ut et velit magni iure earum.",
+						"Maxime quam eveniet fugiat.",
+						"3,017",
+						"1,316",
+						"8,852",
+						"8,478",
+						"APLICADO"
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"Consectetur corporis ducimus ipsam enim error autem et.",
+						"Maxime et dolorum id est voluptas.",
+						"Magni placeat et et quo et.",
+						"Occaecati amet vero placeat ipsa.",
+						"7,726",
+						"795",
+						"8,840",
+						"2,493",
+						"APLICADO"
+					]
+				}
+			]
+		}
+	]
+}

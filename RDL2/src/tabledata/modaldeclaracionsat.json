@@ -1,0 +1,95 @@
+
+	{
+		"ids":[
+			{
+				"id": "declaracionsat-results",
+				"headers": [
+				{ "label": "Inicio del ejercicio fiscal reportado" },
+				{ "label": "Tipo de declaración" },
+				{ "label": "Fin del ejercicio fiscal reportado" }
+				],
+				"rows": [
+					{
+						"id": "1",
+						"data": [
+							"2019-Jan-14",
+							"NORMAL",
+							"2019-May-23"
+						]
+					},
+					{
+						"id": "2",
+						"data": [
+							"2018-Dec-01",
+							"COMPLEMENTARIA",
+							"2020-Jan-21"
+						]
+					},
+					{
+						"id": "3",
+						"data": [
+							"2018-Aug-12",
+							"COMPLEMENTARIA",
+							"2018-May-01"
+						]
+					},
+					{
+						"id": "4",
+						"data": [
+							"2020-Jan-18",
+							"NORMAL",
+							"2018-Aug-29"
+						]
+					},
+					{
+						"id": "5",
+						"data": [
+							"2020-May-12",
+							"COMPLEMENTARIA",
+							"2019-Aug-19"
+						]
+					},
+					{
+						"id": "6",
+						"data": [
+							"2020-Mar-07",
+							"NORMAL",
+							"2019-Oct-09"
+						]
+					},
+					{
+						"id": "7",
+						"data": [
+							"2020-Apr-15",
+							"COMPLEMENTARIA",
+							"2019-Mar-29"
+						]
+					},
+					{
+						"id": "8",
+						"data": [
+							"2018-Jul-28",
+							"COMPLEMENTARIA",
+							"2019-Mar-25"
+						]
+					},
+					{
+						"id": "9",
+						"data": [
+							"2020-Apr-13",
+							"COMPLEMENTARIA",
+							"2018-Dec-20"
+						]
+					},
+					{
+						"id": "10",
+						"data": [
+							"2019-Dec-28",
+							"NORMAL",
+							"2019-Apr-08"
+						]
+					}
+				]
+			}
+		]
+	}

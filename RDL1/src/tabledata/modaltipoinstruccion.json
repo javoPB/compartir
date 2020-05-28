@@ -1,0 +1,149 @@
+{
+	"ids":[
+		{
+			"id": "tipoinstruccion-results",
+			"headers": [
+{ "label": "TIPO1" },
+{ "label": "TIPO2" },
+{ "label": "TIPO3" },
+{ "label": "TIPO4" },
+{ "label": "TIPO5" },
+{ "label": "TIPO6" },
+{ "label": "TIPO7" },
+{ "label": "TIPO8" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"DESINVERSIONES",
+						"APORTACIONES CON BIENES Y DERECHOS",
+						"DESINVERSIONES",
+						"INVERSIONES",
+						"INVERSIONES",
+						"DESINVERSIONES",
+						"INVERSIONES",
+						"DESINVERSIONES"
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"APORTACIONES CON FLUJO DE EFECTIVO",
+						"PRESTAMOS",
+						"DISPOSICIONES DE BIENES Y DERECHOS",
+						"DISPOSICIONES DE BIENES Y DERECHOS",
+						"APORTACIÓN",
+						"INVERSIONES",
+						"PAGOS",
+						"DESINVERSIONES"
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"PRESTAMOS",
+						"APORTACIÓN",
+						"DISPOSICIONES DE BIENES Y DERECHOS",
+						"DISPOSICIONES DE BIENES Y DERECHOS",
+						"INVERSIONES",
+						"INVERSIONES",
+						"APORTACIONES CON BIENES Y DERECHOS",
+						"DESINVERSIONES"
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"INVERSIONES",
+						"PRESTAMOS",
+						"INVERSIONES",
+						"PRESTAMOS",
+						"APORTACIONES CON BIENES Y DERECHOS",
+						"APORTACIÓN",
+						"DESINVERSIONES",
+						"INVERSIONES"
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"APORTACIONES CON BIENES Y DERECHOS",
+						"APORTACIÓN",
+						"PAGOS",
+						"DISPOSICIONES DE BIENES Y DERECHOS",
+						"DISPOSICIONES DE BIENES Y DERECHOS",
+						"APORTACIONES CON BIENES Y DERECHOS",
+						"PAGOS",
+						"APORTACIONES CON FLUJO DE EFECTIVO"
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"APORTACIONES CON FLUJO DE EFECTIVO",
+						"INVERSIONES",
+						"APORTACIONES CON FLUJO DE EFECTIVO",
+						"APORTACIÓN",
+						"APORTACIÓN",
+						"APORTACIONES CON BIENES Y DERECHOS",
+						"DESINVERSIONES",
+						"DISPOSICIONES DE BIENES Y DERECHOS"
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"PRESTAMOS",
+						"DESINVERSIONES",
+						"APORTACIONES CON FLUJO DE EFECTIVO",
+						"APORTACIÓN",
+						"DISPOSICIONES DE BIENES Y DERECHOS",
+						"PRESTAMOS",
+						"PRESTAMOS",
+						"PRESTAMOS"
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"APORTACIONES CON BIENES Y DERECHOS",
+						"APORTACIONES CON FLUJO DE EFECTIVO",
+						"APORTACIONES CON BIENES Y DERECHOS",
+						"DISPOSICIONES DE BIENES Y DERECHOS",
+						"INVERSIONES",
+						"DISPOSICIONES DE BIENES Y DERECHOS",
+						"APORTACIONES CON BIENES Y DERECHOS",
+						"PRESTAMOS"
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"APORTACIONES CON FLUJO DE EFECTIVO",
+						"PAGOS",
+						"INVERSIONES",
+						"APORTACIONES CON BIENES Y DERECHOS",
+						"APORTACIÓN",
+						"PRESTAMOS",
+						"DISPOSICIONES DE BIENES Y DERECHOS",
+						"DISPOSICIONES DE BIENES Y DERECHOS"
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"DISPOSICIONES DE BIENES Y DERECHOS",
+						"DISPOSICIONES DE BIENES Y DERECHOS",
+						"DISPOSICIONES DE BIENES Y DERECHOS",
+						"INVERSIONES",
+						"PRESTAMOS",
+						"DISPOSICIONES DE BIENES Y DERECHOS",
+						"INVERSIONES",
+						"DISPOSICIONES DE BIENES Y DERECHOS"
+					]
+				}
+			]
+		}
+	]
+}

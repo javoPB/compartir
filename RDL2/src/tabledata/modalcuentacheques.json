@@ -1,0 +1,117 @@
+
+	{
+		"ids":[
+			{
+				"id": "cuentacheques-results",
+				"headers": [
+				{ "label": "Fideicomiso" },
+				{ "label": "Tipo persona" },
+				{ "label": "Tipo de cuenta" },
+				{ "label": "Banco" },
+				{ "label": "Núm. cuenta" }
+				],
+				"rows": [
+					{
+						"id": "1",
+						"data": [
+							"YYYYYYYY",
+							"MORAL",
+							"CONVENIO CIE",
+							"SCOTIABANK INVERLAT, S.A.",
+							"Occaecati qui inventore."
+						]
+					},
+					{
+						"id": "2",
+						"data": [
+							"YYYYYYYY",
+							"FISICA",
+							"SPEUA",
+							"SCOTIABANK INVERLAT, S.A.",
+							"Eos voluptas natus dolorum."
+						]
+					},
+					{
+						"id": "3",
+						"data": [
+							"YYYYYYYY",
+							"FISICA",
+							"TRANSFERENCIA INTERBANCARIA",
+							"SCOTIABANK INVERLAT, S.A.",
+							"Repellat in suscipit eum."
+						]
+					},
+					{
+						"id": "4",
+						"data": [
+							"YYYYYYYY",
+							"MORAL",
+							"TARJETA DE CREDITO",
+							"SCOTIABANK INVERLAT, S.A.",
+							"Qui est voluptatem debitis saepe expedita dolorem commodi."
+						]
+					},
+					{
+						"id": "5",
+						"data": [
+							"YYYYYYYY",
+							"FISICA",
+							"CONVENIO CIE",
+							"SCOTIABANK INVERLAT, S.A.",
+							"Et necessitatibus sit eos enim sequi aperiam quibusdam."
+						]
+					},
+					{
+						"id": "6",
+						"data": [
+							"YYYYYYYY",
+							"GOBIERNO",
+							"TRANSFERENCIA INTERBANCARIA",
+							"SCOTIABANK INVERLAT, S.A.",
+							"Dignissimos velit soluta."
+						]
+					},
+					{
+						"id": "7",
+						"data": [
+							"YYYYYYYY",
+							"GOBIERNO",
+							"TRANSFERENCIA INTERBANCARIA",
+							"SCOTIABANK INVERLAT, S.A.",
+							"Omnis quaerat laudantium."
+						]
+					},
+					{
+						"id": "8",
+						"data": [
+							"YYYYYYYY",
+							"FISICA",
+							"TRANSFERENCIA INTERBANCARIA",
+							"SCOTIABANK INVERLAT, S.A.",
+							"Tempore doloremque rerum animi."
+						]
+					},
+					{
+						"id": "9",
+						"data": [
+							"YYYYYYYY",
+							"GOBIERNO",
+							"SPEUA",
+							"SCOTIABANK INVERLAT, S.A.",
+							"Tempora aut in tenetur perspiciatis voluptas."
+						]
+					},
+					{
+						"id": "10",
+						"data": [
+							"YYYYYYYY",
+							"GOBIERNO",
+							"TRANSFERENCIA INTERBANCARIA",
+							"SCOTIABANK INVERLAT, S.A.",
+							"Est quisquam magnam illo facilis iusto sapiente ut."
+						]
+					}
+				]
+			}
+		]
+	}

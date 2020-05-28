@@ -1,0 +1,83 @@
+{
+	"ids":[
+		{
+			"id": "enumtipofideicomiso-results",
+			"headers": [
+{ "label": "PUBLICO" },
+{ "label": "PRIVADO" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"PRIVADO",
+						"PUBLICO"
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"PUBLICO",
+						"PRIVADO"
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"PUBLICO",
+						"PUBLICO"
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"PUBLICO",
+						"PRIVADO"
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"PRIVADO",
+						"PRIVADO"
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"PUBLICO",
+						"PUBLICO"
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"PUBLICO",
+						"PUBLICO"
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"PUBLICO",
+						"PUBLICO"
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"PRIVADO",
+						"PUBLICO"
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"PUBLICO",
+						"PUBLICO"
+					]
+				}
+			]
+		}
+	]
+}

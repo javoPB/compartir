@@ -1,0 +1,116 @@
+{
+	"ids":[
+		{
+			"id": "actividad-results",
+			"headers": [
+{ "label": "DESC" },
+{ "label": "INM" },
+{ "label": "ARQ" },
+{ "label": "EMP" },
+{ "label": "COM" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"INGENIERO",
+						"EMPRESARIO",
+						"EMPRESARIO",
+						"INGENIERO",
+						"COMERCIANTE"
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"COMERCIANTE",
+						"EMPRESARIO",
+						"AGENTES INMOBILIARIOS",
+						"COMERCIANTE",
+						"AGENTES INMOBILIARIOS"
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"COMERCIANTE",
+						"INGENIERO",
+						"INGENIERO",
+						"EMPRESARIO",
+						"EMPRESARIO"
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"ARQUITECTO",
+						"AGENTES INMOBILIARIOS",
+						"AGENTES INMOBILIARIOS",
+						"INGENIERO",
+						"AGENTES INMOBILIARIOS"
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"ARQUITECTO",
+						"COMERCIANTE",
+						"INGENIERO",
+						"EMPRESARIO",
+						"AGENTES INMOBILIARIOS"
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"EMPRESARIO",
+						"COMERCIANTE",
+						"ARQUITECTO",
+						"EMPRESARIO",
+						"EMPRESARIO"
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"ARQUITECTO",
+						"INGENIERO",
+						"INGENIERO",
+						"EMPRESARIO",
+						"ARQUITECTO"
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"ARQUITECTO",
+						"COMERCIANTE",
+						"EMPRESARIO",
+						"INGENIERO",
+						"AGENTES INMOBILIARIOS"
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"COMERCIANTE",
+						"EMPRESARIO",
+						"EMPRESARIO",
+						"COMERCIANTE",
+						"INGENIERO"
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"ARQUITECTO",
+						"COMERCIANTE",
+						"COMERCIANTE",
+						"INGENIERO",
+						"ARQUITECTO"
+					]
+				}
+			]
+		}
+	]
+}

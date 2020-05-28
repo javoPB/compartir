@@ -1,0 +1,83 @@
+{
+	"ids":[
+		{
+			"id": "sexo-results",
+			"headers": [
+{ "label": "M" },
+{ "label": "F" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"Masculino",
+						"Masculino"
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"Femenino",
+						"Femenino"
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"Masculino",
+						"Masculino"
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"Masculino",
+						"Femenino"
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"Femenino",
+						"Masculino"
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"Femenino",
+						"Femenino"
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"Masculino",
+						"Masculino"
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"Masculino",
+						"Masculino"
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"Femenino",
+						"Femenino"
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"Femenino",
+						"Femenino"
+					]
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,171 @@
+{
+	"ids":[
+		{
+			"id": "formasliquidacion-results",
+			"headers": [
+			{ "label": "Fideicomiso" },
+			{ "label": "Participante" },
+			{ "label": "Tipo de persona" },
+			{ "label": "Fideicomisario" },
+			{ "label": "Forma de liquidación" },
+			{ "label": "Moneda" },
+			{ "label": "Sec. Cuenta Seleccionada" },
+			{ "label": "P.L. Principal" },
+			{ "label": "Estado" },
+			{ "label": "Sec. Param Liq" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"YYYYYYYY",
+						"Quia deleniti nesciunt libero eaque architecto.",
+						"FISICA",
+						"Quibusdam autem consequatur et sunt ab ad quis.",
+						"PAGO CON SPEUA",
+						"MONEDA NACIONAL",
+						"Laudantium rerum hic voluptatem quo.",
+						"EUROS",
+						"CANCELADO",
+						"Et adipisci maiores sed aperiam velit minima."
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"YYYYYYYY",
+						"Soluta dolorem expedita sint possimus.",
+						"FISICA",
+						"Ipsum quaerat libero aperiam.",
+						"HIPOTECARIO",
+						"EUROS",
+						"Rerum quidem in quia.",
+						"DLS. U.S.A.",
+						"SUSPENDIDO",
+						"Eum deserunt eius voluptatem tempore."
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"YYYYYYYY",
+						"Distinctio quis laboriosam eligendi voluptatum sequi commodi et.",
+						"FISICA",
+						"Pariatur sint esse eos aliquid sit provident minima.",
+						"PAGO CON SPEUA",
+						"DLS. U.S.A.",
+						"Sint maxime aperiam.",
+						"DLS. U.S.A.",
+						"ACTIVO",
+						"Commodi suscipit minima libero dolor nihil aut soluta."
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"YYYYYYYY",
+						"Dolorum voluptatum corporis non.",
+						"MORAL",
+						"Eos perferendis sint omnis magni quod autem.",
+						"CON ORDEN DE PAGO INTERNACIONAL",
+						"EUROS",
+						"Aut alias ut unde.",
+						"DLS. U.S.A.",
+						"CANCELADO",
+						"Nihil suscipit quisquam minima."
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"YYYYYYYY",
+						"Quos id atque.",
+						"GOBIERNO",
+						"In ut temporibus et dolor explicabo.",
+						"PAGO A TRAVES DE UNA CUENTA CONTABLE OPERATIVA EN LINEA",
+						"MONEDA NACIONAL",
+						"Optio amet aut rerum sint et consequatur repudiandae.",
+						"MONEDA NACIONAL",
+						"CANCELADO",
+						"Ratione totam nobis recusandae."
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"YYYYYYYY",
+						"Totam ea temporibus.",
+						"GOBIERNO",
+						"Qui perspiciatis non recusandae ipsa voluptas.",
+						"ABONO A CUENTA DE CHEQUES SCOTIABANK",
+						"EUROS",
+						"Sed corrupti quo fugiat.",
+						"MONEDA NACIONAL",
+						"BAJA",
+						"Delectus recusandae doloribus et debitis."
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"YYYYYYYY",
+						"Ab dolorem voluptatem natus distinctio dolorem perferendis.",
+						"GOBIERNO",
+						"Perferendis quia pariatur omnis.",
+						"PAGO TARJETA DE CREDITO",
+						"EUROS",
+						"Non non sint velit eum dolor repellendus iure.",
+						"DLS. U.S.A.",
+						"SUSPENDIDO",
+						"Enim libero optio eum rerum veritatis ut."
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"YYYYYYYY",
+						"Nobis est sunt et.",
+						"GOBIERNO",
+						"Molestiae ex facilis nostrum et sed.",
+						"PAGO TARJETA DE CREDITO",
+						"DLS. U.S.A.",
+						"Voluptatem eum velit libero fugiat.",
+						"MONEDA NACIONAL",
+						"CANCELADO",
+						"Illum quia quis optio perferendis corporis."
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"YYYYYYYY",
+						"Quisquam occaecati earum sint eligendi numquam corporis molestiae.",
+						"GOBIERNO",
+						"Aut quis necessitatibus labore adipisci sint libero qui.",
+						"PAGO CON CHEQUE DE CAJA SCOTIABANK",
+						"MONEDA NACIONAL",
+						"Ex autem quia.",
+						"DLS. U.S.A.",
+						"ACTIVO",
+						"Esse totam quod."
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"YYYYYYYY",
+						"Deserunt quibusdam culpa.",
+						"GOBIERNO",
+						"Voluptas facere fuga voluptas ea laborum.",
+						"PAGO POR TRANSFERENCIA INTERBANCARIA TARJETA DE DEBITO",
+						"DLS. U.S.A.",
+						"Quia in est vero nobis.",
+						"EUROS",
+						"CANCELADO",
+						"Similique facilis repellat."
+					]
+				}
+			]
+		}
+	]
+}

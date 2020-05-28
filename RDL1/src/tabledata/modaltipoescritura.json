@@ -1,0 +1,83 @@
+{
+	"ids":[
+		{
+			"id": "tipoescritura-results",
+			"headers": [
+{ "label": "PUBLICA" },
+{ "label": "OTRO" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"Escritura pública",
+						"Otro"
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"Escritura pública",
+						"Otro"
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"Escritura pública",
+						"Escritura pública"
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"Otro",
+						"Otro"
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"Otro",
+						"Escritura pública"
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"Escritura pública",
+						"Escritura pública"
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"Otro",
+						"Otro"
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"Escritura pública",
+						"Escritura pública"
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"Escritura pública",
+						"Escritura pública"
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"Escritura pública",
+						"Escritura pública"
+					]
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,94 @@
+{
+	"ids":[
+		{
+			"id": "moneda-results",
+			"headers": [
+{ "label": "DLS" },
+{ "label": "EURO" },
+{ "label": "NACIONAL" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"MONEDA NACIONAL",
+						"DLS. U.S.A.",
+						"EUROS"
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"DLS. U.S.A.",
+						"MONEDA NACIONAL",
+						"DLS. U.S.A."
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"EUROS",
+						"EUROS",
+						"DLS. U.S.A."
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"DLS. U.S.A.",
+						"EUROS",
+						"EUROS"
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"DLS. U.S.A.",
+						"MONEDA NACIONAL",
+						"MONEDA NACIONAL"
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"MONEDA NACIONAL",
+						"MONEDA NACIONAL",
+						"EUROS"
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"MONEDA NACIONAL",
+						"DLS. U.S.A.",
+						"MONEDA NACIONAL"
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"DLS. U.S.A.",
+						"MONEDA NACIONAL",
+						"MONEDA NACIONAL"
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"MONEDA NACIONAL",
+						"EUROS",
+						"MONEDA NACIONAL"
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"MONEDA NACIONAL",
+						"DLS. U.S.A.",
+						"MONEDA NACIONAL"
+					]
+				}
+			]
+		}
+	]
+}

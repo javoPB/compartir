@@ -1,0 +1,139 @@
+
+	{
+		"ids":[
+			{
+				"id": "fideicomisospendientesliberar-results",
+				"headers": [
+				{ "label": "Fideicomiso" },
+				{ "label": "Nombre del Fiso" },
+				{ "label": "Tipo Negocio" },
+				{ "label": "Tipo Producto" },
+				{ "label": "Manejo" },
+				{ "label": "Tipo Persona" },
+				{ "label": "Estatus" }
+				],
+				"rows": [
+					{
+						"id": "1",
+						"data": [
+							"YYYYYYYY",
+							"Cum nulla cupiditate sed nihil.",
+							"FIDEICOMISO",
+							"ZONA RESTRINGIDA",
+							"SIN MANEJO DE INVERSION",
+							"MORAL",
+							"AUTORIZAR"
+						]
+					},
+					{
+						"id": "2",
+						"data": [
+							"YYYYYYYY",
+							"Repudiandae enim qui eveniet pariatur nulla voluptatum.",
+							"DEPÓSITO CONDICIONAL",
+							"MANDATO",
+							"DISCRECIONAL RESTRINGIDO",
+							"FISICA",
+							"AUTORIZAR"
+						]
+					},
+					{
+						"id": "3",
+						"data": [
+							"YYYYYYYY",
+							"Omnis quaerat quis suscipit nam exercitationem sit.",
+							"MANDATO",
+							"DEPÓSITO CONDICIONAL (Escrow)",
+							"SIN MANEJO DE INVERSION",
+							"FISICA",
+							"AUTORIZAR"
+						]
+					},
+					{
+						"id": "4",
+						"data": [
+							"YYYYYYYY",
+							"Molestiae qui labore nobis consequatur.",
+							"MANDATO",
+							"PLANEACIÓN PATRIMONIAL TESTAMENTARIA",
+							"DISCRECIONAL RESTRINGIDO",
+							"FISICA",
+							"AUTORIZAR"
+						]
+					},
+					{
+						"id": "5",
+						"data": [
+							"YYYYYYYY",
+							"Delectus voluptas voluptas iure deleniti aspernatur facilis aut.",
+							"FIDEICOMISO",
+							"DESARROLLO INMOBILIARIO",
+							"NO DISCRECIONAL",
+							"MORAL",
+							"AUTORIZAR"
+						]
+					},
+					{
+						"id": "6",
+						"data": [
+							"YYYYYYYY",
+							"Ut autem aliquid maxime.",
+							"DEPÓSITO CONDICIONAL",
+							"GARANTÍA",
+							"NO DISCRECIONAL",
+							"GOBIERNO",
+							"AUTORIZAR"
+						]
+					},
+					{
+						"id": "7",
+						"data": [
+							"YYYYYYYY",
+							"Impedit ullam ut ducimus tempora.",
+							"REPRESENTACIÓN COMÚN",
+							"INFRAESTRUCTURA",
+							"ADMINISTRACIÓN",
+							"MORAL",
+							"AUTORIZAR"
+						]
+					},
+					{
+						"id": "8",
+						"data": [
+							"YYYYYYYY",
+							"Qui quod est.",
+							"COMISIÓN MERCANTIL",
+							"DESARROLLO INMOBILIARIO",
+							"ADMINISTRACIÓN",
+							"FISICA",
+							"AUTORIZAR"
+						]
+					},
+					{
+						"id": "9",
+						"data": [
+							"YYYYYYYY",
+							"Voluptatibus voluptatibus aperiam sed aut nemo ut ipsam.",
+							"COMISIÓN MERCANTIL",
+							"PENSIONES Y JUBILACIONES",
+							"DISCRECIONAL RESTRINGIDO",
+							"MORAL",
+							"AUTORIZAR"
+						]
+					},
+					{
+						"id": "10",
+						"data": [
+							"YYYYYYYY",
+							"Quis laboriosam vitae.",
+							"MANDATO",
+							"PENSIONES Y JUBILACIONES",
+							"ADMINISTRACIÓN",
+							"MORAL",
+							"AUTORIZAR"
+						]
+					}
+				]
+			}
+		]
+	}

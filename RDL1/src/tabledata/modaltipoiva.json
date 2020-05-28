@@ -1,0 +1,94 @@
+{
+	"ids":[
+		{
+			"id": "tipoiva-results",
+			"headers": [
+{ "label": "IVA0" },
+{ "label": "IVA11" },
+{ "label": "IVA16" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"IVA AL 16%",
+						"IVA AL 0%",
+						"IVA AL 11% (FRONTERIZO)"
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"IVA AL 0%",
+						"IVA AL 0%",
+						"IVA AL 0%"
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"IVA AL 0%",
+						"IVA AL 11% (FRONTERIZO)",
+						"IVA AL 0%"
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"IVA AL 11% (FRONTERIZO)",
+						"IVA AL 0%",
+						"IVA AL 11% (FRONTERIZO)"
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"IVA AL 0%",
+						"IVA AL 16%",
+						"IVA AL 0%"
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"IVA AL 0%",
+						"IVA AL 16%",
+						"IVA AL 16%"
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"IVA AL 16%",
+						"IVA AL 0%",
+						"IVA AL 0%"
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"IVA AL 0%",
+						"IVA AL 11% (FRONTERIZO)",
+						"IVA AL 16%"
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"IVA AL 0%",
+						"IVA AL 16%",
+						"IVA AL 16%"
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"IVA AL 16%",
+						"IVA AL 16%",
+						"IVA AL 16%"
+					]
+				}
+			]
+		}
+	]
+}

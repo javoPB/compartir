@@ -1,0 +1,116 @@
+{
+	"ids":[
+		{
+			"id": "tipocuenta-results",
+			"headers": [
+{ "label": "SPEUA" },
+{ "label": "CHEQUES" },
+{ "label": "CIE" },
+{ "label": "TRANS" },
+{ "label": "TARJETACRED" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"TARJETA DE CREDITO",
+						"SPEUA",
+						"SPEUA",
+						"SPEUA",
+						"CUENTA DE CHEQUES SCOTIABANK"
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"CUENTA DE CHEQUES SCOTIABANK",
+						"CUENTA DE CHEQUES SCOTIABANK",
+						"SPEUA",
+						"SPEUA",
+						"CUENTA DE CHEQUES SCOTIABANK"
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"TARJETA DE CREDITO",
+						"CONVENIO CIE",
+						"CUENTA DE CHEQUES SCOTIABANK",
+						"TARJETA DE CREDITO",
+						"CONVENIO CIE"
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"TARJETA DE CREDITO",
+						"TRANSFERENCIA INTERBANCARIA",
+						"CONVENIO CIE",
+						"CONVENIO CIE",
+						"CUENTA DE CHEQUES SCOTIABANK"
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"TRANSFERENCIA INTERBANCARIA",
+						"SPEUA",
+						"CUENTA DE CHEQUES SCOTIABANK",
+						"SPEUA",
+						"CONVENIO CIE"
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"TRANSFERENCIA INTERBANCARIA",
+						"TRANSFERENCIA INTERBANCARIA",
+						"SPEUA",
+						"TRANSFERENCIA INTERBANCARIA",
+						"CUENTA DE CHEQUES SCOTIABANK"
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"CUENTA DE CHEQUES SCOTIABANK",
+						"TARJETA DE CREDITO",
+						"SPEUA",
+						"CONVENIO CIE",
+						"TRANSFERENCIA INTERBANCARIA"
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"CUENTA DE CHEQUES SCOTIABANK",
+						"CONVENIO CIE",
+						"CUENTA DE CHEQUES SCOTIABANK",
+						"CUENTA DE CHEQUES SCOTIABANK",
+						"SPEUA"
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"SPEUA",
+						"SPEUA",
+						"CONVENIO CIE",
+						"CUENTA DE CHEQUES SCOTIABANK",
+						"TRANSFERENCIA INTERBANCARIA"
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"CUENTA DE CHEQUES SCOTIABANK",
+						"CONVENIO CIE",
+						"CUENTA DE CHEQUES SCOTIABANK",
+						"TRANSFERENCIA INTERBANCARIA",
+						"CUENTA DE CHEQUES SCOTIABANK"
+					]
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,127 @@
+{
+	"ids":[
+		{
+			"id": "tipoinmueble-results",
+			"headers": [
+{ "label": "TIPO1" },
+{ "label": "TIPO2" },
+{ "label": "TIPO3" },
+{ "label": "TIPO4" },
+{ "label": "TIPO5" },
+{ "label": "TIPO6" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"OTROS INMUEBLES",
+						"CASA HABITACIÓN",
+						"CASA HABITACIÓN",
+						"OTROS INMUEBLES",
+						"CASA HABITACIÓN",
+						"DEPARTAMENTO"
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"DEPARTAMENTO",
+						"BODEGAS",
+						"CASA HABITACIÓN",
+						"LOTE",
+						"LOTE",
+						"OTROS INMUEBLES"
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"CONSTRUCCIÓN EN PROCESO",
+						"DEPARTAMENTO",
+						"CASA HABITACIÓN",
+						"LOTE",
+						"BODEGAS",
+						"LOTE"
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"OTROS INMUEBLES",
+						"OTROS INMUEBLES",
+						"DEPARTAMENTO",
+						"CONSTRUCCIÓN EN PROCESO",
+						"BODEGAS",
+						"LOTE"
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"CASA HABITACIÓN",
+						"BODEGAS",
+						"LOTE",
+						"OTROS INMUEBLES",
+						"DEPARTAMENTO",
+						"CASA HABITACIÓN"
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"CASA HABITACIÓN",
+						"CONSTRUCCIÓN EN PROCESO",
+						"OTROS INMUEBLES",
+						"BODEGAS",
+						"CONSTRUCCIÓN EN PROCESO",
+						"LOTE"
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"CASA HABITACIÓN",
+						"OTROS INMUEBLES",
+						"DEPARTAMENTO",
+						"DEPARTAMENTO",
+						"CASA HABITACIÓN",
+						"LOTE"
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"DEPARTAMENTO",
+						"DEPARTAMENTO",
+						"CASA HABITACIÓN",
+						"DEPARTAMENTO",
+						"CASA HABITACIÓN",
+						"CASA HABITACIÓN"
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"BODEGAS",
+						"OTROS INMUEBLES",
+						"BODEGAS",
+						"OTROS INMUEBLES",
+						"LOTE",
+						"CASA HABITACIÓN"
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"CASA HABITACIÓN",
+						"DEPARTAMENTO",
+						"DEPARTAMENTO",
+						"LOTE",
+						"DEPARTAMENTO",
+						"CASA HABITACIÓN"
+					]
+				}
+			]
+		}
+	]
+}

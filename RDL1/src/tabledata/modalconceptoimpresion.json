@@ -1,0 +1,94 @@
+{
+	"ids":[
+		{
+			"id": "conceptoimpresion-results",
+			"headers": [
+{ "label": "CONCEPTO1" },
+{ "label": "CONCEPTO2" },
+{ "label": "CONCEPTO3" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"CALL REPORT(Administración Fiducuario)",
+						"CALL REPORT(Administración Fiducuario)",
+						"CALL REPORT(Administración Fiducuario)"
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"ALTA DEL CONTRATO(Promoción Fiduciaria)",
+						"CAMBIO DE DATOS ADMINISTRATIVOS(Administración Fiduciaria)",
+						"ALTA DEL CONTRATO(Promoción Fiduciaria)"
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"ALTA DEL CONTRATO(Promoción Fiduciaria)",
+						"CAMBIO DE DATOS ADMINISTRATIVOS(Administración Fiduciaria)",
+						"CALL REPORT(Administración Fiducuario)"
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"ALTA DEL CONTRATO(Promoción Fiduciaria)",
+						"CALL REPORT(Administración Fiducuario)",
+						"CALL REPORT(Administración Fiducuario)"
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"CAMBIO DE DATOS ADMINISTRATIVOS(Administración Fiduciaria)",
+						"ALTA DEL CONTRATO(Promoción Fiduciaria)",
+						"CALL REPORT(Administración Fiducuario)"
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"CAMBIO DE DATOS ADMINISTRATIVOS(Administración Fiduciaria)",
+						"ALTA DEL CONTRATO(Promoción Fiduciaria)",
+						"ALTA DEL CONTRATO(Promoción Fiduciaria)"
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"ALTA DEL CONTRATO(Promoción Fiduciaria)",
+						"CAMBIO DE DATOS ADMINISTRATIVOS(Administración Fiduciaria)",
+						"ALTA DEL CONTRATO(Promoción Fiduciaria)"
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"ALTA DEL CONTRATO(Promoción Fiduciaria)",
+						"CAMBIO DE DATOS ADMINISTRATIVOS(Administración Fiduciaria)",
+						"CAMBIO DE DATOS ADMINISTRATIVOS(Administración Fiduciaria)"
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"CALL REPORT(Administración Fiducuario)",
+						"ALTA DEL CONTRATO(Promoción Fiduciaria)",
+						"ALTA DEL CONTRATO(Promoción Fiduciaria)"
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"CALL REPORT(Administración Fiducuario)",
+						"ALTA DEL CONTRATO(Promoción Fiduciaria)",
+						"CALL REPORT(Administración Fiducuario)"
+					]
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,127 @@
+{
+	"ids":[
+		{
+			"id": "autodeclaracioncrs-results",
+			"headers": [
+			{ "label": "Fideicomiso" },
+			{ "label": "Numero" },
+			{ "label": "Nombre" },
+			{ "label": "Tipo Persona" },
+			{ "label": "Tipo Participante" },
+			{ "label": "Formato CRS" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"YYYYYYYY",
+						"Quos possimus illum.",
+						"Veritatis labore soluta.",
+						"FISICA",
+						"FIDEICOMITENTE",
+						"Similique voluptatibus ad in."
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"YYYYYYYY",
+						"Eos soluta possimus inventore voluptatem.",
+						"Distinctio animi sed sint est non.",
+						"FISICA",
+						"FIDEICOMITENTE",
+						"Veritatis aperiam asperiores praesentium."
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"YYYYYYYY",
+						"Fuga rerum veritatis at consequatur.",
+						"Quis ut similique autem quas.",
+						"GOBIERNO",
+						"FIDEICOMITENTE",
+						"Autem recusandae quia voluptatem doloremque aut."
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"YYYYYYYY",
+						"Et asperiores tenetur excepturi accusamus at provident animi.",
+						"Laudantium ut rerum.",
+						"MORAL",
+						"FIDEICOMITENTE",
+						"Dolorum qui qui voluptatem odit."
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"YYYYYYYY",
+						"Itaque aut atque illo rem rem repellendus atque.",
+						"Quae quidem odio repellat consequuntur corrupti et.",
+						"FISICA",
+						"FIDEICOMITENTE",
+						"Et est repellendus velit qui ad necessitatibus."
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"YYYYYYYY",
+						"Dolor occaecati sint quisquam possimus.",
+						"Eos accusamus nostrum necessitatibus atque praesentium porro dolores.",
+						"FISICA",
+						"FIDEICOMITENTE",
+						"Enim animi quaerat omnis unde quibusdam."
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"YYYYYYYY",
+						"Qui quidem omnis voluptates.",
+						"Pariatur odio est.",
+						"FISICA",
+						"FIDEICOMITENTE",
+						"Praesentium a repellat dolorem magnam vel tempore."
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"YYYYYYYY",
+						"Possimus exercitationem quas debitis.",
+						"Id vero nihil.",
+						"FISICA",
+						"FIDEICOMITENTE",
+						"Et consequatur quibusdam vel voluptatem voluptatem."
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"YYYYYYYY",
+						"Modi magni dicta sapiente at facilis.",
+						"Illum quo ratione placeat.",
+						"FISICA",
+						"FIDEICOMITENTE",
+						"Esse omnis mollitia incidunt vero."
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"YYYYYYYY",
+						"Voluptates quia iste numquam dolor.",
+						"Quis eligendi corrupti consequatur.",
+						"GOBIERNO",
+						"FIDEICOMITENTE",
+						"Dignissimos porro ea qui eum ex ad alias."
+					]
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,127 @@
+{
+	"ids":[
+		{
+			"id": "subtipoinstruccion-results",
+			"headers": [
+{ "label": "SUB1" },
+{ "label": "SUB2" },
+{ "label": "SUB3" },
+{ "label": "SUB4" },
+{ "label": "SUB5" },
+{ "label": "SUB6" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"PAGO DE HONORARIOS",
+						"DE CONTRATOS EN SCOTIABANK",
+						"POR TRASPASO ENTRE SUBCUENTAS",
+						"OPERACIÓN INTERNA FIDUCIARIA",
+						"PAGO DE HONORARIOS",
+						"DE CONTRATOS EN SCOTIABANK"
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"EN EFECTIVO",
+						"DE CONTRATOS FUERA DE SCOTIABANK",
+						"EN EFECTIVO",
+						"OPERACIÓN INTERNA FIDUCIARIA",
+						"PAGO DE HONORARIOS",
+						"DE CONTRATOS EN SCOTIABANK"
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"DE CONTRATOS FUERA DE SCOTIABANK",
+						"POR TRASPASO ENTRE SUBCUENTAS",
+						"OPERACIÓN INTERNA FIDUCIARIA",
+						"PAGO DE HONORARIOS",
+						"EN EFECTIVO",
+						"DE CONTRATOS EN SCOTIABANK"
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"EN EFECTIVO",
+						"POR TRASPASO ENTRE SUBCUENTAS",
+						"EN EFECTIVO",
+						"EN EFECTIVO",
+						"DE CONTRATOS FUERA DE SCOTIABANK",
+						"EN EFECTIVO"
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"OPERACIÓN INTERNA FIDUCIARIA",
+						"EN EFECTIVO",
+						"EN EFECTIVO",
+						"EN EFECTIVO",
+						"DE CONTRATOS EN SCOTIABANK",
+						"DE CONTRATOS EN SCOTIABANK"
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"OPERACIÓN INTERNA FIDUCIARIA",
+						"OPERACIÓN INTERNA FIDUCIARIA",
+						"PAGO DE HONORARIOS",
+						"PAGO DE HONORARIOS",
+						"EN EFECTIVO",
+						"POR TRASPASO ENTRE SUBCUENTAS"
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"DE CONTRATOS FUERA DE SCOTIABANK",
+						"PAGO DE HONORARIOS",
+						"DE CONTRATOS FUERA DE SCOTIABANK",
+						"DE CONTRATOS FUERA DE SCOTIABANK",
+						"DE CONTRATOS FUERA DE SCOTIABANK",
+						"EN EFECTIVO"
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"EN EFECTIVO",
+						"PAGO DE HONORARIOS",
+						"OPERACIÓN INTERNA FIDUCIARIA",
+						"DE CONTRATOS EN SCOTIABANK",
+						"EN EFECTIVO",
+						"DE CONTRATOS EN SCOTIABANK"
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"DE CONTRATOS EN SCOTIABANK",
+						"POR TRASPASO ENTRE SUBCUENTAS",
+						"EN EFECTIVO",
+						"OPERACIÓN INTERNA FIDUCIARIA",
+						"DE CONTRATOS EN SCOTIABANK",
+						"DE CONTRATOS FUERA DE SCOTIABANK"
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"OPERACIÓN INTERNA FIDUCIARIA",
+						"DE CONTRATOS EN SCOTIABANK",
+						"PAGO DE HONORARIOS",
+						"PAGO DE HONORARIOS",
+						"EN EFECTIVO",
+						"POR TRASPASO ENTRE SUBCUENTAS"
+					]
+				}
+			]
+		}
+	]
+}

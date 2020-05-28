@@ -1,0 +1,216 @@
+
+	{
+		"ids":[
+			{
+				"id": "documentosfideicomiso-results",
+				"headers": [
+				{ "label": "Fideicomiso" },
+				{ "label": "Contrato de Fideicomiso" },
+				{ "label": "Actas constitutivas" },
+				{ "label": "Cédula Fiscal o TAX ID" },
+				{ "label": "Poderes" },
+				{ "label": "Identificaciones" },
+				{ "label": "Comprobantes de domicilio" },
+				{ "label": "Formatos KYC" },
+				{ "label": "Formato Evaluación de Riesgo para Fideicomiso" },
+				{ "label": "Resultado world check" },
+				{ "label": "Formato información del fideicomiso/producto y las personas que ejercen el control" },
+				{ "label": "Autorización de Comité de Nuevos Negocios Fiduciario" },
+				{ "label": "Registro de firmas del Comité Técnico del Fideicomiso" },
+				{ "label": "CURP" }
+				],
+				"rows": [
+					{
+						"id": "1",
+						"data": [
+							"YYYYYYYY",
+							"SI",
+							"SI",
+							"NO",
+							"SI",
+							"SI",
+							"SI",
+							"SI",
+							"NO",
+							"SI",
+							"SI",
+							"SI",
+							"SI",
+							"SI"
+						]
+					},
+					{
+						"id": "2",
+						"data": [
+							"YYYYYYYY",
+							"SI",
+							"SI",
+							"NO",
+							"SI",
+							"NO",
+							"SI",
+							"SI",
+							"NO",
+							"NO",
+							"SI",
+							"NO",
+							"SI",
+							"NO"
+						]
+					},
+					{
+						"id": "3",
+						"data": [
+							"YYYYYYYY",
+							"NO",
+							"NO",
+							"SI",
+							"SI",
+							"NO",
+							"NO",
+							"NO",
+							"NO",
+							"SI",
+							"NO",
+							"NO",
+							"NO",
+							"SI"
+						]
+					},
+					{
+						"id": "4",
+						"data": [
+							"YYYYYYYY",
+							"NO",
+							"SI",
+							"SI",
+							"NO",
+							"SI",
+							"SI",
+							"NO",
+							"NO",
+							"SI",
+							"NO",
+							"NO",
+							"NO",
+							"SI"
+						]
+					},
+					{
+						"id": "5",
+						"data": [
+							"YYYYYYYY",
+							"SI",
+							"NO",
+							"NO",
+							"SI",
+							"SI",
+							"SI",
+							"NO",
+							"NO",
+							"SI",
+							"SI",
+							"NO",
+							"SI",
+							"NO"
+						]
+					},
+					{
+						"id": "6",
+						"data": [
+							"YYYYYYYY",
+							"NO",
+							"SI",
+							"NO",
+							"NO",
+							"SI",
+							"SI",
+							"SI",
+							"NO",
+							"NO",
+							"NO",
+							"NO",
+							"NO",
+							"NO"
+						]
+					},
+					{
+						"id": "7",
+						"data": [
+							"YYYYYYYY",
+							"NO",
+							"SI",
+							"NO",
+							"SI",
+							"SI",
+							"NO",
+							"SI",
+							"SI",
+							"SI",
+							"SI",
+							"NO",
+							"SI",
+							"NO"
+						]
+					},
+					{
+						"id": "8",
+						"data": [
+							"YYYYYYYY",
+							"SI",
+							"SI",
+							"SI",
+							"SI",
+							"SI",
+							"NO",
+							"SI",
+							"NO",
+							"SI",
+							"NO",
+							"NO",
+							"NO",
+							"SI"
+						]
+					},
+					{
+						"id": "9",
+						"data": [
+							"YYYYYYYY",
+							"SI",
+							"SI",
+							"NO",
+							"NO",
+							"SI",
+							"NO",
+							"SI",
+							"NO",
+							"SI",
+							"SI",
+							"SI",
+							"NO",
+							"NO"
+						]
+					},
+					{
+						"id": "10",
+						"data": [
+							"YYYYYYYY",
+							"SI",
+							"SI",
+							"NO",
+							"NO",
+							"NO",
+							"SI",
+							"NO",
+							"NO",
+							"NO",
+							"SI",
+							"NO",
+							"NO",
+							"NO"
+						]
+					}
+				]
+			}
+		]
+	}

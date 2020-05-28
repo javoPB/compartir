@@ -1,0 +1,193 @@
+{
+	"ids":[
+		{
+			"id": "reevaluacion-results",
+			"headers": [
+{ "label": "REEVAL1" },
+{ "label": "REEVAL2" },
+{ "label": "REEVAL3" },
+{ "label": "REEVAL4" },
+{ "label": "REEVAL5" },
+{ "label": "REEVAL6" },
+{ "label": "REEVAL7" },
+{ "label": "REEVAL8" },
+{ "label": "REEVAL9" },
+{ "label": "REEVAL10" },
+{ "label": "REEVAL11" },
+{ "label": "REEVAL12" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"REVALUACION AUTOMATICA x INPC",
+						"REVISAR EN CONTRATO (10% CADA 5 AÑOS)",
+						"REVISAR EN CONTRATO (10% CADA 5 AÑOS)",
+						"REVALUACION AUTOMATICA x INPC",
+						"REVISAR EN CONTRATO (4% ANUAL)",
+						"REVISAR EN CONTRATO (2% ANUAL)",
+						"REVISAR EN CONTRATO (4% ANUAL)",
+						"REVISAR EN CONTRATO (10% CADA 2 AÑOS)",
+						"REVISAR EN CONTRATO (2% CADA 3 AÑOS)",
+						"REVISAR EN CONTRATO (10% CADA 2 AÑOS)",
+						"REVALUACION AUTOMATICA x INPC",
+						"REVISAR EN CONTRATO (4% ANUAL)"
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"INFLACION USA",
+						"REVISAR EN CONTRATO (2% CADA 2 AÑOS)",
+						"REVISAR EN CONTRATO (2% CADA 2 AÑOS)",
+						"REVISAR EN CONTRATO (10% CADA 4 AÑOS)",
+						"INFLACION USA",
+						"REVISAR EN CONTRATO (10% CADA 2 AÑOS)",
+						"REVALUACION MANUAL",
+						"REVISAR EN CONTRATO (2% ANUAL)",
+						"REVISAR EN CONTRATO (4% ANUAL)",
+						"REVISAR EN CONTRATO (3% ANUAL)",
+						"REVISAR EN CONTRATO (2% ANUAL)",
+						"REVISAR EN CONTRATO (2% ANUAL)"
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"REVISAR EN CONTRATO (10% CADA 3 AÑOS)",
+						"REVISAR EN CONTRATO (10% CADA 4 AÑOS)",
+						"REVISAR EN CONTRATO (2% ANUAL)",
+						"REVISAR EN CONTRATO (10% CADA 5 AÑOS)",
+						"REVISAR EN CONTRATO (10% CADA 4 AÑOS)",
+						"REVISAR EN CONTRATO (10% CADA 5 AÑOS)",
+						"REVALUACION MANUAL",
+						"REVISAR EN CONTRATO (4% ANUAL)",
+						"REVALUACION MANUAL",
+						"REVISAR EN CONTRATO (2% ANUAL)",
+						"REVISAR EN CONTRATO (2% CADA 3 AÑOS)",
+						"REVISAR EN CONTRATO (10% CADA 2 AÑOS)"
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"REVISAR EN CONTRATO (10% CADA 4 AÑOS)",
+						"REVISAR EN CONTRATO (10% CADA 3 AÑOS)",
+						"REVALUACION MANUAL",
+						"REVISAR EN CONTRATO (10% CADA 2 AÑOS)",
+						"REVISAR EN CONTRATO (2% CADA 3 AÑOS)",
+						"REVALUACION AUTOMATICA x INPC",
+						"REVISAR EN CONTRATO (3% ANUAL)",
+						"REVISAR EN CONTRATO (10% CADA 2 AÑOS)",
+						"REVISAR EN CONTRATO (4% ANUAL)",
+						"REVALUACION MANUAL",
+						"REVISAR EN CONTRATO (2% CADA 3 AÑOS)",
+						"REVISAR EN CONTRATO (2% ANUAL)"
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"REVISAR EN CONTRATO (2% CADA 3 AÑOS)",
+						"REVISAR EN CONTRATO (10% CADA 2 AÑOS)",
+						"REVISAR EN CONTRATO (10% CADA 2 AÑOS)",
+						"REVISAR EN CONTRATO (2% ANUAL)",
+						"INFLACION USA",
+						"REVISAR EN CONTRATO (10% CADA 3 AÑOS)",
+						"REVISAR EN CONTRATO (10% CADA 5 AÑOS)",
+						"REVISAR EN CONTRATO (2% CADA 2 AÑOS)",
+						"REVALUACION AUTOMATICA x INPC",
+						"REVISAR EN CONTRATO (3% ANUAL)",
+						"REVISAR EN CONTRATO (4% ANUAL)",
+						"REVISAR EN CONTRATO (3% ANUAL)"
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"REVISAR EN CONTRATO (4% ANUAL)",
+						"REVISAR EN CONTRATO (4% ANUAL)",
+						"REVISAR EN CONTRATO (3% ANUAL)",
+						"REVALUACION AUTOMATICA x INPC",
+						"INFLACION USA",
+						"REVISAR EN CONTRATO (10% CADA 2 AÑOS)",
+						"REVALUACION MANUAL",
+						"REVALUACION AUTOMATICA x INPC",
+						"REVISAR EN CONTRATO (10% CADA 3 AÑOS)",
+						"REVISAR EN CONTRATO (10% CADA 3 AÑOS)",
+						"REVISAR EN CONTRATO (10% CADA 4 AÑOS)",
+						"REVISAR EN CONTRATO (3% ANUAL)"
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"REVISAR EN CONTRATO (2% CADA 3 AÑOS)",
+						"REVALUACION AUTOMATICA x INPC",
+						"REVISAR EN CONTRATO (10% CADA 2 AÑOS)",
+						"INFLACION USA",
+						"REVISAR EN CONTRATO (10% CADA 4 AÑOS)",
+						"REVISAR EN CONTRATO (4% ANUAL)",
+						"REVISAR EN CONTRATO (10% CADA 4 AÑOS)",
+						"REVISAR EN CONTRATO (2% CADA 2 AÑOS)",
+						"REVISAR EN CONTRATO (10% CADA 5 AÑOS)",
+						"REVISAR EN CONTRATO (2% CADA 3 AÑOS)",
+						"REVISAR EN CONTRATO (10% CADA 5 AÑOS)",
+						"INFLACION USA"
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"INFLACION USA",
+						"REVALUACION MANUAL",
+						"REVISAR EN CONTRATO (10% CADA 5 AÑOS)",
+						"REVISAR EN CONTRATO (3% ANUAL)",
+						"REVISAR EN CONTRATO (10% CADA 2 AÑOS)",
+						"REVISAR EN CONTRATO (2% CADA 3 AÑOS)",
+						"REVISAR EN CONTRATO (2% CADA 3 AÑOS)",
+						"REVALUACION AUTOMATICA x INPC",
+						"REVISAR EN CONTRATO (3% ANUAL)",
+						"REVISAR EN CONTRATO (10% CADA 4 AÑOS)",
+						"REVISAR EN CONTRATO (2% ANUAL)",
+						"REVISAR EN CONTRATO (2% ANUAL)"
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"REVISAR EN CONTRATO (2% ANUAL)",
+						"REVISAR EN CONTRATO (10% CADA 2 AÑOS)",
+						"REVALUACION MANUAL",
+						"REVISAR EN CONTRATO (10% CADA 2 AÑOS)",
+						"REVISAR EN CONTRATO (3% ANUAL)",
+						"REVISAR EN CONTRATO (10% CADA 4 AÑOS)",
+						"REVISAR EN CONTRATO (4% ANUAL)",
+						"REVISAR EN CONTRATO (4% ANUAL)",
+						"REVISAR EN CONTRATO (3% ANUAL)",
+						"REVISAR EN CONTRATO (10% CADA 4 AÑOS)",
+						"REVISAR EN CONTRATO (10% CADA 2 AÑOS)",
+						"REVISAR EN CONTRATO (10% CADA 5 AÑOS)"
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"REVISAR EN CONTRATO (10% CADA 5 AÑOS)",
+						"REVISAR EN CONTRATO (10% CADA 2 AÑOS)",
+						"REVISAR EN CONTRATO (10% CADA 4 AÑOS)",
+						"REVISAR EN CONTRATO (2% CADA 3 AÑOS)",
+						"REVALUACION AUTOMATICA x INPC",
+						"REVISAR EN CONTRATO (10% CADA 3 AÑOS)",
+						"REVALUACION AUTOMATICA x INPC",
+						"REVISAR EN CONTRATO (2% ANUAL)",
+						"INFLACION USA",
+						"REVISAR EN CONTRATO (2% CADA 2 AÑOS)",
+						"REVISAR EN CONTRATO (2% ANUAL)",
+						"INFLACION USA"
+					]
+				}
+			]
+		}
+	]
+}

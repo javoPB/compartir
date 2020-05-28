@@ -1,0 +1,116 @@
+{
+	"ids":[
+		{
+			"id": "cuentacheques-results",
+			"headers": [
+			{ "label": "Fideicomiso" },
+			{ "label": "Tipo persona" },
+			{ "label": "Tipo de cuenta" },
+			{ "label": "Banco" },
+			{ "label": "Núm. cuenta" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"YYYYYYYY",
+						"MORAL",
+						"CONVENIO CIE",
+						"SCOTIABANK INVERLAT, S.A.",
+						"Cumque optio alias aut."
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"YYYYYYYY",
+						"MORAL",
+						"CUENTA DE CHEQUES SCOTIABANK",
+						"SCOTIABANK INVERLAT, S.A.",
+						"Officia nostrum maxime voluptas non inventore quis."
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"YYYYYYYY",
+						"GOBIERNO",
+						"TRANSFERENCIA INTERBANCARIA",
+						"SCOTIABANK INVERLAT, S.A.",
+						"Dolor vero possimus tempore doloremque incidunt."
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"YYYYYYYY",
+						"GOBIERNO",
+						"CUENTA DE CHEQUES SCOTIABANK",
+						"SCOTIABANK INVERLAT, S.A.",
+						"Ad possimus similique consequatur nobis nihil."
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"YYYYYYYY",
+						"MORAL",
+						"TARJETA DE CREDITO",
+						"SCOTIABANK INVERLAT, S.A.",
+						"Et aperiam ut sequi fugiat omnis facilis iusto."
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"YYYYYYYY",
+						"GOBIERNO",
+						"TARJETA DE CREDITO",
+						"SCOTIABANK INVERLAT, S.A.",
+						"Animi exercitationem asperiores consequatur et ut."
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"YYYYYYYY",
+						"MORAL",
+						"CUENTA DE CHEQUES SCOTIABANK",
+						"SCOTIABANK INVERLAT, S.A.",
+						"Aliquid quia voluptas."
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"YYYYYYYY",
+						"FISICA",
+						"SPEUA",
+						"SCOTIABANK INVERLAT, S.A.",
+						"Earum labore ullam officia modi esse ea ut."
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"YYYYYYYY",
+						"MORAL",
+						"CONVENIO CIE",
+						"SCOTIABANK INVERLAT, S.A.",
+						"Et est voluptas ipsa qui sunt cupiditate necessitatibus."
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"YYYYYYYY",
+						"GOBIERNO",
+						"CUENTA DE CHEQUES SCOTIABANK",
+						"SCOTIABANK INVERLAT, S.A.",
+						"Magnam quisquam eos ut sapiente perspiciatis quo molestiae."
+					]
+				}
+			]
+		}
+	]
+}

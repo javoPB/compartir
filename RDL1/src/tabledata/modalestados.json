@@ -1,0 +1,160 @@
+{
+	"ids":[
+		{
+			"id": "estados-results",
+			"headers": [
+{ "label": "CDMX" },
+{ "label": "EDOMEX" },
+{ "label": "AGU" },
+{ "label": "BJ" },
+{ "label": "BJS" },
+{ "label": "CM" },
+{ "label": "GR" },
+{ "label": "HD" },
+{ "label": "JL" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"ESTADO DE MEXICO",
+						"GUERRERO",
+						"JALISCO",
+						"CAMPECHE",
+						"BAJA CALIFORNIA",
+						"CUIDAD DE MEXICO",
+						"CUIDAD DE MEXICO",
+						"AGUASCALIENTES",
+						"BAJA CALIFORNIA SUR"
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"JALISCO",
+						"CUIDAD DE MEXICO",
+						"JALISCO",
+						"HIDALGO",
+						"BAJA CALIFORNIA SUR",
+						"BAJA CALIFORNIA SUR",
+						"CUIDAD DE MEXICO",
+						"ESTADO DE MEXICO",
+						"GUERRERO"
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"ESTADO DE MEXICO",
+						"CAMPECHE",
+						"GUERRERO",
+						"BAJA CALIFORNIA",
+						"AGUASCALIENTES",
+						"BAJA CALIFORNIA SUR",
+						"HIDALGO",
+						"JALISCO",
+						"CUIDAD DE MEXICO"
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"AGUASCALIENTES",
+						"GUERRERO",
+						"BAJA CALIFORNIA",
+						"BAJA CALIFORNIA",
+						"HIDALGO",
+						"CUIDAD DE MEXICO",
+						"CUIDAD DE MEXICO",
+						"BAJA CALIFORNIA SUR",
+						"AGUASCALIENTES"
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"GUERRERO",
+						"CAMPECHE",
+						"CAMPECHE",
+						"HIDALGO",
+						"HIDALGO",
+						"CUIDAD DE MEXICO",
+						"HIDALGO",
+						"GUERRERO",
+						"BAJA CALIFORNIA"
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"BAJA CALIFORNIA",
+						"GUERRERO",
+						"BAJA CALIFORNIA",
+						"GUERRERO",
+						"GUERRERO",
+						"JALISCO",
+						"JALISCO",
+						"JALISCO",
+						"ESTADO DE MEXICO"
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"ESTADO DE MEXICO",
+						"BAJA CALIFORNIA",
+						"ESTADO DE MEXICO",
+						"GUERRERO",
+						"BAJA CALIFORNIA SUR",
+						"CAMPECHE",
+						"BAJA CALIFORNIA",
+						"GUERRERO",
+						"ESTADO DE MEXICO"
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"CUIDAD DE MEXICO",
+						"JALISCO",
+						"CUIDAD DE MEXICO",
+						"CUIDAD DE MEXICO",
+						"CUIDAD DE MEXICO",
+						"CUIDAD DE MEXICO",
+						"JALISCO",
+						"JALISCO",
+						"AGUASCALIENTES"
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"CUIDAD DE MEXICO",
+						"GUERRERO",
+						"CUIDAD DE MEXICO",
+						"JALISCO",
+						"ESTADO DE MEXICO",
+						"HIDALGO",
+						"BAJA CALIFORNIA",
+						"CAMPECHE",
+						"BAJA CALIFORNIA"
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"ESTADO DE MEXICO",
+						"JALISCO",
+						"CAMPECHE",
+						"BAJA CALIFORNIA",
+						"CAMPECHE",
+						"CUIDAD DE MEXICO",
+						"HIDALGO",
+						"CUIDAD DE MEXICO",
+						"CUIDAD DE MEXICO"
+					]
+				}
+			]
+		}
+	]
+}

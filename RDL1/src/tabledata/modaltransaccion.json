@@ -1,0 +1,138 @@
+{
+	"ids":[
+		{
+			"id": "transaccion-results",
+			"headers": [
+			{ "label": "Número de Operación" },
+			{ "label": "Módulo" },
+			{ "label": "Nombre" },
+			{ "label": "Estatus transacción" },
+			{ "label": "Número de Transacción" },
+			{ "label": "Moneda" },
+			{ "label": "Horario límite de ejecución" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"Voluptatem neque ducimus.",
+						"INMUEBLES",
+						"Perferendis veritatis harum eum qui non.",
+						"BAJA",
+						"Minima ad rerum provident aliquid et.",
+						"MONEDA NACIONAL",
+						"Et commodi labore eaque laboriosam blanditiis."
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"Dolor deleniti soluta illum.",
+						"INVERSIONES",
+						"Sunt error rerum harum mollitia nemo quibusdam.",
+						"BAJA",
+						"Enim ut molestias sint tenetur accusamus veritatis.",
+						"EUROS",
+						"Praesentium et est enim earum consequatur odio."
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"Qui incidunt voluptatum sit et veritatis.",
+						"INVERSIONES",
+						"Quia numquam ducimus dolorem.",
+						"CANCELADO",
+						"Sunt est distinctio sed aut veritatis.",
+						"EUROS",
+						"Debitis error sapiente voluptatem voluptatem aut sit."
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"Fugit porro sunt soluta quas temporibus.",
+						"OPERACIÓN FIDUCIARIA",
+						"Quia rem omnis.",
+						"SUSPENDIDO",
+						"Officia minus rerum dolorum maiores quae voluptas.",
+						"EUROS",
+						"Dolorem nihil itaque et."
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"Officiis sequi commodi ut architecto aut.",
+						"OPERACIÓN FIDUCIARIA",
+						"Corrupti eum aut ducimus repudiandae.",
+						"BAJA",
+						"Iste ut possimus est at repellendus qui explicabo.",
+						"DLS. U.S.A.",
+						"Voluptas iure id sequi dolores eligendi aliquam recusandae."
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"Quia accusamus quas corrupti.",
+						"INVERSIONES",
+						"Odio omnis veniam itaque maiores sed.",
+						"SUSPENDIDO",
+						"Quia cupiditate ut quo corrupti ut.",
+						"DLS. U.S.A.",
+						"Voluptas dolore est deleniti repudiandae minus illum voluptates."
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"Maiores maiores quia rerum temporibus ea.",
+						"INMUEBLES",
+						"Est doloremque ea qui modi numquam ullam.",
+						"SUSPENDIDO",
+						"Quos non voluptatem ad fuga laboriosam laborum non.",
+						"DLS. U.S.A.",
+						"Dolorem omnis itaque ut mollitia et deleniti consequatur."
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"Sed explicabo aut.",
+						"INVERSIONES",
+						"Blanditiis necessitatibus qui quaerat dolor voluptate temporibus distinctio.",
+						"SUSPENDIDO",
+						"Doloribus nihil ea.",
+						"MONEDA NACIONAL",
+						"Sunt aperiam et provident repudiandae."
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"Incidunt sit voluptatum eius ut voluptatibus hic aliquid.",
+						"HONORARIOS",
+						"Asperiores laudantium rerum et quod hic eveniet dolorum.",
+						"ACTIVO",
+						"Officiis sunt ut ab ad.",
+						"EUROS",
+						"Voluptatem dolor aut omnis est aliquam sequi."
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"Provident aliquam nihil nihil omnis.",
+						"INVERSIONES",
+						"Voluptatem eligendi aliquam.",
+						"ACTIVO",
+						"Iusto necessitatibus corrupti voluptatem et fugit asperiores id.",
+						"MONEDA NACIONAL",
+						"Quis delectus consequuntur soluta voluptatem voluptatem suscipit et."
+					]
+				}
+			]
+		}
+	]
+}

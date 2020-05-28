@@ -1,0 +1,182 @@
+{
+	"ids":[
+		{
+			"id": "producto-results",
+			"headers": [
+{ "label": "PROD1" },
+{ "label": "PROD2" },
+{ "label": "PROD3" },
+{ "label": "PROD4" },
+{ "label": "PROD5" },
+{ "label": "PROD6" },
+{ "label": "PROD7" },
+{ "label": "PROD8" },
+{ "label": "PROD9" },
+{ "label": "PROD10" },
+{ "label": "PROD11" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"REPRESENTACIÓN COMÚN",
+						"ADMINISTRACIÓN DE RECURSOS",
+						"ZONA RESTRINGIDA",
+						"GARANTÍA",
+						"DESARROLLO INMOBILIARIO",
+						"MANDATO",
+						"PENSIONES Y JUBILACIONES",
+						"GARANTÍA",
+						"INFRAESTRUCTURA",
+						"GARANTÍA",
+						"REPRESENTACIÓN COMÚN"
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"PENSIONES Y JUBILACIONES",
+						"PLANEACIÓN PATRIMONIAL TESTAMENTARIA",
+						"MANDATO",
+						"MANDATO",
+						"MANDATO",
+						"FUENTE DE PAGO",
+						"REPRESENTACIÓN COMÚN",
+						"MANDATO",
+						"DEPÓSITO CONDICIONAL (Escrow)",
+						"ZONA RESTRINGIDA",
+						"MANDATO"
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"DEPÓSITO CONDICIONAL (Escrow)",
+						"DESARROLLO INMOBILIARIO",
+						"DEPÓSITO CONDICIONAL (Escrow)",
+						"MANDATO",
+						"MANDATO",
+						"PENSIONES Y JUBILACIONES",
+						"ADMINISTRACIÓN DE RECURSOS",
+						"DEPÓSITO CONDICIONAL (Escrow)",
+						"GARANTÍA",
+						"ZONA RESTRINGIDA",
+						"ZONA RESTRINGIDA"
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"MANDATO",
+						"INFRAESTRUCTURA",
+						"INFRAESTRUCTURA",
+						"ADMINISTRACIÓN DE RECURSOS",
+						"ZONA RESTRINGIDA",
+						"ADMINISTRACIÓN DE RECURSOS",
+						"REPRESENTACIÓN COMÚN",
+						"PENSIONES Y JUBILACIONES",
+						"PENSIONES Y JUBILACIONES",
+						"DESARROLLO INMOBILIARIO",
+						"REPRESENTACIÓN COMÚN"
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"GARANTÍA",
+						"ADMINISTRACIÓN DE RECURSOS",
+						"ZONA RESTRINGIDA",
+						"FUENTE DE PAGO",
+						"PLANEACIÓN PATRIMONIAL TESTAMENTARIA",
+						"PENSIONES Y JUBILACIONES",
+						"DEPÓSITO CONDICIONAL (Escrow)",
+						"PLANEACIÓN PATRIMONIAL TESTAMENTARIA",
+						"GARANTÍA",
+						"DESARROLLO INMOBILIARIO",
+						"FUENTE DE PAGO"
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"FUENTE DE PAGO",
+						"PLANEACIÓN PATRIMONIAL TESTAMENTARIA",
+						"DEPÓSITO CONDICIONAL (Escrow)",
+						"MANDATO",
+						"GARANTÍA",
+						"ADMINISTRACIÓN DE RECURSOS",
+						"MANDATO",
+						"INFRAESTRUCTURA",
+						"DESARROLLO INMOBILIARIO",
+						"INFRAESTRUCTURA",
+						"INFRAESTRUCTURA"
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"INFRAESTRUCTURA",
+						"PENSIONES Y JUBILACIONES",
+						"INFRAESTRUCTURA",
+						"ADMINISTRACIÓN DE RECURSOS",
+						"PENSIONES Y JUBILACIONES",
+						"DEPÓSITO CONDICIONAL (Escrow)",
+						"DEPÓSITO CONDICIONAL (Escrow)",
+						"REPRESENTACIÓN COMÚN",
+						"DESARROLLO INMOBILIARIO",
+						"PLANEACIÓN PATRIMONIAL TESTAMENTARIA",
+						"INFRAESTRUCTURA"
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"FUENTE DE PAGO",
+						"ZONA RESTRINGIDA",
+						"ADMINISTRACIÓN DE RECURSOS",
+						"DESARROLLO INMOBILIARIO",
+						"ZONA RESTRINGIDA",
+						"PENSIONES Y JUBILACIONES",
+						"DESARROLLO INMOBILIARIO",
+						"ZONA RESTRINGIDA",
+						"INFRAESTRUCTURA",
+						"ADMINISTRACIÓN DE RECURSOS",
+						"GARANTÍA"
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"FUENTE DE PAGO",
+						"ZONA RESTRINGIDA",
+						"DESARROLLO INMOBILIARIO",
+						"PENSIONES Y JUBILACIONES",
+						"PENSIONES Y JUBILACIONES",
+						"GARANTÍA",
+						"INFRAESTRUCTURA",
+						"FUENTE DE PAGO",
+						"PLANEACIÓN PATRIMONIAL TESTAMENTARIA",
+						"DESARROLLO INMOBILIARIO",
+						"ADMINISTRACIÓN DE RECURSOS"
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"PENSIONES Y JUBILACIONES",
+						"INFRAESTRUCTURA",
+						"GARANTÍA",
+						"INFRAESTRUCTURA",
+						"FUENTE DE PAGO",
+						"PENSIONES Y JUBILACIONES",
+						"PLANEACIÓN PATRIMONIAL TESTAMENTARIA",
+						"PLANEACIÓN PATRIMONIAL TESTAMENTARIA",
+						"ADMINISTRACIÓN DE RECURSOS",
+						"DESARROLLO INMOBILIARIO",
+						"REPRESENTACIÓN COMÚN"
+					]
+				}
+			]
+		}
+	]
+}

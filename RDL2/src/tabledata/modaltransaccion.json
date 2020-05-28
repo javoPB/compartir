@@ -1,0 +1,139 @@
+
+	{
+		"ids":[
+			{
+				"id": "transaccion-results",
+				"headers": [
+				{ "label": "Número de Operación" },
+				{ "label": "Módulo" },
+				{ "label": "Nombre" },
+				{ "label": "Estatus transacción" },
+				{ "label": "Número de Transacción" },
+				{ "label": "Moneda" },
+				{ "label": "Horario límite de ejecución" }
+				],
+				"rows": [
+					{
+						"id": "1",
+						"data": [
+							"Ea cum officiis asperiores quia.",
+							"OPERACIÓN FIDUCIARIA",
+							"Ea ipsum ut qui.",
+							"SUSPENDIDO",
+							"Quis incidunt et.",
+							"EUROS",
+							"Officia omnis eius maiores."
+						]
+					},
+					{
+						"id": "2",
+						"data": [
+							"Laborum sint officia quia ut asperiores consequatur.",
+							"ADMINISTRACION",
+							"Et minus dolores velit repudiandae ratione suscipit.",
+							"CANCELADO",
+							"Animi velit nobis rerum architecto.",
+							"MONEDA NACIONAL",
+							"Aut sunt libero itaque doloremque ut."
+						]
+					},
+					{
+						"id": "3",
+						"data": [
+							"Dolores et incidunt facere aut ratione.",
+							"OPERACIÓN FIDUCIARIA",
+							"Minima assumenda cum doloribus delectus illum minus.",
+							"SUSPENDIDO",
+							"Quo et rem.",
+							"MONEDA NACIONAL",
+							"Repudiandae qui quas expedita inventore."
+						]
+					},
+					{
+						"id": "4",
+						"data": [
+							"In aut adipisci deserunt iure.",
+							"ADMINISTRACION",
+							"Iste magni quia nam.",
+							"BAJA",
+							"At nulla sunt corporis veritatis maxime et.",
+							"EUROS",
+							"Vero voluptatem omnis magnam aliquam."
+						]
+					},
+					{
+						"id": "5",
+						"data": [
+							"Quis commodi rem quis qui blanditiis.",
+							"ADMINISTRACION",
+							"Nam at aliquam et.",
+							"CANCELADO",
+							"Animi exercitationem id et a.",
+							"MONEDA NACIONAL",
+							"Sunt unde quas alias."
+						]
+					},
+					{
+						"id": "6",
+						"data": [
+							"Et porro ipsa quis inventore dicta.",
+							"HONORARIOS",
+							"Perspiciatis eum dolor velit provident vero dolorem amet.",
+							"BAJA",
+							"Dignissimos hic consequatur possimus itaque.",
+							"MONEDA NACIONAL",
+							"Illo quasi ut velit."
+						]
+					},
+					{
+						"id": "7",
+						"data": [
+							"A amet vel tenetur.",
+							"INMUEBLES",
+							"Et commodi odit quidem quos tenetur fugiat sit.",
+							"ACTIVO",
+							"Asperiores sed et.",
+							"EUROS",
+							"Reiciendis voluptas rerum cupiditate et veniam."
+						]
+					},
+					{
+						"id": "8",
+						"data": [
+							"Molestias adipisci asperiores unde ratione est adipisci.",
+							"ADMINISTRACION",
+							"Quod ut molestias necessitatibus.",
+							"BAJA",
+							"Error ipsam quis in.",
+							"DLS. U.S.A.",
+							"Non repudiandae libero."
+						]
+					},
+					{
+						"id": "9",
+						"data": [
+							"In sunt voluptatum atque ipsam dignissimos ea.",
+							"HONORARIOS",
+							"Repellendus nihil aspernatur saepe quia odit.",
+							"ACTIVO",
+							"Eos aut dignissimos ut molestiae.",
+							"MONEDA NACIONAL",
+							"Veritatis aliquam inventore labore nesciunt vel."
+						]
+					},
+					{
+						"id": "10",
+						"data": [
+							"Facere eos omnis unde commodi minus.",
+							"INMUEBLES",
+							"Nisi quas ut sit commodi exercitationem dolor quia.",
+							"ACTIVO",
+							"Est impedit perspiciatis sint et.",
+							"EUROS",
+							"Temporibus debitis est consequuntur enim hic nulla."
+						]
+					}
+				]
+			}
+		]
+	}

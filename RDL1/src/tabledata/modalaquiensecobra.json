@@ -1,0 +1,127 @@
+{
+	"ids":[
+		{
+			"id": "aquiensecobra-results",
+			"headers": [
+{ "label": "COB1" },
+{ "label": "COB2" },
+{ "label": "COB3" },
+{ "label": "COB4" },
+{ "label": "COB5" },
+{ "label": "COB6" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"CARGO AL FONDO",
+						"CARGO AL EFECTIVO",
+						"FIDEICOMITENTE",
+						"CARGO AL FONDO",
+						"FIDEICOMISARIO",
+						"VIA GESTION"
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"CARGO AL EFECTIVO",
+						"FIDEICOMISARIO",
+						"CARGO AL FONDO",
+						"FIDEICOMITENTE",
+						"CARGO AL FONDO",
+						"CARGO AL FONDO"
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"CARGO AL FONDO",
+						"TERCERO",
+						"FIDEICOMITENTE",
+						"FIDEICOMITENTE",
+						"FIDEICOMITENTE",
+						"CARGO AL EFECTIVO"
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"TERCERO",
+						"FIDEICOMISARIO",
+						"FIDEICOMISARIO",
+						"TERCERO",
+						"CARGO AL FONDO",
+						"CARGO AL EFECTIVO"
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"FIDEICOMISARIO",
+						"CARGO AL FONDO",
+						"FIDEICOMITENTE",
+						"FIDEICOMISARIO",
+						"FIDEICOMISARIO",
+						"FIDEICOMISARIO"
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"VIA GESTION",
+						"FIDEICOMITENTE",
+						"TERCERO",
+						"FIDEICOMITENTE",
+						"FIDEICOMISARIO",
+						"CARGO AL EFECTIVO"
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"VIA GESTION",
+						"CARGO AL FONDO",
+						"CARGO AL FONDO",
+						"VIA GESTION",
+						"VIA GESTION",
+						"FIDEICOMISARIO"
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"TERCERO",
+						"VIA GESTION",
+						"VIA GESTION",
+						"FIDEICOMISARIO",
+						"FIDEICOMITENTE",
+						"TERCERO"
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"TERCERO",
+						"FIDEICOMISARIO",
+						"CARGO AL EFECTIVO",
+						"CARGO AL FONDO",
+						"CARGO AL EFECTIVO",
+						"FIDEICOMISARIO"
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"FIDEICOMITENTE",
+						"FIDEICOMISARIO",
+						"CARGO AL EFECTIVO",
+						"TERCERO",
+						"VIA GESTION",
+						"CARGO AL FONDO"
+					]
+				}
+			]
+		}
+	]
+}

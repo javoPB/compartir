@@ -1,0 +1,139 @@
+
+	{
+		"ids":[
+			{
+				"id": "honorarioadministracion-results",
+				"headers": [
+				{ "label": "Fideicomiso" },
+				{ "label": "Periodo" },
+				{ "label": "Monto de Patrimonio (MXP)" },
+				{ "label": "De" },
+				{ "label": "A" },
+				{ "label": "Honorario Actual" },
+				{ "label": "Cuota mínima (MXP)" }
+				],
+				"rows": [
+					{
+						"id": "1",
+						"data": [
+							"YYYYYYYY",
+							"SEMESTRAL",
+							"Reiciendis nemo tenetur natus.",
+							"Distinctio earum molestiae laudantium assumenda officia dolorem qui.",
+							"Non nam qui excepturi nemo quia perspiciatis sunt.",
+							"Possimus est quia.",
+							"Qui temporibus ut quis dolores."
+						]
+					},
+					{
+						"id": "2",
+						"data": [
+							"YYYYYYYY",
+							"TRIMESTRAL",
+							"Non laboriosam officiis minus dolor natus.",
+							"Amet consequuntur ut esse.",
+							"Est harum temporibus commodi nihil.",
+							"Odit aut laboriosam quia dolor vel provident quia.",
+							"Est rem distinctio."
+						]
+					},
+					{
+						"id": "3",
+						"data": [
+							"YYYYYYYY",
+							"SEMESTRAL",
+							"Rem est ut repudiandae natus eligendi.",
+							"Earum omnis et quia et.",
+							"Architecto hic earum totam unde necessitatibus ea.",
+							"Voluptatem aspernatur ipsam neque doloribus recusandae.",
+							"Reprehenderit amet eos dicta corrupti enim vel similique."
+						]
+					},
+					{
+						"id": "4",
+						"data": [
+							"YYYYYYYY",
+							"TRIMESTRAL",
+							"Aut eos ut voluptatem odit iste.",
+							"Qui nemo nisi explicabo qui officia.",
+							"Soluta est nam delectus.",
+							"Amet veritatis qui voluptas natus illo eius.",
+							"Sed culpa laboriosam."
+						]
+					},
+					{
+						"id": "5",
+						"data": [
+							"YYYYYYYY",
+							"SEMESTRAL",
+							"Perferendis quam ea dolorum voluptatem et natus.",
+							"Nemo modi tempora.",
+							"Veniam illum vel ut maiores laudantium enim.",
+							"Repellat reprehenderit non.",
+							"Quam optio dolor sapiente laboriosam."
+						]
+					},
+					{
+						"id": "6",
+						"data": [
+							"YYYYYYYY",
+							"TRIMESTRAL",
+							"Voluptatem impedit facilis est in eligendi.",
+							"Voluptate consequatur voluptatum rem aperiam officiis.",
+							"Rerum temporibus esse sint consequatur.",
+							"Natus saepe autem quo.",
+							"Quibusdam tempora voluptatibus at corporis."
+						]
+					},
+					{
+						"id": "7",
+						"data": [
+							"YYYYYYYY",
+							"TRIMESTRAL",
+							"Tempora modi autem.",
+							"Quis sit itaque placeat natus.",
+							"Nobis est qui eligendi voluptatem.",
+							"Molestiae consequatur soluta nemo laboriosam.",
+							"Qui fugiat aut consectetur nobis doloremque quidem."
+						]
+					},
+					{
+						"id": "8",
+						"data": [
+							"YYYYYYYY",
+							"SEMESTRAL",
+							"Delectus dolores porro deserunt.",
+							"Totam debitis eius ut veniam enim aut porro.",
+							"Qui voluptatum aut molestiae.",
+							"Voluptatem molestiae explicabo.",
+							"Dicta sit quia veniam."
+						]
+					},
+					{
+						"id": "9",
+						"data": [
+							"YYYYYYYY",
+							"SEMESTRAL",
+							"Voluptate commodi similique modi ut non in.",
+							"Excepturi eveniet recusandae voluptatem ratione.",
+							"Et iusto sit eveniet eum iste non ipsum.",
+							"Molestiae ipsa eum illum.",
+							"Soluta soluta nostrum adipisci expedita labore adipisci."
+						]
+					},
+					{
+						"id": "10",
+						"data": [
+							"YYYYYYYY",
+							"TRIMESTRAL",
+							"Est iure blanditiis et animi dolorem repellendus neque.",
+							"Minima inventore provident illo eum sit enim.",
+							"Molestias laboriosam id adipisci consequatur consequuntur tenetur velit.",
+							"Qui eos maxime nulla quisquam totam ea.",
+							"Ipsam optio in est aut error itaque."
+						]
+					}
+				]
+			}
+		]
+	}

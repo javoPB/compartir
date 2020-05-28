@@ -1,0 +1,106 @@
+
+	{
+		"ids":[
+			{
+				"id": "evaluacionriesgos-results",
+				"headers": [
+				{ "label": "Fideicomiso" },
+				{ "label": "Cliente" },
+				{ "label": "Estructura" },
+				{ "label": "Resultado Final" }
+				],
+				"rows": [
+					{
+						"id": "1",
+						"data": [
+							"YYYYYYYY",
+							"Alto",
+							"Medio",
+							"Bajo"
+						]
+					},
+					{
+						"id": "2",
+						"data": [
+							"YYYYYYYY",
+							"Alto",
+							"Bajo",
+							"Bajo"
+						]
+					},
+					{
+						"id": "3",
+						"data": [
+							"YYYYYYYY",
+							"Bajo",
+							"Alto",
+							"Alto"
+						]
+					},
+					{
+						"id": "4",
+						"data": [
+							"YYYYYYYY",
+							"Alto",
+							"Bajo",
+							"Bajo"
+						]
+					},
+					{
+						"id": "5",
+						"data": [
+							"YYYYYYYY",
+							"Medio",
+							"Alto",
+							"Bajo"
+						]
+					},
+					{
+						"id": "6",
+						"data": [
+							"YYYYYYYY",
+							"Alto",
+							"Bajo",
+							"Bajo"
+						]
+					},
+					{
+						"id": "7",
+						"data": [
+							"YYYYYYYY",
+							"Bajo",
+							"Medio",
+							"Alto"
+						]
+					},
+					{
+						"id": "8",
+						"data": [
+							"YYYYYYYY",
+							"Medio",
+							"Alto",
+							"Medio"
+						]
+					},
+					{
+						"id": "9",
+						"data": [
+							"YYYYYYYY",
+							"Alto",
+							"Medio",
+							"Alto"
+						]
+					},
+					{
+						"id": "10",
+						"data": [
+							"YYYYYYYY",
+							"Alto",
+							"Alto",
+							"Alto"
+						]
+					}
+				]
+			}
+		]
+	}

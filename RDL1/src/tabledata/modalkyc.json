@@ -1,0 +1,138 @@
+{
+	"ids":[
+		{
+			"id": "kyc-results",
+			"headers": [
+			{ "label": "Fideicomiso" },
+			{ "label": "Nombre" },
+			{ "label": "Número de Registro" },
+			{ "label": "Oficina" },
+			{ "label": "Concepto de Impresión" },
+			{ "label": "CR de la Banca" },
+			{ "label": "Folio" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"YYYYYYYY",
+						"Exercitationem reiciendis repudiandae sed.",
+						"Nihil animi atque architecto expedita nostrum.",
+						"Et aliquam et aliquam aspernatur et quam atque.",
+						"CALL REPORT(Administración Fiducuario)",
+						"Mollitia voluptas aliquid quae laborum error.",
+						"Deleniti nam expedita tenetur."
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"YYYYYYYY",
+						"Cupiditate dolor inventore sint earum distinctio corporis.",
+						"Rerum ad fugiat ut voluptatem mollitia nesciunt.",
+						"Fuga repellat quia maxime impedit necessitatibus vel explicabo.",
+						"ALTA DEL CONTRATO(Promoción Fiduciaria)",
+						"Nihil omnis nam velit voluptatem in aut animi.",
+						"Odit qui voluptates nisi."
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"YYYYYYYY",
+						"Adipisci ut ea ea non vel sit.",
+						"Et ad consequatur alias non rerum et.",
+						"Blanditiis in nam occaecati quis quod iusto.",
+						"ALTA DEL CONTRATO(Promoción Fiduciaria)",
+						"Quae fuga consectetur sapiente.",
+						"Aut sit sed impedit aut repudiandae nostrum."
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"YYYYYYYY",
+						"Aliquid dolore et.",
+						"Totam nihil magnam ex sunt.",
+						"Dolore harum nihil ab aut maxime aliquam voluptas.",
+						"CAMBIO DE DATOS ADMINISTRATIVOS(Administración Fiduciaria)",
+						"Expedita vel aut autem.",
+						"Aut consequatur fugiat."
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"YYYYYYYY",
+						"Dolor soluta quis ea.",
+						"Et impedit ut.",
+						"Nemo reprehenderit quis iusto eligendi.",
+						"ALTA DEL CONTRATO(Promoción Fiduciaria)",
+						"Repellendus dignissimos assumenda.",
+						"Ut repudiandae in aliquid rem sed porro."
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"YYYYYYYY",
+						"Eos quia quo aut suscipit laboriosam.",
+						"Qui officia nam unde laborum nihil molestias.",
+						"Vel omnis quia quae ut.",
+						"CALL REPORT(Administración Fiducuario)",
+						"Qui eius laborum eos enim excepturi.",
+						"Quo asperiores eveniet sed aliquam velit."
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"YYYYYYYY",
+						"Quo repellendus nihil.",
+						"Dolor sit ex ullam assumenda eius.",
+						"Quaerat id reiciendis ut.",
+						"CALL REPORT(Administración Fiducuario)",
+						"Eum qui doloribus iste at iusto quia consectetur.",
+						"Explicabo rerum aut quae ipsam."
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"YYYYYYYY",
+						"Sequi maxime explicabo praesentium.",
+						"Voluptatem maiores corporis eum quibusdam.",
+						"Iusto numquam ut autem facilis est.",
+						"CALL REPORT(Administración Fiducuario)",
+						"Voluptates sit sit debitis aut quo eaque.",
+						"Mollitia laborum iusto deleniti."
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"YYYYYYYY",
+						"Quia eligendi consequatur dolorum atque mollitia officiis.",
+						"Quae aliquam est.",
+						"Sunt molestiae consequuntur adipisci.",
+						"CALL REPORT(Administración Fiducuario)",
+						"Voluptatum quo nemo.",
+						"Consectetur non optio eos porro dolorem."
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"YYYYYYYY",
+						"Fugiat maxime ut nesciunt sint quia molestiae cum.",
+						"Est eum ipsum enim totam et.",
+						"Recusandae qui rerum.",
+						"CAMBIO DE DATOS ADMINISTRATIVOS(Administración Fiduciaria)",
+						"Velit rem error sequi officiis.",
+						"Aperiam qui ea."
+					]
+				}
+			]
+		}
+	]
+}

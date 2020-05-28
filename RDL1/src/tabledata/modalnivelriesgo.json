@@ -1,0 +1,94 @@
+{
+	"ids":[
+		{
+			"id": "nivelriesgo-results",
+			"headers": [
+{ "label": "ALTO" },
+{ "label": "MEDIO" },
+{ "label": "BAJO" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"Medio",
+						"Alto",
+						"Alto"
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"Medio",
+						"Alto",
+						"Bajo"
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"Bajo",
+						"Bajo",
+						"Bajo"
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"Alto",
+						"Alto",
+						"Alto"
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"Medio",
+						"Alto",
+						"Bajo"
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"Bajo",
+						"Alto",
+						"Bajo"
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"Medio",
+						"Bajo",
+						"Medio"
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"Medio",
+						"Medio",
+						"Alto"
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"Alto",
+						"Alto",
+						"Alto"
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"Bajo",
+						"Medio",
+						"Bajo"
+					]
+				}
+			]
+		}
+	]
+}

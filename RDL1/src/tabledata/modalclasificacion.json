@@ -1,0 +1,94 @@
+{
+	"ids":[
+		{
+			"id": "clasificacion-results",
+			"headers": [
+{ "label": "FIDESTRUC" },
+{ "label": "FIDESTAND" },
+{ "label": "MANESTAND" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"FIDEICOMISO ESTRUCTURADO",
+						"FIDEICOMISO ESTANDARIZADO",
+						"FIDEICOMISO ESTANDARIZADO"
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"FIDEICOMISO ESTRUCTURADO",
+						"FIDEICOMISO ESTRUCTURADO",
+						"FIDEICOMISO ESTANDARIZADO"
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"FIDEICOMISO ESTRUCTURADO",
+						"FIDEICOMISO ESTANDARIZADO",
+						"MANDATO ESTANDARIZADO"
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"FIDEICOMISO ESTRUCTURADO",
+						"FIDEICOMISO ESTRUCTURADO",
+						"FIDEICOMISO ESTRUCTURADO"
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"FIDEICOMISO ESTRUCTURADO",
+						"FIDEICOMISO ESTRUCTURADO",
+						"FIDEICOMISO ESTRUCTURADO"
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"MANDATO ESTANDARIZADO",
+						"MANDATO ESTANDARIZADO",
+						"FIDEICOMISO ESTRUCTURADO"
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"FIDEICOMISO ESTANDARIZADO",
+						"MANDATO ESTANDARIZADO",
+						"MANDATO ESTANDARIZADO"
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"FIDEICOMISO ESTRUCTURADO",
+						"FIDEICOMISO ESTANDARIZADO",
+						"MANDATO ESTANDARIZADO"
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"FIDEICOMISO ESTRUCTURADO",
+						"FIDEICOMISO ESTRUCTURADO",
+						"FIDEICOMISO ESTANDARIZADO"
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"FIDEICOMISO ESTRUCTURADO",
+						"MANDATO ESTANDARIZADO",
+						"FIDEICOMISO ESTANDARIZADO"
+					]
+				}
+			]
+		}
+	]
+}

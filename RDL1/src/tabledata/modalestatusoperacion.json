@@ -1,0 +1,83 @@
+{
+	"ids":[
+		{
+			"id": "estatusoperacion-results",
+			"headers": [
+{ "label": "NORMAL" },
+{ "label": "COTABILIDAD" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"SOLO CONTABLE",
+						"NORMAL"
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"SOLO CONTABLE",
+						"NORMAL"
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"NORMAL",
+						"SOLO CONTABLE"
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"NORMAL",
+						"NORMAL"
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"NORMAL",
+						"SOLO CONTABLE"
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"NORMAL",
+						"SOLO CONTABLE"
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"SOLO CONTABLE",
+						"NORMAL"
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"SOLO CONTABLE",
+						"NORMAL"
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"SOLO CONTABLE",
+						"SOLO CONTABLE"
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"SOLO CONTABLE",
+						"SOLO CONTABLE"
+					]
+				}
+			]
+		}
+	]
+}

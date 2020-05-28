@@ -1,0 +1,105 @@
+{
+	"ids":[
+		{
+			"id": "periodohonorario-results",
+			"headers": [
+{ "label": "SEMESTRAL" },
+{ "label": "MENSUAL" },
+{ "label": "TRIMESTRAL" },
+{ "label": "ANUAL" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"TRIMESTRAL",
+						"MENSUAL",
+						"ANUAL",
+						"TRIMESTRAL"
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"SEMESTRAL",
+						"ANUAL",
+						"SEMESTRAL",
+						"ANUAL"
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"ANUAL",
+						"ANUAL",
+						"MENSUAL",
+						"TRIMESTRAL"
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"ANUAL",
+						"ANUAL",
+						"MENSUAL",
+						"TRIMESTRAL"
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"ANUAL",
+						"SEMESTRAL",
+						"TRIMESTRAL",
+						"MENSUAL"
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"TRIMESTRAL",
+						"ANUAL",
+						"TRIMESTRAL",
+						"ANUAL"
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"ANUAL",
+						"MENSUAL",
+						"ANUAL",
+						"ANUAL"
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"MENSUAL",
+						"ANUAL",
+						"TRIMESTRAL",
+						"ANUAL"
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"TRIMESTRAL",
+						"MENSUAL",
+						"SEMESTRAL",
+						"MENSUAL"
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"MENSUAL",
+						"TRIMESTRAL",
+						"ANUAL",
+						"SEMESTRAL"
+					]
+				}
+			]
+		}
+	]
+}

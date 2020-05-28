@@ -1,0 +1,138 @@
+{
+	"ids":[
+		{
+			"id": "fideicomisospendientesliberar-results",
+			"headers": [
+			{ "label": "Fideicomiso" },
+			{ "label": "Nombre del Fiso" },
+			{ "label": "Tipo Negocio" },
+			{ "label": "Tipo Producto" },
+			{ "label": "Manejo" },
+			{ "label": "Tipo Persona" },
+			{ "label": "Estatus" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"YYYYYYYY",
+						"Saepe consequatur occaecati minima vero rerum illo.",
+						"REPRESENTACIÓN COMÚN",
+						"ADMINISTRACIÓN DE RECURSOS",
+						"NO DISCRECIONAL",
+						"GOBIERNO",
+						"AUTORIZAR"
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"YYYYYYYY",
+						"Sequi et est dolorem hic tenetur itaque.",
+						"MANDATO",
+						"PENSIONES Y JUBILACIONES",
+						"ADMINISTRACIÓN",
+						"GOBIERNO",
+						"AUTORIZAR"
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"YYYYYYYY",
+						"Inventore dolor laboriosam perspiciatis reprehenderit est.",
+						"FIDEICOMISO",
+						"REPRESENTACIÓN COMÚN",
+						"ADMINISTRACIÓN",
+						"GOBIERNO",
+						"AUTORIZAR"
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"YYYYYYYY",
+						"Possimus consequatur itaque.",
+						"REPRESENTACIÓN COMÚN",
+						"ZONA RESTRINGIDA",
+						"DISCRECIONAL RESTRINGIDO",
+						"FISICA",
+						"AUTORIZAR"
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"YYYYYYYY",
+						"Amet alias odio.",
+						"MANDATO",
+						"FUENTE DE PAGO",
+						"NO DISCRECIONAL",
+						"FISICA",
+						"AUTORIZAR"
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"YYYYYYYY",
+						"Repudiandae est quia et aliquam ut molestiae.",
+						"REPRESENTACIÓN COMÚN",
+						"ADMINISTRACIÓN DE RECURSOS",
+						"ADMINISTRACIÓN",
+						"MORAL",
+						"AUTORIZAR"
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"YYYYYYYY",
+						"Rem delectus mollitia eos.",
+						"REPRESENTACIÓN COMÚN",
+						"PENSIONES Y JUBILACIONES",
+						"ADMINISTRACIÓN",
+						"GOBIERNO",
+						"AUTORIZAR"
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"YYYYYYYY",
+						"Aut in et voluptatem voluptas ullam non et.",
+						"REPRESENTACIÓN COMÚN",
+						"ADMINISTRACIÓN DE RECURSOS",
+						"DISCRECIONAL RESTRINGIDO",
+						"FISICA",
+						"AUTORIZAR"
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"YYYYYYYY",
+						"Omnis officia sint quae earum omnis.",
+						"MANDATO",
+						"DESARROLLO INMOBILIARIO",
+						"DISCRECIONAL RESTRINGIDO",
+						"MORAL",
+						"AUTORIZAR"
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"YYYYYYYY",
+						"Sequi et dolores non consequatur.",
+						"MANDATO",
+						"ZONA RESTRINGIDA",
+						"SIN MANEJO DE INVERSION",
+						"MORAL",
+						"AUTORIZAR"
+					]
+				}
+			]
+		}
+	]
+}

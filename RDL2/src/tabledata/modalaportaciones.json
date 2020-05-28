@@ -1,0 +1,260 @@
+
+	{
+		"ids":[
+			{
+				"id": "aportaciones-results",
+				"headers": [
+				{ "label": "Instrucción" },
+				{ "label": "Fideicomiso" },
+				{ "label": "Sub fiso" },
+				{ "label": "Total importe" },
+				{ "label": "Destino de la recepción" },
+				{ "label": "Estatus" },
+				{ "label": "Moneda" },
+				{ "label": "Forma de la recepción" },
+				{ "label": "Estatus de operación" },
+				{ "label": "Tipo persona" },
+				{ "label": "Fecha de contabilización" },
+				{ "label": "Nombre" },
+				{ "label": "Descripción complementaria" },
+				{ "label": "Nombre del fideicomiso" },
+				{ "label": "Eventos realizados/eventos separados" },
+				{ "label": "Total Aplicado" },
+				{ "label": "Importe de la recepción" },
+				{ "label": "Origen recursos" }
+				],
+				"rows": [
+					{
+						"id": "1",
+						"data": [
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"Labore reiciendis ut.",
+							"DEPÓSITOS PARA PAGO DE HONORARIOS",
+							"APLICADO PARCIAL",
+							"MONEDA NACIONAL",
+							"CARGO A CUENTA CHEQUES SCOTIABANK",
+							"NORMAL",
+							"FIDEICOMISARIO",
+							"2019-May-18",
+							"Voluptatem nobis velit natus hic.",
+							"Eum ea sint maiores qui quisquam tempore.",
+							"Cum asperiores incidunt illum.",
+							"Porro est nihil.",
+							"Sunt enim et repellendus.",
+							"Omnis sequi ut aliquam suscipit.",
+							"FIDEICOMITENTE A"
+						]
+					},
+					{
+						"id": "2",
+						"data": [
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"Sapiente aut officiis earum.",
+							"DEVOLUCIONES POR APLICAR",
+							"PENDIENTE",
+							"EUROS",
+							"DEPÓSITO POR SPEUA",
+							"NORMAL",
+							"FIDEICOMITENTE",
+							"2018-Dec-25",
+							"Ab est quas tempore quia itaque.",
+							"Ratione sint nostrum.",
+							"Eos voluptates occaecati ullam.",
+							"Possimus ut consectetur consectetur voluptas illo est.",
+							"Et recusandae eum voluptatem et.",
+							"Nesciunt iste voluptatibus voluptatum repudiandae similique iusto ipsa.",
+							"GOBIERNO MUNICIPAL"
+						]
+					},
+					{
+						"id": "3",
+						"data": [
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"Illo quia consectetur totam a placeat.",
+							"POR VENTA DE DIVISAS",
+							"EN PROCESO",
+							"MONEDA NACIONAL",
+							"CARGO A CUENTA CHEQUES SCOTIABANK",
+							"SOLO CONTABLE",
+							"FIDEICOMISARIO",
+							"2019-Jun-27",
+							"Distinctio eum sit sed ex blanditiis dolor delectus.",
+							"Consequatur ea quas suscipit earum repudiandae minus qui.",
+							"Temporibus voluptatem voluptatem neque.",
+							"Aliquam deserunt est alias optio et.",
+							"Non voluptas repudiandae.",
+							"Laboriosam voluptate quos et nisi.",
+							"CLIENTES MEXDER"
+						]
+					},
+					{
+						"id": "4",
+						"data": [
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"Error quibusdam quo nam rerum autem non.",
+							"DEPÓSITOS PARA PAGO DE HONORARIOS",
+							"APLICADO PARCIAL",
+							"MONEDA NACIONAL",
+							"CARGO A CUENTA CHEQUES SCOTIABANK",
+							"SOLO CONTABLE",
+							"FIDEICOMISARIO",
+							"2018-Oct-25",
+							"Mollitia nemo at dolore et dolorem et.",
+							"Facilis alias quas.",
+							"Molestiae deserunt sint minima laboriosam dicta ad voluptatum.",
+							"Quis aut labore aliquam.",
+							"Cum consequatur aut repellendus.",
+							"Molestias nostrum dolor dolores veritatis.",
+							"GOBIERNO FEDERAL"
+						]
+					},
+					{
+						"id": "5",
+						"data": [
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"Eius dolore possimus quidem qui.",
+							"DEPÓSITOS PARA PAGO DE HONORARIOS",
+							"APLICADO PARCIAL",
+							"MONEDA NACIONAL",
+							"DEPÓSITO POR SPEUA",
+							"NORMAL",
+							"FIDEICOMITENTE",
+							"2019-May-21",
+							"Id officia tempore eius consequatur alias omnis totam.",
+							"Illum magnam quis distinctio corporis eligendi est.",
+							"Molestiae rem in odio id minima eum.",
+							"Qui sapiente incidunt deleniti dignissimos.",
+							"Ad sed et rerum eum suscipit cupiditate.",
+							"Ut autem consequuntur debitis modi nam a quidem.",
+							"CLIENTES MEXDER"
+						]
+					},
+					{
+						"id": "6",
+						"data": [
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"Sed doloribus ut omnis non nihil modi ut.",
+							"COBROD DE COMISIONES",
+							"APLICADO PARCIAL",
+							"MONEDA NACIONAL",
+							"DEPÓSITO POR SPEUA",
+							"NORMAL",
+							"FIDEICOMITENTE",
+							"2019-Jul-01",
+							"Facilis maiores in consequatur quam autem nostrum cumque.",
+							"Impedit beatae labore repellat eaque.",
+							"Id nisi nihil.",
+							"Non repellat aut sed non earum.",
+							"Est est aut asperiores voluptatum sequi facilis.",
+							"Sint alias dignissimos vero voluptatibus sed vitae cum.",
+							"GOBIERNO ESTATAL"
+						]
+					},
+					{
+						"id": "7",
+						"data": [
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"Maiores labore maiores perferendis et labore.",
+							"POR VENTA DE DIVISAS",
+							"PENDIENTE",
+							"DLS. U.S.A.",
+							"DEPÓSITO CHEQUE SCOTIABAKN",
+							"NORMAL",
+							"FIDEICOMISARIO",
+							"2019-Aug-04",
+							"Commodi eveniet id sunt alias et sit.",
+							"Qui et vel est.",
+							"Perspiciatis iusto at qui nulla sunt quo aut.",
+							"Aliquid dignissimos voluptate error dolorem beatae.",
+							"Enim voluptatem maiores.",
+							"Laborum dolorem culpa placeat aut blanditiis dolorem quam.",
+							"GOBIERNO FEDERAL"
+						]
+					},
+					{
+						"id": "8",
+						"data": [
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"A minima omnis est.",
+							"DEPÓSITOS PARA PAGO DE HONORARIOS",
+							"APLICADO PARCIAL",
+							"MONEDA NACIONAL",
+							"DEPÓSITO POR SPEUA",
+							"NORMAL",
+							"FIDEICOMITENTE",
+							"2018-Nov-01",
+							"Repellendus consectetur et soluta molestiae adipisci.",
+							"Et saepe fugiat.",
+							"Ea velit est corporis exercitationem sit.",
+							"Quia sunt culpa harum distinctio sint labore necessitatibus.",
+							"Veniam praesentium laborum aut omnis praesentium rerum eveniet.",
+							"Consequuntur quia quam quam vitae molestiae.",
+							"GOBIERNO ESTATAL"
+						]
+					},
+					{
+						"id": "9",
+						"data": [
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"Numquam dolor voluptatibus.",
+							"DEVOLUCIONES POR APLICAR",
+							"CANCELADO",
+							"DLS. U.S.A.",
+							"CARGO A CUENTA CHEQUES SCOTIABANK",
+							"SOLO CONTABLE",
+							"FIDEICOMISARIO",
+							"2019-Aug-01",
+							"Nisi quaerat ut voluptates et assumenda non molestias.",
+							"Molestiae qui omnis.",
+							"Eaque autem maxime rerum quia possimus sit ut.",
+							"Nemo fugit sint.",
+							"Repellat accusamus quam.",
+							"Quaerat doloribus et sed molestias architecto.",
+							"GOBIERNO ESTATAL"
+						]
+					},
+					{
+						"id": "10",
+						"data": [
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"Nam rerum molestiae quia suscipit quas quisquam.",
+							"DEVOLUCIONES POR APLICAR",
+							"CANCELADO",
+							"DLS. U.S.A.",
+							"DEPÓSITO POR SPEUA",
+							"NORMAL",
+							"FIDEICOMITENTE",
+							"2020-May-22",
+							"Delectus et esse quidem ipsum dolores nihil consequatur.",
+							"Reiciendis sequi a accusamus quaerat ratione corporis minus.",
+							"Ut facere ea velit.",
+							"Minus harum perspiciatis animi perferendis.",
+							"Dolor repellendus distinctio necessitatibus saepe earum sit ea.",
+							"Adipisci maiores et rerum.",
+							"GOBIERNO ESTATAL"
+						]
+					}
+				]
+			}
+		]
+	}

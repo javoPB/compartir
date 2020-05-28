@@ -1,0 +1,95 @@
+
+	{
+		"ids":[
+			{
+				"id": "retiro-results",
+				"headers": [
+				{ "label": "Usuario" },
+				{ "label": "Fecha y hora" },
+				{ "label": "Seleccionar Archivo" }
+				],
+				"rows": [
+					{
+						"id": "1",
+						"data": [
+							"Temporibus vitae eos incidunt asperiores temporibus.",
+							"Consectetur est aut quidem delectus et.",
+							""
+						]
+					},
+					{
+						"id": "2",
+						"data": [
+							"Sapiente beatae accusamus optio ducimus praesentium sed ipsam.",
+							"Quas voluptatem voluptatem velit vero.",
+							""
+						]
+					},
+					{
+						"id": "3",
+						"data": [
+							"Harum et in consectetur repellat aut labore accusamus.",
+							"Eligendi sed aut quas aut impedit non.",
+							""
+						]
+					},
+					{
+						"id": "4",
+						"data": [
+							"Rerum dolores ut dignissimos reiciendis incidunt aut culpa.",
+							"Vel necessitatibus qui ratione sit ad et at.",
+							""
+						]
+					},
+					{
+						"id": "5",
+						"data": [
+							"Laboriosam asperiores placeat dolorem.",
+							"Et sit eligendi quo exercitationem.",
+							""
+						]
+					},
+					{
+						"id": "6",
+						"data": [
+							"Ipsum sapiente laudantium ex ullam cupiditate ut.",
+							"Sint expedita iusto.",
+							""
+						]
+					},
+					{
+						"id": "7",
+						"data": [
+							"Fugiat repudiandae quo velit omnis quia dolorem.",
+							"Sit repellat porro expedita.",
+							""
+						]
+					},
+					{
+						"id": "8",
+						"data": [
+							"Consequatur illo omnis dolor repellendus in voluptate.",
+							"Vero consequatur corporis et iste.",
+							""
+						]
+					},
+					{
+						"id": "9",
+						"data": [
+							"Eum odit cumque cumque quo vel soluta.",
+							"Aut facilis voluptas vitae sit.",
+							""
+						]
+					},
+					{
+						"id": "10",
+						"data": [
+							"Dolorem sint ad excepturi sit dolorem.",
+							"Cumque nemo rem ut eos accusamus a.",
+							""
+						]
+					}
+				]
+			}
+		]
+	}

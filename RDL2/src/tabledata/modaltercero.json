@@ -1,0 +1,128 @@
+
+	{
+		"ids":[
+			{
+				"id": "tercero-results",
+				"headers": [
+				{ "label": "Fideicomiso" },
+				{ "label": "No. de tercero" },
+				{ "label": "Razón social" },
+				{ "label": "Actividad económica" },
+				{ "label": "Estatus" },
+				{ "label": "RFC" }
+				],
+				"rows": [
+					{
+						"id": "1",
+						"data": [
+							"YYYYYYYY",
+							"9,176",
+							"Sint aspernatur et esse est temporibus.",
+							"INGENIERO",
+							"SUSPENDIDO",
+							"Iure voluptatum nostrum nemo sunt eligendi aut odio."
+						]
+					},
+					{
+						"id": "2",
+						"data": [
+							"YYYYYYYY",
+							"9,886",
+							"Accusamus non dicta.",
+							"INGENIERO",
+							"CANCELADO",
+							"Dolores quibusdam aut."
+						]
+					},
+					{
+						"id": "3",
+						"data": [
+							"YYYYYYYY",
+							"9,827",
+							"Voluptatem modi praesentium in.",
+							"ARQUITECTO",
+							"ACTIVO",
+							"Recusandae et eveniet."
+						]
+					},
+					{
+						"id": "4",
+						"data": [
+							"YYYYYYYY",
+							"6,007",
+							"Est ut necessitatibus sed voluptas.",
+							"EMPRESARIO",
+							"SUSPENDIDO",
+							"Debitis accusantium nemo earum eos natus."
+						]
+					},
+					{
+						"id": "5",
+						"data": [
+							"YYYYYYYY",
+							"2,382",
+							"Suscipit accusantium alias ipsam animi.",
+							"COMERCIANTE",
+							"SUSPENDIDO",
+							"Sit unde consequuntur assumenda ut dolorem non explicabo."
+						]
+					},
+					{
+						"id": "6",
+						"data": [
+							"YYYYYYYY",
+							"882",
+							"Voluptatem ea aliquid rerum accusamus.",
+							"INGENIERO",
+							"ACTIVO",
+							"Ex quis temporibus doloremque doloribus dolor consectetur."
+						]
+					},
+					{
+						"id": "7",
+						"data": [
+							"YYYYYYYY",
+							"5,394",
+							"Omnis rerum natus vel aliquid laboriosam.",
+							"INGENIERO",
+							"SUSPENDIDO",
+							"Corrupti voluptate itaque blanditiis assumenda qui sed qui."
+						]
+					},
+					{
+						"id": "8",
+						"data": [
+							"YYYYYYYY",
+							"9,195",
+							"Rem ut blanditiis est non quia sunt quasi.",
+							"ARQUITECTO",
+							"SUSPENDIDO",
+							"Ipsa placeat magni mollitia in aut aperiam nulla."
+						]
+					},
+					{
+						"id": "9",
+						"data": [
+							"YYYYYYYY",
+							"1,647",
+							"Quo reprehenderit expedita.",
+							"INGENIERO",
+							"CANCELADO",
+							"Aut delectus voluptatem voluptatum laborum magni."
+						]
+					},
+					{
+						"id": "10",
+						"data": [
+							"YYYYYYYY",
+							"2,183",
+							"Enim qui doloribus sunt.",
+							"AGENTES INMOBILIARIOS",
+							"SUSPENDIDO",
+							"Rem eum labore est consequatur qui."
+						]
+					}
+				]
+			}
+		]
+	}

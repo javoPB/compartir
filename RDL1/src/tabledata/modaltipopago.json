@@ -1,0 +1,105 @@
+{
+	"ids":[
+		{
+			"id": "tipopago-results",
+			"headers": [
+{ "label": "TIPOPAGO1" },
+{ "label": "TIPOPAGO2" },
+{ "label": "TIPOPAGO3" },
+{ "label": "TIPOPAGO4" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"BANCO A TERCEROS FIDEICOMISOS NORMALES",
+						"BANCO A TERCEROS MEXDER",
+						"BANCO A BANCO",
+						"BANCO A BANCO"
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"BANCO A TERCEROS FIDEICOMISOS NORMALES",
+						"BANCO A TERCEROS VOSTRO",
+						"BANCO A BANCO",
+						"BANCO A TERCEROS MEXDER"
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"BANCO A TERCEROS FIDEICOMISOS NORMALES",
+						"BANCO A BANCO",
+						"BANCO A BANCO",
+						"BANCO A BANCO"
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"BANCO A TERCEROS MEXDER",
+						"BANCO A BANCO",
+						"BANCO A BANCO",
+						"BANCO A TERCEROS MEXDER"
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"BANCO A BANCO",
+						"BANCO A TERCEROS FIDEICOMISOS NORMALES",
+						"BANCO A BANCO",
+						"BANCO A BANCO"
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"BANCO A TERCEROS MEXDER",
+						"BANCO A TERCEROS VOSTRO",
+						"BANCO A BANCO",
+						"BANCO A TERCEROS VOSTRO"
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"BANCO A TERCEROS MEXDER",
+						"BANCO A TERCEROS VOSTRO",
+						"BANCO A TERCEROS MEXDER",
+						"BANCO A TERCEROS FIDEICOMISOS NORMALES"
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"BANCO A BANCO",
+						"BANCO A TERCEROS VOSTRO",
+						"BANCO A TERCEROS MEXDER",
+						"BANCO A TERCEROS MEXDER"
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"BANCO A TERCEROS VOSTRO",
+						"BANCO A TERCEROS FIDEICOMISOS NORMALES",
+						"BANCO A BANCO",
+						"BANCO A TERCEROS MEXDER"
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"BANCO A TERCEROS MEXDER",
+						"BANCO A BANCO",
+						"BANCO A TERCEROS FIDEICOMISOS NORMALES",
+						"BANCO A TERCEROS FIDEICOMISOS NORMALES"
+					]
+				}
+			]
+		}
+	]
+}

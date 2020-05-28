@@ -1,0 +1,105 @@
+{
+	"ids":[
+		{
+			"id": "formarecepcioneaportaciones-results",
+			"headers": [
+{ "label": "RECEPCION1" },
+{ "label": "RECEPCION2" },
+{ "label": "RECEPCION3" },
+{ "label": "RECEPCION4" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"DEPÓSITO POR SPEUA",
+						"DEPÓSITO CHEQUE SCOTIABAKN",
+						"CARGO A CUENTA CHEQUES SCOTIABANK",
+						"DEPÓSITO POR SPEUA"
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"DEPÓSITO POR SPEUA",
+						"CARGO A CUENTA CHEQUES SCOTIABANK",
+						"CARGO A CUENTA CHEQUES SCOTIABANK",
+						"DEPÓSITO POR SPEUA"
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"DEPÓSITO CHEQUE SCOTIABAKN",
+						"DEPÓSITO CHEQUE SCOTIABAKN",
+						"DEPÓSITO CHEQUE SCOTIABAKN",
+						"DEPÓSITO CHEQUE SCOTIABAKN"
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"DEPÓSITO POR SPEUA",
+						"DEPÓSITO CHEQUE SCOTIABAKN",
+						"CARGO A CUENTA CHEQUES SCOTIABANK",
+						"DEPÓSITO POR SPEUA"
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"CARGO A CUENTA CHEQUES SCOTIABANK",
+						"DEPÓSITO CHEQUE SCOTIABAKN",
+						"CARGO A CUENTA CHEQUES SCOTIABANK",
+						"DEPÓSITO EN SUCURSAL TF EFECTIVO"
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"DEPÓSITO POR SPEUA",
+						"CARGO A CUENTA CHEQUES SCOTIABANK",
+						"DEPÓSITO POR SPEUA",
+						"CARGO A CUENTA CHEQUES SCOTIABANK"
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"DEPÓSITO CHEQUE SCOTIABAKN",
+						"CARGO A CUENTA CHEQUES SCOTIABANK",
+						"DEPÓSITO CHEQUE SCOTIABAKN",
+						"DEPÓSITO CHEQUE SCOTIABAKN"
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"DEPÓSITO EN SUCURSAL TF EFECTIVO",
+						"CARGO A CUENTA CHEQUES SCOTIABANK",
+						"DEPÓSITO POR SPEUA",
+						"DEPÓSITO POR SPEUA"
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"DEPÓSITO CHEQUE SCOTIABAKN",
+						"DEPÓSITO CHEQUE SCOTIABAKN",
+						"DEPÓSITO POR SPEUA",
+						"DEPÓSITO CHEQUE SCOTIABAKN"
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"CARGO A CUENTA CHEQUES SCOTIABANK",
+						"DEPÓSITO EN SUCURSAL TF EFECTIVO",
+						"DEPÓSITO CHEQUE SCOTIABAKN",
+						"DEPÓSITO POR SPEUA"
+					]
+				}
+			]
+		}
+	]
+}

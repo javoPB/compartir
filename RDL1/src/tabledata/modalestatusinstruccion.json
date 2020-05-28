@@ -1,0 +1,116 @@
+{
+	"ids":[
+		{
+			"id": "estatusinstruccion-results",
+			"headers": [
+{ "label": "APLI" },
+{ "label": "APLIPAR" },
+{ "label": "CANC" },
+{ "label": "PROC" },
+{ "label": "PEND" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"APLICADO",
+						"APLICADO",
+						"APLICADO PARCIAL",
+						"PENDIENTE",
+						"CANCELADO"
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"APLICADO",
+						"APLICADO",
+						"APLICADO",
+						"APLICADO PARCIAL",
+						"EN PROCESO"
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"CANCELADO",
+						"EN PROCESO",
+						"CANCELADO",
+						"EN PROCESO",
+						"APLICADO PARCIAL"
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"PENDIENTE",
+						"CANCELADO",
+						"APLICADO PARCIAL",
+						"CANCELADO",
+						"PENDIENTE"
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"EN PROCESO",
+						"EN PROCESO",
+						"APLICADO PARCIAL",
+						"APLICADO PARCIAL",
+						"CANCELADO"
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"PENDIENTE",
+						"PENDIENTE",
+						"APLICADO",
+						"APLICADO",
+						"EN PROCESO"
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"CANCELADO",
+						"APLICADO",
+						"EN PROCESO",
+						"APLICADO PARCIAL",
+						"PENDIENTE"
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"APLICADO PARCIAL",
+						"CANCELADO",
+						"APLICADO",
+						"PENDIENTE",
+						"APLICADO PARCIAL"
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"PENDIENTE",
+						"APLICADO PARCIAL",
+						"PENDIENTE",
+						"APLICADO PARCIAL",
+						"CANCELADO"
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"PENDIENTE",
+						"CANCELADO",
+						"APLICADO",
+						"CANCELADO",
+						"EN PROCESO"
+					]
+				}
+			]
+		}
+	]
+}

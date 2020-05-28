@@ -1,0 +1,116 @@
+{
+	"ids":[
+		{
+			"id": "parametroscomisiones-results",
+			"headers": [
+			{ "label": "Fideicomiso" },
+			{ "label": "Tipo de cálculo" },
+			{ "label": "A quien se cobra" },
+			{ "label": "Periodicidad" },
+			{ "label": "Fecha próximo cálculo" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"YYYYYYYY",
+						"Pago único",
+						"CARGO AL EFECTIVO",
+						"ANUAL ADELANTADA",
+						"2019-Feb-22"
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"YYYYYYYY",
+						"No Automatizado",
+						"CARGO AL FONDO",
+						"ANUAL VENCIDA",
+						"2019-May-07"
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"YYYYYYYY",
+						"Importe Fijo",
+						"FIDEICOMITENTE",
+						"CUATRIMESTRAL VENCIDA",
+						"2020-Mar-04"
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"YYYYYYYY",
+						"% al millar",
+						"TERCERO",
+						"ANUAL ADELANTADA",
+						"2019-Feb-14"
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"YYYYYYYY",
+						"% Pactado",
+						"FIDEICOMITENTE",
+						"TRIMESTRAL VENCIDA",
+						"2018-Aug-24"
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"YYYYYYYY",
+						"No Aplica",
+						"FIDEICOMISARIO",
+						"MENSUAL VENCIDA",
+						"2019-Jul-21"
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"YYYYYYYY",
+						"Importe Fijo",
+						"FIDEICOMITENTE",
+						"MENSUAL VENCIDA",
+						"2019-Apr-21"
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"YYYYYYYY",
+						"Tabla de cálculo",
+						"CARGO AL EFECTIVO",
+						"SEMESTRAL ADELANTADA",
+						"2020-Mar-07"
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"YYYYYYYY",
+						"Pago único",
+						"FIDEICOMISARIO",
+						"MENSUAL VENCIDA",
+						"2019-Aug-06"
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"YYYYYYYY",
+						"Importe Fijo",
+						"FIDEICOMITENTE",
+						"CUATRIMESTRAL ADELANTADA",
+						"2018-Jul-04"
+					]
+				}
+			]
+		}
+	]
+}

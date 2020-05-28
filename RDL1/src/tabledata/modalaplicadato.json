@@ -1,0 +1,116 @@
+{
+	"ids":[
+		{
+			"id": "aplicadato-results",
+			"headers": [
+{ "label": "APLICADATO1" },
+{ "label": "APLICADATO2" },
+{ "label": "APLICADATO3" },
+{ "label": "APLICADATO4" },
+{ "label": "APLICADATO5" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"IVA COMISIÓN",
+						"IVA COMISIÓN",
+						"ISR",
+						"IPC",
+						"IVA COMISIÓN"
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"IPC",
+						"ISR",
+						"IVA COMISIÓN",
+						"ISR",
+						"IMPORTE"
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"IVA COMISIÓN",
+						"ISR",
+						"IVA COMISIÓN",
+						"IMPORTE",
+						"ISR"
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"IVA",
+						"IVA",
+						"IVA COMISIÓN",
+						"IMPORTE",
+						"IVA COMISIÓN"
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"ISR",
+						"IMPORTE",
+						"IMPORTE",
+						"ISR",
+						"IVA COMISIÓN"
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"IPC",
+						"IMPORTE",
+						"IVA",
+						"IMPORTE",
+						"IVA"
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"IVA",
+						"ISR",
+						"ISR",
+						"IPC",
+						"IVA COMISIÓN"
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"IMPORTE",
+						"IMPORTE",
+						"IVA",
+						"ISR",
+						"ISR"
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"ISR",
+						"IVA",
+						"IVA COMISIÓN",
+						"ISR",
+						"IPC"
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"IPC",
+						"IMPORTE",
+						"IVA",
+						"IPC",
+						"IPC"
+					]
+				}
+			]
+		}
+	]
+}

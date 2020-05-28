@@ -1,0 +1,83 @@
+{
+	"ids":[
+		{
+			"id": "estadoagenda-results",
+			"headers": [
+{ "label": "APLICADO" },
+{ "label": "ACTIVO" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"ACTIVO",
+						"ACTIVO"
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"APLICADO",
+						"APLICADO"
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"ACTIVO",
+						"APLICADO"
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"APLICADO",
+						"APLICADO"
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"ACTIVO",
+						"ACTIVO"
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"APLICADO",
+						"ACTIVO"
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"ACTIVO",
+						"APLICADO"
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"APLICADO",
+						"ACTIVO"
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"ACTIVO",
+						"ACTIVO"
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"ACTIVO",
+						"ACTIVO"
+					]
+				}
+			]
+		}
+	]
+}

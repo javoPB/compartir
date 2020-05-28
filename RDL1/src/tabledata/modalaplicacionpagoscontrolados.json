@@ -1,0 +1,149 @@
+{
+	"ids":[
+		{
+			"id": "aplicacionpagoscontrolados-results",
+			"headers": [
+			{ "label": "Fideicomiso" },
+			{ "label": "Sub fiso" },
+			{ "label": "Importe" },
+			{ "label": "Importe de pago" },
+			{ "label": "Forma de pago" },
+			{ "label": "Tipo de comisión" },
+			{ "label": "IVA" },
+			{ "label": "Moneda" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"Corrupti odit corporis.",
+						"Ut quia vero saepe est.",
+						"CARGO A OTRO CONTRATO",
+						"HONORARIOS POR ADMINISTRACIÓN",
+						"Modi porro occaecati autem.",
+						"MONEDA NACIONAL"
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"Tenetur nam omnis.",
+						"Tenetur eum aperiam.",
+						"CARGO A OTRO CONTRATO",
+						"HONORARIOS POR ADMINISTRACIÓN",
+						"Distinctio voluptatem aperiam eveniet non minima.",
+						"EUROS"
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"Quia dolorem ut possimus earum expedita quis illum.",
+						"Neque velit a.",
+						"CARGO A TARJETA DE CREDITO",
+						"HONORARIOS POR ADMINISTRACIÓN",
+						"Sit voluptates beatae dolorem ut sint aut.",
+						"EUROS"
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"At nobis aliquid id voluptates itaque est.",
+						"Et ducimus fugit quia.",
+						"CARGO A OTRO CONTRATO",
+						"HONORARIOS POR ADMINISTRACIÓN",
+						"Laborum ut debitis.",
+						"MONEDA NACIONAL"
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"Cumque dignissimos excepturi.",
+						"Quisquam voluptatem ab inventore cum ut consequatur.",
+						"CARGO A TARJETA DE CREDITO",
+						"HONORARIOS POR ADMINISTRACIÓN",
+						"Numquam reiciendis qui nam ab voluptatibus dolor.",
+						"MONEDA NACIONAL"
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"Eaque ea quas vel in.",
+						"Maiores provident vel iste quidem dicta qui qui.",
+						"VIA GESTIÓN",
+						"HONORARIOS POR ADMINISTRACIÓN",
+						"Blanditiis soluta molestias.",
+						"EUROS"
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"Expedita at architecto.",
+						"Nam illo rerum ut laborum.",
+						"CARGO A TARJETA DE CREDITO",
+						"HONORARIOS POR ADMINISTRACIÓN",
+						"Aliquam aut minima.",
+						"EUROS"
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"Possimus reiciendis optio illo sint.",
+						"Dolores fugiat consequatur velit error aut vel.",
+						"VIA GESTIÓN",
+						"HONORARIOS POR ADMINISTRACIÓN",
+						"Quia consequatur ratione maxime.",
+						"DLS. U.S.A."
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"Rerum aut aut.",
+						"Possimus et natus dolor doloribus non.",
+						"CARGO A TARJETA DE CREDITO",
+						"HONORARIOS POR ADMINISTRACIÓN",
+						"Numquam non consequatur nam et pariatur ab.",
+						"MONEDA NACIONAL"
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"Nostrum non architecto eligendi.",
+						"Fugit beatae vitae voluptas non nesciunt est fuga.",
+						"CARGO A CUENTA DE CHEQUES",
+						"HONORARIOS POR ADMINISTRACIÓN",
+						"Unde quaerat est adipisci.",
+						"DLS. U.S.A."
+					]
+				}
+			]
+		}
+	]
+}

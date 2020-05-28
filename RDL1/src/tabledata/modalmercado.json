@@ -1,0 +1,138 @@
+{
+	"ids":[
+		{
+			"id": "mercado-results",
+			"headers": [
+{ "label": "MERCADO1" },
+{ "label": "MERCADO2" },
+{ "label": "MERCADO3" },
+{ "label": "MERCADO4" },
+{ "label": "MERCADO5" },
+{ "label": "MERCADO6" },
+{ "label": "MERCADO7" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"MERCADO DE DINERO",
+						"MERCADO DESCONOCIDO",
+						"MERCADO DESCONOCIDO",
+						"MERCADO BANCARIO",
+						"MERCADO DE DINERO",
+						"MERCADO DE DERIVADOS",
+						"MERCADO BANCARIO"
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"MERCADO BANCARIO",
+						"SOCIEDADES DE INVERSIÓN",
+						"INVERSIONES POR LIQUIDAR",
+						"SOCIEDADES DE INVERSIÓN",
+						"SOCIEDADES DE INVERSIÓN",
+						"MERCADO BANCARIO",
+						"MERCADO BANCARIO"
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"MERCADO DE DINERO",
+						"SOCIEDADES DE INVERSIÓN",
+						"INVERSIONES POR LIQUIDAR",
+						"MERCADO DE DERIVADOS",
+						"MERCADO DE CAPITALES",
+						"MERCADO DE DERIVADOS",
+						"INVERSIONES POR LIQUIDAR"
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"MERCADO DE CAPITALES",
+						"SOCIEDADES DE INVERSIÓN",
+						"MERCADO DE DERIVADOS",
+						"MERCADO DE CAPITALES",
+						"MERCADO DESCONOCIDO",
+						"MERCADO DE CAPITALES",
+						"MERCADO DE DERIVADOS"
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"MERCADO DE DINERO",
+						"MERCADO DE DINERO",
+						"INVERSIONES POR LIQUIDAR",
+						"MERCADO DESCONOCIDO",
+						"MERCADO BANCARIO",
+						"MERCADO BANCARIO",
+						"MERCADO DE DERIVADOS"
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"MERCADO DE CAPITALES",
+						"MERCADO DE CAPITALES",
+						"MERCADO DESCONOCIDO",
+						"MERCADO DESCONOCIDO",
+						"INVERSIONES POR LIQUIDAR",
+						"MERCADO BANCARIO",
+						"SOCIEDADES DE INVERSIÓN"
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"MERCADO DE CAPITALES",
+						"MERCADO BANCARIO",
+						"MERCADO BANCARIO",
+						"SOCIEDADES DE INVERSIÓN",
+						"MERCADO DE DINERO",
+						"SOCIEDADES DE INVERSIÓN",
+						"SOCIEDADES DE INVERSIÓN"
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"MERCADO DE CAPITALES",
+						"MERCADO DE CAPITALES",
+						"SOCIEDADES DE INVERSIÓN",
+						"SOCIEDADES DE INVERSIÓN",
+						"INVERSIONES POR LIQUIDAR",
+						"MERCADO DESCONOCIDO",
+						"MERCADO DE DINERO"
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"MERCADO DE DERIVADOS",
+						"MERCADO DE DERIVADOS",
+						"MERCADO DE DERIVADOS",
+						"MERCADO DE DINERO",
+						"INVERSIONES POR LIQUIDAR",
+						"INVERSIONES POR LIQUIDAR",
+						"MERCADO DE CAPITALES"
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"MERCADO DE DERIVADOS",
+						"INVERSIONES POR LIQUIDAR",
+						"MERCADO DE DERIVADOS",
+						"INVERSIONES POR LIQUIDAR",
+						"MERCADO BANCARIO",
+						"MERCADO DESCONOCIDO",
+						"MERCADO DE CAPITALES"
+					]
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,171 @@
+{
+	"ids":[
+		{
+			"id": "periodicidad-results",
+			"headers": [
+{ "label": "PERIOD1" },
+{ "label": "PERIOD2" },
+{ "label": "PERIOD3" },
+{ "label": "PERIOD4" },
+{ "label": "PERIOD5" },
+{ "label": "PERIOD6" },
+{ "label": "PERIOD7" },
+{ "label": "PERIOD8" },
+{ "label": "PERIOD9" },
+{ "label": "PERIOD10" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"MENSUAL VENCIDA",
+						"CUATRIMESTRAL ADELANTADA",
+						"ANUAL ADELANTADA",
+						"CUATRIMESTRAL ADELANTADA",
+						"SEMESTRAL ADELANTADA",
+						"SEMESTRAL VENCIDA",
+						"CUATRIMESTRAL ADELANTADA",
+						"CUATRIMESTRAL VENCIDA",
+						"SEMESTRAL ADELANTADA",
+						"ANUAL ADELANTADA"
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"CUATRIMESTRAL VENCIDA",
+						"CUATRIMESTRAL ADELANTADA",
+						"SEMESTRAL VENCIDA",
+						"ANUAL ADELANTADA",
+						"MENSUAL ADENLANTADA",
+						"MENSUAL ADENLANTADA",
+						"SEMESTRAL ADELANTADA",
+						"CUATRIMESTRAL VENCIDA",
+						"MENSUAL VENCIDA",
+						"ANUAL VENCIDA"
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"ANUAL VENCIDA",
+						"CUATRIMESTRAL VENCIDA",
+						"TRIMESTRAL VENCIDA",
+						"ANUAL ADELANTADA",
+						"CUATRIMESTRAL VENCIDA",
+						"CUATRIMESTRAL ADELANTADA",
+						"MENSUAL VENCIDA",
+						"ANUAL ADELANTADA",
+						"ANUAL VENCIDA",
+						"MENSUAL ADENLANTADA"
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"SEMESTRAL VENCIDA",
+						"CUATRIMESTRAL VENCIDA",
+						"MENSUAL ADENLANTADA",
+						"SEMESTRAL ADELANTADA",
+						"MENSUAL VENCIDA",
+						"CUATRIMESTRAL ADELANTADA",
+						"TRIMESTRAL ADELANTADA",
+						"MENSUAL ADENLANTADA",
+						"TRIMESTRAL VENCIDA",
+						"ANUAL ADELANTADA"
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"TRIMESTRAL ADELANTADA",
+						"ANUAL VENCIDA",
+						"SEMESTRAL ADELANTADA",
+						"ANUAL ADELANTADA",
+						"MENSUAL VENCIDA",
+						"MENSUAL VENCIDA",
+						"TRIMESTRAL ADELANTADA",
+						"SEMESTRAL ADELANTADA",
+						"TRIMESTRAL ADELANTADA",
+						"SEMESTRAL VENCIDA"
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"MENSUAL ADENLANTADA",
+						"ANUAL VENCIDA",
+						"MENSUAL VENCIDA",
+						"CUATRIMESTRAL ADELANTADA",
+						"ANUAL VENCIDA",
+						"MENSUAL VENCIDA",
+						"SEMESTRAL ADELANTADA",
+						"TRIMESTRAL VENCIDA",
+						"MENSUAL VENCIDA",
+						"MENSUAL VENCIDA"
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"SEMESTRAL ADELANTADA",
+						"MENSUAL VENCIDA",
+						"MENSUAL ADENLANTADA",
+						"SEMESTRAL VENCIDA",
+						"SEMESTRAL ADELANTADA",
+						"ANUAL ADELANTADA",
+						"MENSUAL ADENLANTADA",
+						"TRIMESTRAL ADELANTADA",
+						"TRIMESTRAL VENCIDA",
+						"TRIMESTRAL VENCIDA"
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"ANUAL ADELANTADA",
+						"TRIMESTRAL VENCIDA",
+						"TRIMESTRAL ADELANTADA",
+						"SEMESTRAL VENCIDA",
+						"SEMESTRAL VENCIDA",
+						"TRIMESTRAL ADELANTADA",
+						"MENSUAL ADENLANTADA",
+						"ANUAL VENCIDA",
+						"CUATRIMESTRAL VENCIDA",
+						"MENSUAL VENCIDA"
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"CUATRIMESTRAL ADELANTADA",
+						"TRIMESTRAL ADELANTADA",
+						"SEMESTRAL ADELANTADA",
+						"MENSUAL VENCIDA",
+						"MENSUAL ADENLANTADA",
+						"TRIMESTRAL VENCIDA",
+						"CUATRIMESTRAL ADELANTADA",
+						"SEMESTRAL ADELANTADA",
+						"CUATRIMESTRAL VENCIDA",
+						"ANUAL VENCIDA"
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"CUATRIMESTRAL VENCIDA",
+						"TRIMESTRAL VENCIDA",
+						"TRIMESTRAL ADELANTADA",
+						"MENSUAL ADENLANTADA",
+						"SEMESTRAL ADELANTADA",
+						"ANUAL ADELANTADA",
+						"MENSUAL VENCIDA",
+						"CUATRIMESTRAL ADELANTADA",
+						"MENSUAL ADENLANTADA",
+						"CUATRIMESTRAL ADELANTADA"
+					]
+				}
+			]
+		}
+	]
+}

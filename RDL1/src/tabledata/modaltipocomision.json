@@ -1,0 +1,72 @@
+{
+	"ids":[
+		{
+			"id": "tipocomision-results",
+			"headers": [
+{ "label": "COMISION" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"HONORARIOS POR ADMINISTRACIÓN"
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"HONORARIOS POR ADMINISTRACIÓN"
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"HONORARIOS POR ADMINISTRACIÓN"
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"HONORARIOS POR ADMINISTRACIÓN"
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"HONORARIOS POR ADMINISTRACIÓN"
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"HONORARIOS POR ADMINISTRACIÓN"
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"HONORARIOS POR ADMINISTRACIÓN"
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"HONORARIOS POR ADMINISTRACIÓN"
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"HONORARIOS POR ADMINISTRACIÓN"
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"HONORARIOS POR ADMINISTRACIÓN"
+					]
+				}
+			]
+		}
+	]
+}

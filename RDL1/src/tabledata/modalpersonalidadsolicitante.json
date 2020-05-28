@@ -1,0 +1,116 @@
+{
+	"ids":[
+		{
+			"id": "personalidadsolicitante-results",
+			"headers": [
+{ "label": "BEN" },
+{ "label": "COMITEC" },
+{ "label": "FIDEICOMITENTES" },
+{ "label": "ASESOR" },
+{ "label": "REPCOMUN" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"FIDEICOMITENTE(S)",
+						"BENEFICIARIO",
+						"REPRESENTANTE COMÚN",
+						"REPRESENTANTE COMÚN",
+						"BENEFICIARIO"
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"FIDEICOMITENTE(S)",
+						"REPRESENTANTE COMÚN",
+						"REPRESENTANTE COMÚN",
+						"ASESOR DE INVERSIONES",
+						"REPRESENTANTE COMÚN"
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"FIDEICOMITENTE(S)",
+						"REPRESENTANTE COMÚN",
+						"BENEFICIARIO",
+						"ASESOR DE INVERSIONES",
+						"COMITÉ TÉCNICO"
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"FIDEICOMITENTE(S)",
+						"REPRESENTANTE COMÚN",
+						"FIDEICOMITENTE(S)",
+						"BENEFICIARIO",
+						"REPRESENTANTE COMÚN"
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"ASESOR DE INVERSIONES",
+						"COMITÉ TÉCNICO",
+						"FIDEICOMITENTE(S)",
+						"FIDEICOMITENTE(S)",
+						"BENEFICIARIO"
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"ASESOR DE INVERSIONES",
+						"ASESOR DE INVERSIONES",
+						"FIDEICOMITENTE(S)",
+						"REPRESENTANTE COMÚN",
+						"COMITÉ TÉCNICO"
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"FIDEICOMITENTE(S)",
+						"FIDEICOMITENTE(S)",
+						"ASESOR DE INVERSIONES",
+						"ASESOR DE INVERSIONES",
+						"ASESOR DE INVERSIONES"
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"BENEFICIARIO",
+						"ASESOR DE INVERSIONES",
+						"REPRESENTANTE COMÚN",
+						"REPRESENTANTE COMÚN",
+						"BENEFICIARIO"
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"REPRESENTANTE COMÚN",
+						"FIDEICOMITENTE(S)",
+						"BENEFICIARIO",
+						"FIDEICOMITENTE(S)",
+						"REPRESENTANTE COMÚN"
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"REPRESENTANTE COMÚN",
+						"BENEFICIARIO",
+						"COMITÉ TÉCNICO",
+						"BENEFICIARIO",
+						"BENEFICIARIO"
+					]
+				}
+			]
+		}
+	]
+}

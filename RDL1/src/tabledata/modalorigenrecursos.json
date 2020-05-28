@@ -1,0 +1,149 @@
+{
+	"ids":[
+		{
+			"id": "origenrecursos-results",
+			"headers": [
+{ "label": "ORIGEN1" },
+{ "label": "ORIGEN2" },
+{ "label": "ORIGEN3" },
+{ "label": "ORIGEN4" },
+{ "label": "ORIGEN5" },
+{ "label": "ORIGEN6" },
+{ "label": "ORIGEN7" },
+{ "label": "ORIGEN8" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"FIDEICOMITENTE A",
+						"PARTICULARES",
+						"RECURSOS DEL CONTRATO",
+						"RECURSOS DEL CONTRATO",
+						"FIDEICOMITENTE A",
+						"GOBIERNO FEDERAL",
+						"RECURSOS DEL CONTRATO",
+						"GOBIERNO MUNICIPAL"
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"GOBIERNO MUNICIPAL",
+						"APORTACIONES SOLIDARIOS",
+						"GOBIERNO FEDERAL",
+						"GOBIERNO FEDERAL",
+						"GOBIERNO FEDERAL",
+						"APORTACIONES SOLIDARIOS",
+						"APORTACIONES SOLIDARIOS",
+						"GOBIERNO FEDERAL"
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"RECURSOS DEL CONTRATO",
+						"RECURSOS DEL CONTRATO",
+						"RECURSOS DEL CONTRATO",
+						"FIDEICOMITENTE A",
+						"GOBIERNO FEDERAL",
+						"APORTACIONES SOLIDARIOS",
+						"CLIENTES MEXDER",
+						"GOBIERNO ESTATAL"
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"APORTACIONES SOLIDARIOS",
+						"RECURSOS DEL CONTRATO",
+						"APORTACIONES SOLIDARIOS",
+						"GOBIERNO MUNICIPAL",
+						"GOBIERNO FEDERAL",
+						"GOBIERNO MUNICIPAL",
+						"PARTICULARES",
+						"FIDEICOMITENTE A"
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"CLIENTES MEXDER",
+						"PARTICULARES",
+						"PARTICULARES",
+						"PARTICULARES",
+						"PARTICULARES",
+						"PARTICULARES",
+						"GOBIERNO ESTATAL",
+						"FIDEICOMITENTE A"
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"PARTICULARES",
+						"CLIENTES MEXDER",
+						"GOBIERNO FEDERAL",
+						"GOBIERNO FEDERAL",
+						"FIDEICOMITENTE A",
+						"FIDEICOMITENTE A",
+						"FIDEICOMITENTE A",
+						"GOBIERNO MUNICIPAL"
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"GOBIERNO ESTATAL",
+						"CLIENTES MEXDER",
+						"PARTICULARES",
+						"GOBIERNO MUNICIPAL",
+						"GOBIERNO FEDERAL",
+						"GOBIERNO MUNICIPAL",
+						"GOBIERNO MUNICIPAL",
+						"FIDEICOMITENTE A"
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"PARTICULARES",
+						"GOBIERNO ESTATAL",
+						"CLIENTES MEXDER",
+						"GOBIERNO FEDERAL",
+						"CLIENTES MEXDER",
+						"CLIENTES MEXDER",
+						"GOBIERNO ESTATAL",
+						"GOBIERNO FEDERAL"
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"PARTICULARES",
+						"GOBIERNO ESTATAL",
+						"CLIENTES MEXDER",
+						"GOBIERNO FEDERAL",
+						"FIDEICOMITENTE A",
+						"RECURSOS DEL CONTRATO",
+						"RECURSOS DEL CONTRATO",
+						"CLIENTES MEXDER"
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"APORTACIONES SOLIDARIOS",
+						"CLIENTES MEXDER",
+						"CLIENTES MEXDER",
+						"CLIENTES MEXDER",
+						"GOBIERNO FEDERAL",
+						"GOBIERNO FEDERAL",
+						"GOBIERNO MUNICIPAL",
+						"GOBIERNO ESTATAL"
+					]
+				}
+			]
+		}
+	]
+}

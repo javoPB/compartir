@@ -1,0 +1,128 @@
+
+	{
+		"ids":[
+			{
+				"id": "contratoinversion-results",
+				"headers": [
+				{ "label": "Fideicomiso" },
+				{ "label": "Intermediario" },
+				{ "label": "Sub fiso" },
+				{ "label": "Estatus" },
+				{ "label": "Contrato inversión" },
+				{ "label": "Contrato otras instituciones" }
+				],
+				"rows": [
+					{
+						"id": "1",
+						"data": [
+							"YYYYYYYY",
+							"BANSI, S.A.",
+							"YYYYYYYY",
+							"CANCELADO",
+							"Voluptas iusto cum totam deserunt occaecati delectus.",
+							"Facilis repudiandae doloribus vel est magnam molestias."
+						]
+					},
+					{
+						"id": "2",
+						"data": [
+							"YYYYYYYY",
+							"BANCO INBURSA S.A.",
+							"YYYYYYYY",
+							"SUSPENDIDO",
+							"Omnis corporis eligendi magni.",
+							"Qui rerum neque dignissimos fugit vero."
+						]
+					},
+					{
+						"id": "3",
+						"data": [
+							"YYYYYYYY",
+							"BANSI, S.A.",
+							"YYYYYYYY",
+							"ACTIVO",
+							"Ut sed est iste et.",
+							"Sit totam dolor."
+						]
+					},
+					{
+						"id": "4",
+						"data": [
+							"YYYYYYYY",
+							"HSBC MEXICO S.A.",
+							"YYYYYYYY",
+							"BAJA",
+							"Blanditiis eum iste eum fugit alias.",
+							"Ea facilis est sit qui pariatur."
+						]
+					},
+					{
+						"id": "5",
+						"data": [
+							"YYYYYYYY",
+							"BANCO INBURSA S.A.",
+							"YYYYYYYY",
+							"CANCELADO",
+							"Deleniti optio amet quas.",
+							"Quis totam dolor esse dolorem."
+						]
+					},
+					{
+						"id": "6",
+						"data": [
+							"YYYYYYYY",
+							"BANAMEX, S.A.",
+							"YYYYYYYY",
+							"CANCELADO",
+							"Totam laboriosam voluptas autem est.",
+							"Explicabo in iusto enim omnis dolores quasi excepturi."
+						]
+					},
+					{
+						"id": "7",
+						"data": [
+							"YYYYYYYY",
+							"BANSI, S.A.",
+							"YYYYYYYY",
+							"CANCELADO",
+							"Ab sed eos sint.",
+							"Totam aperiam illum sed voluptate soluta dolor praesentium."
+						]
+					},
+					{
+						"id": "8",
+						"data": [
+							"YYYYYYYY",
+							"BANAMEX, S.A.",
+							"YYYYYYYY",
+							"CANCELADO",
+							"Et dolores ullam praesentium et.",
+							"Corrupti saepe aut assumenda laborum."
+						]
+					},
+					{
+						"id": "9",
+						"data": [
+							"YYYYYYYY",
+							"HSBC MEXICO S.A.",
+							"YYYYYYYY",
+							"SUSPENDIDO",
+							"Fugiat nihil totam eos perferendis ut.",
+							"Ipsam sit et et autem."
+						]
+					},
+					{
+						"id": "10",
+						"data": [
+							"YYYYYYYY",
+							"BANCO INBURSA S.A.",
+							"YYYYYYYY",
+							"SUSPENDIDO",
+							"Eum laboriosam nam porro consectetur repudiandae id.",
+							"Voluptas est amet sequi quis iste."
+						]
+					}
+				]
+			}
+		]
+	}

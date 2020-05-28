@@ -1,0 +1,83 @@
+{
+	"ids":[
+		{
+			"id": "operaciones-results",
+			"headers": [
+{ "label": "COMPRA" },
+{ "label": "VENTA" }
+			],
+			"rows": [
+				{
+					"id": "1",
+					"data": [
+						"VENTA",
+						"VENTA"
+					]
+				},
+				{
+					"id": "2",
+					"data": [
+						"VENTA",
+						"VENTA"
+					]
+				},
+				{
+					"id": "3",
+					"data": [
+						"COMPRA",
+						"COMPRA"
+					]
+				},
+				{
+					"id": "4",
+					"data": [
+						"VENTA",
+						"COMPRA"
+					]
+				},
+				{
+					"id": "5",
+					"data": [
+						"COMPRA",
+						"COMPRA"
+					]
+				},
+				{
+					"id": "6",
+					"data": [
+						"COMPRA",
+						"COMPRA"
+					]
+				},
+				{
+					"id": "7",
+					"data": [
+						"COMPRA",
+						"COMPRA"
+					]
+				},
+				{
+					"id": "8",
+					"data": [
+						"VENTA",
+						"COMPRA"
+					]
+				},
+				{
+					"id": "9",
+					"data": [
+						"VENTA",
+						"COMPRA"
+					]
+				},
+				{
+					"id": "10",
+					"data": [
+						"VENTA",
+						"VENTA"
+					]
+				}
+			]
+		}
+	]
+}
