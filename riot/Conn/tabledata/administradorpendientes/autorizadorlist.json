@@ -1,0 +1,133 @@
+{
+	"ids": [
+		{
+			"id": "autorizadorlist",
+			"headers": [
+				{
+					"label": "Número empleado",
+					"required": "true"
+				},
+				{
+					"label": "Nivel usuario",
+					"type": "select",
+					"required" : "false",
+					"data": [
+						"Nivel 1",
+						"Nivel 2",
+						"Nivel 3"
+					]
+				},
+				{
+					"label": "Solicitante",
+					"type": "select",
+					"required": "true",
+					"data": [
+						"Et itaque consequatur nisi dolores autem.",
+						"Vel laudantium recusandae qui.",
+						"Quia dolores aperiam quaerat.",
+						"Voluptatibus voluptate rerum dolorum repellat.",
+						"Dicta iste qui dignissimos ex dolores cupiditate qui."
+					]
+				},
+				{
+					"label": "Correo",
+					"required": "true"
+				},
+				{
+					"label": "Departamento",
+					"type": "select",
+					"required": "true",
+					"data": [
+						"Id sit optio sed.",
+						"Dolorem quibusdam eius at.",
+						"Aut qui commodi ut doloribus voluptatem nesciunt quia.",
+						"Iure ea ex.",
+						"Maiores eos ex qui eligendi ab."
+					]
+				}
+			],
+			"rows": [
+				{
+					"id": "DNH9s9v3",
+					"data": [
+						"Excepturi mollitia libero aliquid dicta excepturi.",
+						"Nivel 2",
+						"YYYYYYYY",
+						"humberto.trujillo@yahoo.com",
+						"YYYYYYYY"
+					]
+				},
+				{
+					"id": "MhkvYpoa",
+					"data": [
+						"Similique et occaecati ea.",
+						"Nivel 2",
+						"YYYYYYYY",
+						"maría.cruz@yahoo.com",
+						"YYYYYYYY"
+					]
+				},
+				{
+					"id": "oaC6nWdE",
+					"data": [
+						"Ipsam magnam et laudantium nam dolor minus autem.",
+						"Nivel 1",
+						"YYYYYYYY",
+						"rodolfo.ponce@prodigy.net.mx",
+						"YYYYYYYY"
+					]
+				},
+				{
+					"id": "JRmxQCjG",
+					"data": [
+						"Ut atque sapiente optio et necessitatibus.",
+						"Nivel 2",
+						"YYYYYYYY",
+						"paula.garduño@hotmail.com",
+						"YYYYYYYY"
+					]
+				},
+				{
+					"id": "7yU4VwPO",
+					"data": [
+						"Repudiandae dolores dolor repellendus dolorem.",
+						"Nivel 3",
+						"YYYYYYYY",
+						"rodolfo.santos@prodigy.net.mx",
+						"YYYYYYYY"
+					]
+				},
+				{
+					"id": "fTACBDnm",
+					"data": [
+						"Assumenda itaque sunt officia recusandae.",
+						"Nivel 2",
+						"YYYYYYYY",
+						"manuela.zaragoza@prodigy.net.mx",
+						"YYYYYYYY"
+					]
+				},
+				{
+					"id": "mHBah3Wj",
+					"data": [
+						"Amet fugiat eius temporibus adipisci non consequatur enim.",
+						"Nivel 2",
+						"YYYYYYYY",
+						"sara.mora@prodigy.net.mx",
+						"YYYYYYYY"
+					]
+				},
+				{
+					"id": "RXt2Eyye",
+					"data": [
+						"Cumque et quo recusandae dolores cupiditate iusto in.",
+						"Nivel 2",
+						"YYYYYYYY",
+						"isidro.cortez@gmail.com",
+						"YYYYYYYY"
+					]
+				}
+			]
+		}
+	]
+}

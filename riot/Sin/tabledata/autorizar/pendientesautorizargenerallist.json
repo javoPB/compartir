@@ -1,0 +1,184 @@
+{
+	"ids": [
+		{
+			"id": "pendientesautorizargenerallist",
+			"headers": [
+				{
+					"label": "Acción",
+					"type": "select",
+					"required": "true",
+					"data": [
+						"CANCELAR",
+						"AUTORIZAR",
+						"RECHAZAR"
+					]
+				},
+				{
+					"label": "Motivo",
+					"type": "select",
+					"required" : "false",
+					"data": [
+						"Laboriosam quod voluptate est. Vel aut pariatur qui. Quia aliquam quo eos eum modi. Iure reiciendis vel rerum.",
+						"Facere maxime ad et. Corporis sint harum accusamus. Esse praesentium nobis ea deleniti aliquam laborum. Est repellendus cum earum earum. Neque et vel aut harum.",
+						"Et aut omnis. Quia facere possimus tenetur non. Aperiam voluptas eos reprehenderit repellat. Fugit cumque molestiae molestias repellat. Facere fugiat quibusdam tenetur aut dolor.",
+						"Nihil et aut accusamus. Rerum est quia. Et harum architecto. Aliquam maiores quidem aut qui.",
+						"Amet voluptatem sed distinctio labore. Impedit est voluptatem nihil ut eaque sunt. Ex fugit quasi eum soluta eos numquam. Eos quos voluptas quia itaque doloribus doloribus fuga."
+					]
+				},
+				{
+					"label": "Folio",
+					"required": "true"
+				},
+				{
+					"label": "Categoría",
+					"type": "select",
+					"required" : "false",
+					"data": [
+						"Id enim et voluptatum ex pariatur quia omnis.",
+						"Dicta sed enim hic.",
+						"Est et magni sed exercitationem.",
+						"Delectus at voluptate qui.",
+						"Consequatur molestiae quae quod perferendis."
+					]
+				},
+				{
+					"label": "Proveedor",
+					"type": "select",
+					"required": "true",
+					"data": [
+						"8,552",
+						"9,633",
+						"3,149",
+						"2,029",
+						"2,020"
+					]
+				},
+				{
+					"label": "Total pendiente",
+					"required": "true"
+				},
+				{
+					"label": "Solicitante",
+					"type": "select",
+					"required" : "false",
+					"data": [
+						"Fugiat quaerat est corrupti asperiores voluptas repellat.",
+						"Omnis eligendi qui et.",
+						"Porro itaque recusandae.",
+						"Sit minima dolor.",
+						"Est et ut numquam."
+					]
+				}
+			],
+			"rows": [
+				{
+					"id": "5XXVQySw",
+					"data": [
+						"CANCELAR",
+						"YYYYYYYY",
+						"Odit reiciendis commodi culpa.",
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"9,708",
+						"YYYYYYYY"
+					]
+				},
+				{
+					"id": "MNoRsSlA",
+					"data": [
+						"AUTORIZAR",
+						"YYYYYYYY",
+						"Eum accusamus id dicta.",
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"2,812",
+						"YYYYYYYY"
+					]
+				},
+				{
+					"id": "75SMDZLo",
+					"data": [
+						"RECHAZAR",
+						"YYYYYYYY",
+						"Tempore nihil eveniet maiores.",
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"55",
+						"YYYYYYYY"
+					]
+				},
+				{
+					"id": "4VT8rKhs",
+					"data": [
+						"AUTORIZAR",
+						"YYYYYYYY",
+						"Asperiores cum magni.",
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"978",
+						"YYYYYYYY"
+					]
+				},
+				{
+					"id": "9KQBsvrf",
+					"data": [
+						"CANCELAR",
+						"YYYYYYYY",
+						"Temporibus iure ab odit reiciendis molestiae ut aut.",
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"5,198",
+						"YYYYYYYY"
+					]
+				},
+				{
+					"id": "lRki7x2d",
+					"data": [
+						"AUTORIZAR",
+						"YYYYYYYY",
+						"Et ea laborum.",
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"4,025",
+						"YYYYYYYY"
+					]
+				},
+				{
+					"id": "J8TdHiiA",
+					"data": [
+						"RECHAZAR",
+						"YYYYYYYY",
+						"Temporibus in unde.",
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"557",
+						"YYYYYYYY"
+					]
+				},
+				{
+					"id": "m0Vk8IJf",
+					"data": [
+						"CANCELAR",
+						"YYYYYYYY",
+						"Mollitia qui incidunt inventore.",
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"9,672",
+						"YYYYYYYY"
+					]
+				}
+			]
+			,"actions": [
+				{
+					"group": "Acciones",
+					"actions": [
+						{
+							"label": "",
+							"link": "/autorizar/resultadosdetallespedidosanticipadosscreen/"
+						}
+					]
+				}
+			]
+		}
+	]
+}

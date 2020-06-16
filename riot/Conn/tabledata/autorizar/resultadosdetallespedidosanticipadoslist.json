@@ -1,0 +1,145 @@
+{
+	"ids": [
+		{
+			"id": "resultadosdetallespedidosanticipadoslist",
+			"headers": [
+				{
+					"label": "Acción",
+					"type": "select",
+					"required": "true",
+					"data": [
+						"CANCELAR",
+						"AUTORIZAR",
+						"RECHAZAR"
+					]
+				},
+				{
+					"label": "Motivo",
+					"type": "select",
+					"required" : "false",
+					"data": [
+						"Mollitia ut odit aut. Sit incidunt beatae sint doloribus. Quia reiciendis voluptatem.",
+						"Ut et est. Id nesciunt placeat sunt. Voluptatem atque quaerat culpa.",
+						"Debitis est velit est placeat est rerum. Placeat aut quis molestias est quibusdam. Deserunt quaerat doloremque. Aliquid vero quibusdam minima. Similique sapiente eius ducimus laborum dolor.",
+						"Eaque et rerum vel sit. Voluptas animi commodi quae. Et doloribus minima ipsum ut. Perferendis qui nihil nisi.",
+						"Non expedita et ipsum animi. Ducimus unde nihil omnis non quo dolorum. Iste ex deleniti molestiae est ut. Quia esse maxime et itaque quasi. Quidem et et odio nulla."
+					]
+				},
+				{
+					"label": "SKU a surtir",
+					"type": "select",
+					"required": "true",
+					"data": [
+						"Consequatur quo excepturi sequi et.",
+						"Sunt autem voluptas eos sed molestiae.",
+						"Beatae distinctio quisquam et ut.",
+						"Expedita soluta iste ea.",
+						"Quaerat quia vel."
+					]
+				},
+				{
+					"label": "Cantidad SKUs",
+					"required": "true"
+				},
+				{
+					"label": "CEDI destino",
+					"required": "true"
+				},
+				{
+					"label": "Saldo",
+					"required": "true"
+				}
+			],
+			"rows": [
+				{
+					"id": "5M8Ahoia",
+					"data": [
+						"CANCELAR",
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"9,527",
+						"Ut quia quia voluptate.",
+						"62,481"
+					]
+				},
+				{
+					"id": "oiEroVEm",
+					"data": [
+						"CANCELAR",
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"3,034",
+						"Illum maxime accusamus et rem cupiditate quam.",
+						"9,916"
+					]
+				},
+				{
+					"id": "9knmHHB8",
+					"data": [
+						"AUTORIZAR",
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"5,060",
+						"Explicabo et dolore excepturi est quo eum.",
+						"29,300"
+					]
+				},
+				{
+					"id": "UPTQ2G6V",
+					"data": [
+						"CANCELAR",
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"7,719",
+						"Itaque accusamus a quidem.",
+						"33,249"
+					]
+				},
+				{
+					"id": "HiIsZgP5",
+					"data": [
+						"RECHAZAR",
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"9,567",
+						"Quisquam possimus optio natus non qui.",
+						"21,355"
+					]
+				},
+				{
+					"id": "0SFOFklB",
+					"data": [
+						"AUTORIZAR",
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"3,148",
+						"Eaque labore dolore tempore minus.",
+						"80,682"
+					]
+				},
+				{
+					"id": "2agASfza",
+					"data": [
+						"AUTORIZAR",
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"8,595",
+						"Et quia natus occaecati animi rem et.",
+						"23,033"
+					]
+				},
+				{
+					"id": "3TTOQvIG",
+					"data": [
+						"CANCELAR",
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"1,459",
+						"Cumque exercitationem velit hic optio eos.",
+						"87,065"
+					]
+				}
+			]
+		}
+	]
+}

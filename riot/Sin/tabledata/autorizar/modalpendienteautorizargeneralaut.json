@@ -1,0 +1,117 @@
+
+	{
+		"ids":[
+			{
+				"id": "pendienteautorizargeneralaut-results",
+				"headers": [
+				{ "label": "Folio" },
+				{ "label": "Proveedor" },
+				{ "label": "Motivo" },
+				{ "label": "Folio" },
+				{ "label": "Fecha generación" }
+				],
+				"rows": [
+					{
+						"id": "1",
+						"data": [
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"Rerum vel assumenda est.",
+							"2018-Aug-04"
+						]
+					},
+					{
+						"id": "2",
+						"data": [
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"In vel ea est.",
+							"2019-Jul-07"
+						]
+					},
+					{
+						"id": "3",
+						"data": [
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"Aut necessitatibus amet.",
+							"2019-Apr-14"
+						]
+					},
+					{
+						"id": "4",
+						"data": [
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"Facere neque aperiam sunt magnam.",
+							"2020-Apr-22"
+						]
+					},
+					{
+						"id": "5",
+						"data": [
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"Repellendus qui laudantium ratione sint.",
+							"2020-Mar-14"
+						]
+					},
+					{
+						"id": "6",
+						"data": [
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"Repellat ut provident mollitia hic voluptatem.",
+							"2018-Nov-25"
+						]
+					},
+					{
+						"id": "7",
+						"data": [
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"Earum quidem est qui.",
+							"2018-Aug-18"
+						]
+					},
+					{
+						"id": "8",
+						"data": [
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"Autem saepe est commodi est nisi quia.",
+							"2019-Dec-24"
+						]
+					},
+					{
+						"id": "9",
+						"data": [
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"Quibusdam corrupti veritatis eligendi eum.",
+							"2019-May-08"
+						]
+					},
+					{
+						"id": "10",
+						"data": [
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"Dolorem consequatur laboriosam error maxime facere.",
+							"2019-Aug-12"
+						]
+					}
+				]
+			}
+		]
+	}

@@ -1,0 +1,75 @@
+{
+	"ids": [
+		{
+			"id": "autorizadornivelnlist",
+			"headers": [
+				{
+					"label": "Nombre",
+					"required": "true"
+				},
+				{
+					"label": "Correo",
+					"required": "true"
+				}
+			],
+			"rows": [
+				{
+					"id": "2QZUG98O",
+					"data": [
+						"Perspiciatis ex accusamus in cum.",
+						"pedro.estrada@yahoo.com"
+					]
+				},
+				{
+					"id": "tMlXpuR8",
+					"data": [
+						"Voluptatem repellendus cum reiciendis est.",
+						"joel.romero@gmail.com"
+					]
+				},
+				{
+					"id": "ikOOBuVx",
+					"data": [
+						"Non nemo maiores.",
+						"gustavo.estrada@yahoo.com"
+					]
+				},
+				{
+					"id": "KwjSCvUM",
+					"data": [
+						"Quo eos reprehenderit.",
+						"carolina.soto@prodigy.net.mx"
+					]
+				},
+				{
+					"id": "CX2qh8JY",
+					"data": [
+						"Deleniti magni natus quae dolores voluptatum quasi.",
+						"rigoberto.pérez@yahoo.com"
+					]
+				},
+				{
+					"id": "zESm4KIp",
+					"data": [
+						"Eum in autem enim est in in architecto.",
+						"eva.medrano@prodigy.net.mx"
+					]
+				},
+				{
+					"id": "Emle8PFx",
+					"data": [
+						"Itaque aut nobis amet ut ullam.",
+						"nicolás.navarro@yahoo.com"
+					]
+				},
+				{
+					"id": "f4PK9Dtn",
+					"data": [
+						"Laboriosam quos et aliquid molestias neque quo non.",
+						"adriana.arredondo@yahoo.com"
+					]
+				}
+			]
+		}
+	]
+}

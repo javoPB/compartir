@@ -1,0 +1,84 @@
+
+	{
+		"ids":[
+			{
+				"id": "subcategoriaaut-results",
+				"headers": [
+				{ "label": "Nombre Subcategoria" },
+				{ "label": "Categoria" }
+				],
+				"rows": [
+					{
+						"id": "1",
+						"data": [
+							"Voluptatem aliquid voluptatem.",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "2",
+						"data": [
+							"Officiis aut voluptatem praesentium.",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "3",
+						"data": [
+							"Doloremque veniam sint.",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "4",
+						"data": [
+							"Libero sint et sapiente non.",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "5",
+						"data": [
+							"Voluptate optio nulla rerum.",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "6",
+						"data": [
+							"Laudantium consequatur tempore quia.",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "7",
+						"data": [
+							"Ut nobis saepe rerum aut voluptas.",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "8",
+						"data": [
+							"Accusamus quos vero eligendi.",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "9",
+						"data": [
+							"Voluptatum quasi et culpa sit autem.",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "10",
+						"data": [
+							"Odit rem laudantium.",
+							"YYYYYYYY"
+						]
+					}
+				]
+			}
+		]
+	}

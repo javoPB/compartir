@@ -1,0 +1,139 @@
+
+	{
+		"ids":[
+			{
+				"id": "vistaautorizador-results",
+				"headers": [
+				{ "label": "Categoría" },
+				{ "label": "Número empleado" },
+				{ "label": "Nombre" },
+				{ "label": "Nivel usuario" },
+				{ "label": "Solicitante" },
+				{ "label": "Correo" },
+				{ "label": "Departamento" }
+				],
+				"rows": [
+					{
+						"id": "1",
+						"data": [
+							"YYYYYYYY",
+							"Autem occaecati fugit voluptatem et magnam.",
+							"Cumque reprehenderit in atque id iure mollitia.",
+							"Nivel 1",
+							"YYYYYYYY",
+							"alfonso.barragán@hotmail.com",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "2",
+						"data": [
+							"YYYYYYYY",
+							"Aut a aut occaecati.",
+							"Quia nemo harum nam debitis omnis.",
+							"Nivel 3",
+							"YYYYYYYY",
+							"micaela.islas@gmail.com",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "3",
+						"data": [
+							"YYYYYYYY",
+							"Vel iste reiciendis.",
+							"Corporis et labore impedit fugiat.",
+							"Nivel 3",
+							"YYYYYYYY",
+							"alberto.arriaga@yahoo.com",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "4",
+						"data": [
+							"YYYYYYYY",
+							"Est sequi enim.",
+							"Laboriosam ut similique eos blanditiis sit sit et.",
+							"Nivel 2",
+							"YYYYYYYY",
+							"agustina.sánchez@hotmail.com",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "5",
+						"data": [
+							"YYYYYYYY",
+							"Voluptate similique optio voluptatem.",
+							"Ut provident est sit.",
+							"Nivel 1",
+							"YYYYYYYY",
+							"celia.uribe@gmail.com",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "6",
+						"data": [
+							"YYYYYYYY",
+							"Rem aut et totam vel labore odit sequi.",
+							"Facere numquam eaque quia vitae velit ut.",
+							"Nivel 3",
+							"YYYYYYYY",
+							"víctor.zapata@yahoo.com",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "7",
+						"data": [
+							"YYYYYYYY",
+							"Rerum velit ut.",
+							"Consequatur sed aut rerum.",
+							"Nivel 1",
+							"YYYYYYYY",
+							"verónica.durán@gmail.com",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "8",
+						"data": [
+							"YYYYYYYY",
+							"Ipsam rerum ut voluptatem voluptatum omnis sint reiciendis.",
+							"Et commodi sed dolorem distinctio dolor minus.",
+							"Nivel 3",
+							"YYYYYYYY",
+							"verónica.dávila@yahoo.com",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "9",
+						"data": [
+							"YYYYYYYY",
+							"Sint praesentium corporis nam sed quas.",
+							"Et inventore error velit et voluptatem amet et.",
+							"Nivel 3",
+							"YYYYYYYY",
+							"rafael.de la cruz@hotmail.com",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "10",
+						"data": [
+							"YYYYYYYY",
+							"Voluptatibus deleniti voluptatem.",
+							"Sapiente officiis magnam saepe dolorem.",
+							"Nivel 3",
+							"YYYYYYYY",
+							"manuel.becerra@gmail.com",
+							"YYYYYYYY"
+						]
+					}
+				]
+			}
+		]
+	}

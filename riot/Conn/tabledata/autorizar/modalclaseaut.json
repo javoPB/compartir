@@ -1,0 +1,73 @@
+
+	{
+		"ids":[
+			{
+				"id": "claseaut-results",
+				"headers": [
+				{ "label": "Nombre Clase" }
+				],
+				"rows": [
+					{
+						"id": "1",
+						"data": [
+							"Placeat ratione sed ea voluptatibus est qui quam."
+						]
+					},
+					{
+						"id": "2",
+						"data": [
+							"Et provident numquam dolorem rerum."
+						]
+					},
+					{
+						"id": "3",
+						"data": [
+							"Omnis amet repudiandae nisi."
+						]
+					},
+					{
+						"id": "4",
+						"data": [
+							"Dolor atque aliquam."
+						]
+					},
+					{
+						"id": "5",
+						"data": [
+							"Suscipit optio ea natus non minus velit totam."
+						]
+					},
+					{
+						"id": "6",
+						"data": [
+							"Voluptate dolores aliquid optio."
+						]
+					},
+					{
+						"id": "7",
+						"data": [
+							"Rerum a ut libero ullam aperiam aut."
+						]
+					},
+					{
+						"id": "8",
+						"data": [
+							"Voluptatum sunt et aut error."
+						]
+					},
+					{
+						"id": "9",
+						"data": [
+							"Nihil et veritatis."
+						]
+					},
+					{
+						"id": "10",
+						"data": [
+							"Non voluptas voluptates."
+						]
+					}
+				]
+			}
+		]
+	}

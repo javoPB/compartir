@@ -1,0 +1,75 @@
+{
+	"ids": [
+		{
+			"id": "autorizadornivelnlist",
+			"headers": [
+				{
+					"label": "Nombre",
+					"required": "true"
+				},
+				{
+					"label": "Correo",
+					"required": "true"
+				}
+			],
+			"rows": [
+				{
+					"id": "TnyvcyZv",
+					"data": [
+						"Ipsa dolorem omnis architecto vero qui.",
+						"guadalupe.reyna@hotmail.com"
+					]
+				},
+				{
+					"id": "8cS1CKlf",
+					"data": [
+						"Delectus asperiores placeat culpa ipsum.",
+						"alfonso.mendoza@prodigy.net.mx"
+					]
+				},
+				{
+					"id": "tpIN3obG",
+					"data": [
+						"Eligendi excepturi hic tempora qui eius.",
+						"maribel.gómez@hotmail.com"
+					]
+				},
+				{
+					"id": "D5wKKnSV",
+					"data": [
+						"Ad blanditiis ut asperiores sequi consequatur dolor amet.",
+						"maría.herrera@yahoo.com"
+					]
+				},
+				{
+					"id": "G7oTqomd",
+					"data": [
+						"Dolor sit ipsum.",
+						"francisco.montiel@prodigy.net.mx"
+					]
+				},
+				{
+					"id": "P3RHXH0i",
+					"data": [
+						"Et omnis commodi.",
+						"carlos alberto.carrera@gmail.com"
+					]
+				},
+				{
+					"id": "MbdmMfYl",
+					"data": [
+						"Aut saepe dolore ut illum corrupti voluptas repellendus.",
+						"celia.treviño@yahoo.com"
+					]
+				},
+				{
+					"id": "yrxUGa5x",
+					"data": [
+						"Rerum ullam optio vel omnis dolorem quisquam labore.",
+						"vicente.de la cruz@prodigy.net.mx"
+					]
+				}
+			]
+		}
+	]
+}

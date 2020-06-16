@@ -1,0 +1,133 @@
+{
+	"ids": [
+		{
+			"id": "autorizadorlist",
+			"headers": [
+				{
+					"label": "Número empleado",
+					"required": "true"
+				},
+				{
+					"label": "Nivel usuario",
+					"type": "select",
+					"required" : "false",
+					"data": [
+						"Nivel 1",
+						"Nivel 2",
+						"Nivel 3"
+					]
+				},
+				{
+					"label": "Solicitante",
+					"type": "select",
+					"required": "true",
+					"data": [
+						"Odit qui ea aut ex et labore.",
+						"Voluptatem consequuntur qui eligendi cum non vero.",
+						"Non quis incidunt nostrum ut consequuntur hic dolor.",
+						"Modi voluptate quia labore natus ipsum.",
+						"Quo saepe dicta impedit adipisci sed ipsa voluptatem."
+					]
+				},
+				{
+					"label": "Correo",
+					"required": "true"
+				},
+				{
+					"label": "Departamento",
+					"type": "select",
+					"required": "true",
+					"data": [
+						"Inventore laudantium optio.",
+						"Doloremque exercitationem illo quasi sint esse sit.",
+						"Perspiciatis facilis quisquam.",
+						"Ut et voluptate necessitatibus libero.",
+						"Ipsa vero eum tempora est."
+					]
+				}
+			],
+			"rows": [
+				{
+					"id": "cJxK5Yr0",
+					"data": [
+						"Ut aut laudantium placeat eum qui.",
+						"Nivel 2",
+						"YYYYYYYY",
+						"benjamín.mercado@gmail.com",
+						"YYYYYYYY"
+					]
+				},
+				{
+					"id": "uGQEq14a",
+					"data": [
+						"Amet ratione in.",
+						"Nivel 2",
+						"YYYYYYYY",
+						"virginia.carrera@prodigy.net.mx",
+						"YYYYYYYY"
+					]
+				},
+				{
+					"id": "wtEkpSIu",
+					"data": [
+						"Qui nostrum non alias.",
+						"Nivel 3",
+						"YYYYYYYY",
+						"lidia.baltazar@gmail.com",
+						"YYYYYYYY"
+					]
+				},
+				{
+					"id": "15PiMLxR",
+					"data": [
+						"Sed facilis vitae laudantium.",
+						"Nivel 3",
+						"YYYYYYYY",
+						"andrés.hurtado@yahoo.com",
+						"YYYYYYYY"
+					]
+				},
+				{
+					"id": "RFUXeWBZ",
+					"data": [
+						"Molestias vel aliquid ut.",
+						"Nivel 1",
+						"YYYYYYYY",
+						"mercedes.reyes@gmail.com",
+						"YYYYYYYY"
+					]
+				},
+				{
+					"id": "JPP8UHng",
+					"data": [
+						"Saepe vel minus molestias debitis sunt.",
+						"Nivel 2",
+						"YYYYYYYY",
+						"beatriz.zamora@prodigy.net.mx",
+						"YYYYYYYY"
+					]
+				},
+				{
+					"id": "zsRMhA0x",
+					"data": [
+						"Eos excepturi eos.",
+						"Nivel 2",
+						"YYYYYYYY",
+						"gilberto.silva@gmail.com",
+						"YYYYYYYY"
+					]
+				},
+				{
+					"id": "BitarVXP",
+					"data": [
+						"Vero blanditiis nisi.",
+						"Nivel 2",
+						"YYYYYYYY",
+						"ignacio.escalante@gmail.com",
+						"YYYYYYYY"
+					]
+				}
+			]
+		}
+	]
+}

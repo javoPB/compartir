@@ -1,0 +1,139 @@
+
+	{
+		"ids":[
+			{
+				"id": "vistaautorizador-results",
+				"headers": [
+				{ "label": "Categoría" },
+				{ "label": "Número empleado" },
+				{ "label": "Nombre" },
+				{ "label": "Nivel usuario" },
+				{ "label": "Solicitante" },
+				{ "label": "Correo" },
+				{ "label": "Departamento" }
+				],
+				"rows": [
+					{
+						"id": "1",
+						"data": [
+							"YYYYYYYY",
+							"Error repudiandae ex ad quis et aut.",
+							"Nobis vel iste voluptas laboriosam cupiditate accusamus.",
+							"Nivel 2",
+							"YYYYYYYY",
+							"jorge alberto.ángeles@prodigy.net.mx",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "2",
+						"data": [
+							"YYYYYYYY",
+							"Non dicta beatae quod enim.",
+							"Accusantium dolor et reprehenderit accusamus iste.",
+							"Nivel 1",
+							"YYYYYYYY",
+							"julio.rentería@yahoo.com",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "3",
+						"data": [
+							"YYYYYYYY",
+							"Sed sint eveniet dolores impedit ipsam dignissimos velit.",
+							"Dolore quae laboriosam aliquam qui enim similique ea.",
+							"Nivel 1",
+							"YYYYYYYY",
+							"gabriel.parra@yahoo.com",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "4",
+						"data": [
+							"YYYYYYYY",
+							"Repellat quibusdam aut qui et nihil voluptas.",
+							"Non placeat officiis.",
+							"Nivel 2",
+							"YYYYYYYY",
+							"maría de lourdes.cuevas@prodigy.net.mx",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "5",
+						"data": [
+							"YYYYYYYY",
+							"Odit atque est eum voluptatem quo eos asperiores.",
+							"Amet vel corporis.",
+							"Nivel 3",
+							"YYYYYYYY",
+							"concepción.escobar@prodigy.net.mx",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "6",
+						"data": [
+							"YYYYYYYY",
+							"Quia ducimus consequuntur error nihil magnam aut.",
+							"Voluptatem ipsam corporis fugiat.",
+							"Nivel 3",
+							"YYYYYYYY",
+							"rosario.may@hotmail.com",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "7",
+						"data": [
+							"YYYYYYYY",
+							"Reiciendis ut architecto necessitatibus iusto sit nisi temporibus.",
+							"Rerum et quae non ullam.",
+							"Nivel 3",
+							"YYYYYYYY",
+							"guadalupe.santillán@gmail.com",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "8",
+						"data": [
+							"YYYYYYYY",
+							"Et inventore quibusdam ad perspiciatis aut minus.",
+							"Necessitatibus sapiente aut et fuga vel quasi.",
+							"Nivel 2",
+							"YYYYYYYY",
+							"raymundo.bernal@yahoo.com",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "9",
+						"data": [
+							"YYYYYYYY",
+							"Vel maiores laboriosam consequatur.",
+							"Laudantium quidem quam nam eum reiciendis expedita.",
+							"Nivel 1",
+							"YYYYYYYY",
+							"carmen.rentería@prodigy.net.mx",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "10",
+						"data": [
+							"YYYYYYYY",
+							"Aut distinctio ducimus ut.",
+							"Cumque pariatur qui error et voluptas dolorem sit.",
+							"Nivel 2",
+							"YYYYYYYY",
+							"moisés.fuentes@prodigy.net.mx",
+							"YYYYYYYY"
+						]
+					}
+				]
+			}
+		]
+	}

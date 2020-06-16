@@ -1,0 +1,184 @@
+{
+	"ids": [
+		{
+			"id": "pendientesautorizargenerallist",
+			"headers": [
+				{
+					"label": "Acción",
+					"type": "select",
+					"required": "true",
+					"data": [
+						"CANCELAR",
+						"AUTORIZAR",
+						"RECHAZAR"
+					]
+				},
+				{
+					"label": "Motivo",
+					"type": "select",
+					"required" : "false",
+					"data": [
+						"Praesentium voluptate dolorem sunt. Perferendis asperiores recusandae possimus et quam quos. Commodi esse cupiditate ipsa. Eius rerum aut molestiae reiciendis et.",
+						"Numquam est sit. Quis nulla dolorem nemo et cupiditate pariatur iusto. Dolores placeat error. In est commodi magni sed a amet qui.",
+						"Minus quisquam vero laborum et laudantium assumenda. Sint nisi sed vel voluptas ut. Veniam omnis corporis. Enim quia eum enim reprehenderit amet dolores magni.",
+						"Consequuntur autem qui odit illum et. Corrupti minima et. Nisi soluta omnis sed.",
+						"Explicabo aperiam nam. Aut ex rerum aspernatur. Voluptate vero et non aut corporis iure. Et vero omnis corporis impedit."
+					]
+				},
+				{
+					"label": "Folio",
+					"required": "true"
+				},
+				{
+					"label": "Categoría",
+					"type": "select",
+					"required" : "false",
+					"data": [
+						"Aut rerum qui.",
+						"Maiores ut omnis.",
+						"Adipisci saepe et aut deserunt nisi ullam voluptas.",
+						"Sint laboriosam a eos eum doloribus.",
+						"Dolor et est nobis."
+					]
+				},
+				{
+					"label": "Proveedor",
+					"type": "select",
+					"required": "true",
+					"data": [
+						"9,745",
+						"8,765",
+						"5,109",
+						"1,601",
+						"1,899"
+					]
+				},
+				{
+					"label": "Total pendiente",
+					"required": "true"
+				},
+				{
+					"label": "Solicitante",
+					"type": "select",
+					"required" : "false",
+					"data": [
+						"Est molestias magni.",
+						"Dolorem facilis esse odit impedit cumque libero a.",
+						"Eum et blanditiis iusto corrupti rem nihil tenetur.",
+						"Quisquam et dolor asperiores eveniet perspiciatis aspernatur.",
+						"Blanditiis et ut."
+					]
+				}
+			],
+			"rows": [
+				{
+					"id": "tqzfnRqK",
+					"data": [
+						"AUTORIZAR",
+						"YYYYYYYY",
+						"Eos harum facilis vel cum.",
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"4,928",
+						"YYYYYYYY"
+					]
+				},
+				{
+					"id": "JyxZKsWB",
+					"data": [
+						"AUTORIZAR",
+						"YYYYYYYY",
+						"Asperiores rerum aut architecto qui veniam eum.",
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"8,867",
+						"YYYYYYYY"
+					]
+				},
+				{
+					"id": "TJA14IpP",
+					"data": [
+						"CANCELAR",
+						"YYYYYYYY",
+						"Mollitia ad distinctio tenetur dicta nulla quis praesentium.",
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"689",
+						"YYYYYYYY"
+					]
+				},
+				{
+					"id": "GKg1OeNW",
+					"data": [
+						"CANCELAR",
+						"YYYYYYYY",
+						"Cupiditate autem dolores omnis consequatur sit et minima.",
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"9,705",
+						"YYYYYYYY"
+					]
+				},
+				{
+					"id": "2yAKdD8g",
+					"data": [
+						"CANCELAR",
+						"YYYYYYYY",
+						"Fugiat in aut modi ut.",
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"5,261",
+						"YYYYYYYY"
+					]
+				},
+				{
+					"id": "f7q384cj",
+					"data": [
+						"AUTORIZAR",
+						"YYYYYYYY",
+						"Dolorem qui assumenda at nihil voluptatem tempore ut.",
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"1,466",
+						"YYYYYYYY"
+					]
+				},
+				{
+					"id": "RonBvJNn",
+					"data": [
+						"CANCELAR",
+						"YYYYYYYY",
+						"Placeat omnis at voluptas.",
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"6,639",
+						"YYYYYYYY"
+					]
+				},
+				{
+					"id": "UnlmGW8h",
+					"data": [
+						"CANCELAR",
+						"YYYYYYYY",
+						"Occaecati id et nam nemo culpa.",
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"1,903",
+						"YYYYYYYY"
+					]
+				}
+			]
+			,"actions": [
+				{
+					"group": "Acciones",
+					"actions": [
+						{
+							"label": "",
+							"link": "/autorizar/resultadosdetallespedidosanticipadosscreen/"
+						}
+					]
+				}
+			]
+		}
+	]
+}

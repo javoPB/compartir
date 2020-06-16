@@ -1,0 +1,117 @@
+
+	{
+		"ids":[
+			{
+				"id": "pendienteautorizargeneralaut-results",
+				"headers": [
+				{ "label": "Folio" },
+				{ "label": "Proveedor" },
+				{ "label": "Motivo" },
+				{ "label": "Folio" },
+				{ "label": "Fecha generación" }
+				],
+				"rows": [
+					{
+						"id": "1",
+						"data": [
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"Nostrum ab consectetur ut.",
+							"2018-Dec-02"
+						]
+					},
+					{
+						"id": "2",
+						"data": [
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"Harum in incidunt.",
+							"2019-Jun-22"
+						]
+					},
+					{
+						"id": "3",
+						"data": [
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"Delectus voluptas ut aperiam.",
+							"2019-Sep-13"
+						]
+					},
+					{
+						"id": "4",
+						"data": [
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"Explicabo aperiam debitis.",
+							"2018-Nov-09"
+						]
+					},
+					{
+						"id": "5",
+						"data": [
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"Rerum rerum rerum molestiae id eum aut.",
+							"2018-Apr-22"
+						]
+					},
+					{
+						"id": "6",
+						"data": [
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"Dolorem sed quae a hic qui.",
+							"2019-Dec-30"
+						]
+					},
+					{
+						"id": "7",
+						"data": [
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"Quibusdam at voluptas quibusdam sed qui deserunt nobis.",
+							"2019-Dec-19"
+						]
+					},
+					{
+						"id": "8",
+						"data": [
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"Minima magnam placeat velit quo.",
+							"2019-Apr-29"
+						]
+					},
+					{
+						"id": "9",
+						"data": [
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"Et expedita ut iusto omnis sit molestias consequatur.",
+							"2018-Dec-25"
+						]
+					},
+					{
+						"id": "10",
+						"data": [
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"YYYYYYYY",
+							"Iure ad et.",
+							"2020-May-25"
+						]
+					}
+				]
+			}
+		]
+	}

@@ -1,0 +1,106 @@
+
+	{
+		"ids":[
+			{
+				"id": "maestrocodigoaut-results",
+				"headers": [
+				{ "label": "SKU" },
+				{ "label": "Artículo" },
+				{ "label": "Marca" },
+				{ "label": "Modelo" }
+				],
+				"rows": [
+					{
+						"id": "1",
+						"data": [
+							"Reprehenderit aliquid eligendi temporibus molestiae rem aut doloribus.",
+							"Inventore dolorem et quas repellat quo reiciendis accusantium.",
+							"Id non fuga fugiat accusamus adipisci.",
+							"Vitae culpa autem qui est ex."
+						]
+					},
+					{
+						"id": "2",
+						"data": [
+							"Dignissimos occaecati molestiae sit.",
+							"Qui id sapiente in magnam quo similique.",
+							"Ut cupiditate atque minima veritatis eveniet beatae.",
+							"Voluptatem quae adipisci autem itaque aut."
+						]
+					},
+					{
+						"id": "3",
+						"data": [
+							"Dignissimos cupiditate sit error et delectus quibusdam.",
+							"Magnam laborum sunt.",
+							"Blanditiis qui tempore minima.",
+							"Aut iusto dolores cumque."
+						]
+					},
+					{
+						"id": "4",
+						"data": [
+							"Nobis quia quidem quibusdam magni placeat enim.",
+							"Quos est velit.",
+							"Et excepturi quia et nisi modi omnis.",
+							"Rem aliquam fuga."
+						]
+					},
+					{
+						"id": "5",
+						"data": [
+							"Quia quo consectetur cupiditate alias.",
+							"Aut et esse eum id reiciendis eum sed.",
+							"Ipsum pariatur saepe deleniti quisquam voluptatem voluptates.",
+							"Corporis ad deserunt temporibus non sint."
+						]
+					},
+					{
+						"id": "6",
+						"data": [
+							"Eum illum dicta repellendus dicta.",
+							"Consequatur est blanditiis enim incidunt.",
+							"Quam quia itaque.",
+							"Nulla earum iste."
+						]
+					},
+					{
+						"id": "7",
+						"data": [
+							"Perferendis omnis consequatur architecto reiciendis assumenda omnis.",
+							"Voluptas rerum at quam vel.",
+							"Minima vel a.",
+							"Vitae et quisquam quia unde rerum molestiae enim."
+						]
+					},
+					{
+						"id": "8",
+						"data": [
+							"Dolorem occaecati dolores est.",
+							"Molestiae dignissimos repellendus ut neque.",
+							"Velit ad a.",
+							"Laborum dolores dolore eum atque aut quisquam."
+						]
+					},
+					{
+						"id": "9",
+						"data": [
+							"Sed repellendus repellendus maxime quasi qui.",
+							"Consequatur molestias expedita dolorem aut nisi.",
+							"Soluta maxime quas dolor.",
+							"Doloribus aut ut vitae asperiores iste."
+						]
+					},
+					{
+						"id": "10",
+						"data": [
+							"Id est illo qui quibusdam in est.",
+							"Qui aliquid non distinctio itaque ut voluptates natus.",
+							"Fuga occaecati consequatur ut occaecati sunt et.",
+							"Porro assumenda id excepturi iusto rerum et inventore."
+						]
+					}
+				]
+			}
+		]
+	}

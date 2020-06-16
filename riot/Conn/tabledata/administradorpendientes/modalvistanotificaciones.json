@@ -1,0 +1,128 @@
+
+	{
+		"ids":[
+			{
+				"id": "vistanotificaciones-results",
+				"headers": [
+				{ "label": "Número empleado" },
+				{ "label": "Nivel usuario" },
+				{ "label": "Solicitante" },
+				{ "label": "Correo" },
+				{ "label": "Departamento" },
+				{ "label": "Categoría" }
+				],
+				"rows": [
+					{
+						"id": "1",
+						"data": [
+							"At sequi ex velit magni.",
+							"Nivel 1",
+							"YYYYYYYY",
+							"maricela.benítez@yahoo.com",
+							"YYYYYYYY",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "2",
+						"data": [
+							"Rerum molestiae sunt voluptatem.",
+							"Nivel 2",
+							"YYYYYYYY",
+							"micaela.nava@hotmail.com",
+							"YYYYYYYY",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "3",
+						"data": [
+							"Atque ut et vitae aut ut doloribus.",
+							"Nivel 2",
+							"YYYYYYYY",
+							"benjamín.román@prodigy.net.mx",
+							"YYYYYYYY",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "4",
+						"data": [
+							"Dolorum nihil aperiam provident eum iure dolores assumenda.",
+							"Nivel 2",
+							"YYYYYYYY",
+							"rafael.solís@hotmail.com",
+							"YYYYYYYY",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "5",
+						"data": [
+							"Sint aut et commodi qui.",
+							"Nivel 2",
+							"YYYYYYYY",
+							"saúl.valdez@prodigy.net.mx",
+							"YYYYYYYY",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "6",
+						"data": [
+							"Exercitationem ipsum ullam facilis maxime sed iusto tempore.",
+							"Nivel 2",
+							"YYYYYYYY",
+							"josé guadalupe.téllez@gmail.com",
+							"YYYYYYYY",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "7",
+						"data": [
+							"Aliquam distinctio maxime sit reiciendis autem quia.",
+							"Nivel 2",
+							"YYYYYYYY",
+							"francisca.camacho@hotmail.com",
+							"YYYYYYYY",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "8",
+						"data": [
+							"Alias et itaque rerum vel enim eveniet.",
+							"Nivel 3",
+							"YYYYYYYY",
+							"josé guadalupe.correa@gmail.com",
+							"YYYYYYYY",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "9",
+						"data": [
+							"Autem laudantium nihil.",
+							"Nivel 2",
+							"YYYYYYYY",
+							"gerardo.zapata@hotmail.com",
+							"YYYYYYYY",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "10",
+						"data": [
+							"Sit saepe odio sit hic dicta.",
+							"Nivel 2",
+							"YYYYYYYY",
+							"dolores.saldaña@yahoo.com",
+							"YYYYYYYY",
+							"YYYYYYYY"
+						]
+					}
+				]
+			}
+		]
+	}

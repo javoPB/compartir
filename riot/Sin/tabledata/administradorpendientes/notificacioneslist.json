@@ -1,0 +1,133 @@
+{
+	"ids": [
+		{
+			"id": "notificacioneslist",
+			"headers": [
+				{
+					"label": "Número empleado",
+					"required": "true"
+				},
+				{
+					"label": "Nivel usuario",
+					"type": "select",
+					"required" : "false",
+					"data": [
+						"Nivel 1",
+						"Nivel 2",
+						"Nivel 3"
+					]
+				},
+				{
+					"label": "Solicitante",
+					"type": "select",
+					"required": "true",
+					"data": [
+						"Aut quaerat doloremque sapiente nemo perferendis et eligendi.",
+						"Rem id dolores.",
+						"Ut est eaque inventore eaque.",
+						"Dolor aut sunt rerum eius.",
+						"Qui aut libero et dolores."
+					]
+				},
+				{
+					"label": "Correo",
+					"required": "true"
+				},
+				{
+					"label": "Departamento",
+					"type": "select",
+					"required": "true",
+					"data": [
+						"Et officia ad.",
+						"Mollitia et veritatis repellat incidunt sed debitis voluptate.",
+						"Hic id iure iste inventore.",
+						"Ipsa quibusdam beatae quia qui ipsum ut qui.",
+						"Officiis iste cumque exercitationem."
+					]
+				}
+			],
+			"rows": [
+				{
+					"id": "NLD25Vn1",
+					"data": [
+						"Molestiae repudiandae perspiciatis ut deleniti vitae est quas.",
+						"Nivel 1",
+						"YYYYYYYY",
+						"leonardo.de león@hotmail.com",
+						"YYYYYYYY"
+					]
+				},
+				{
+					"id": "OqYQvOkw",
+					"data": [
+						"Et dolor dolores deserunt minus voluptas.",
+						"Nivel 1",
+						"YYYYYYYY",
+						"dolores.rivera@yahoo.com",
+						"YYYYYYYY"
+					]
+				},
+				{
+					"id": "12HVqczq",
+					"data": [
+						"Dolorem harum qui atque quia nam.",
+						"Nivel 3",
+						"YYYYYYYY",
+						"santiago.valdez@prodigy.net.mx",
+						"YYYYYYYY"
+					]
+				},
+				{
+					"id": "Zazioguo",
+					"data": [
+						"Debitis officiis quis.",
+						"Nivel 2",
+						"YYYYYYYY",
+						"andrés.guerrero@yahoo.com",
+						"YYYYYYYY"
+					]
+				},
+				{
+					"id": "A7PuveoR",
+					"data": [
+						"Pariatur quia dolor voluptatum laudantium praesentium sequi.",
+						"Nivel 1",
+						"YYYYYYYY",
+						"carlos.bernal@gmail.com",
+						"YYYYYYYY"
+					]
+				},
+				{
+					"id": "3jxZ7grz",
+					"data": [
+						"Rerum aut eum.",
+						"Nivel 3",
+						"YYYYYYYY",
+						"mercedes.valle@yahoo.com",
+						"YYYYYYYY"
+					]
+				},
+				{
+					"id": "9cHTvGRB",
+					"data": [
+						"Error aut aut reiciendis natus aut hic enim.",
+						"Nivel 1",
+						"YYYYYYYY",
+						"carmen.aparicio@hotmail.com",
+						"YYYYYYYY"
+					]
+				},
+				{
+					"id": "FEDbmutm",
+					"data": [
+						"Impedit omnis nesciunt ut.",
+						"Nivel 3",
+						"YYYYYYYY",
+						"dolores.pacheco@yahoo.com",
+						"YYYYYYYY"
+					]
+				}
+			]
+		}
+	]
+}

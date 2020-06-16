@@ -1,0 +1,150 @@
+
+	{
+		"ids":[
+			{
+				"id": "proveedoraut-results",
+				"headers": [
+				{ "label": "Número Familia" },
+				{ "label": "Nombre Proveedor" },
+				{ "label": "Razón Social Proveedor" },
+				{ "label": "Status" },
+				{ "label": "Flag Pedido Automatico" },
+				{ "label": "Tipo Proveedor" },
+				{ "label": "Fecuencia Pedido" },
+				{ "label": "Lead Time" }
+				],
+				"rows": [
+					{
+						"id": "1",
+						"data": [
+							"1,514",
+							"Quia aspernatur et eveniet.",
+							"Quas et vel quia.",
+							"Amet sequi est sit inventore ea.",
+							"1,005",
+							"Nacional",
+							"14 días",
+							"21 días"
+						]
+					},
+					{
+						"id": "2",
+						"data": [
+							"4,428",
+							"Dignissimos ut praesentium aut quia rerum voluptas et.",
+							"Sed veritatis at quis eaque occaecati aperiam aut.",
+							"In ut similique sapiente est.",
+							"3,561",
+							"Año Nuevo Chino",
+							"7 días",
+							"7 días"
+						]
+					},
+					{
+						"id": "3",
+						"data": [
+							"604",
+							"Deserunt ut vero id accusantium id voluptas.",
+							"Laboriosam totam et deserunt.",
+							"Nisi laborum nihil non.",
+							"2,867",
+							"Nacional",
+							"7 días",
+							"14 días"
+						]
+					},
+					{
+						"id": "4",
+						"data": [
+							"3,309",
+							"Eveniet ab illum distinctio rem.",
+							"Itaque dolor doloribus aliquam voluptatem.",
+							"Nam numquam voluptatem dignissimos et porro.",
+							"2,402",
+							"CPFR",
+							"21 días",
+							"28 días"
+						]
+					},
+					{
+						"id": "5",
+						"data": [
+							"5,085",
+							"Maiores ea atque.",
+							"Recusandae quasi animi aspernatur temporibus facilis illum.",
+							"Nemo fugit quod sit corporis esse molestias nesciunt.",
+							"3,230",
+							"Nacional",
+							"28 días",
+							"28 días"
+						]
+					},
+					{
+						"id": "6",
+						"data": [
+							"1,382",
+							"Itaque dolor omnis consequatur velit sit et aut.",
+							"Officiis autem velit voluptatem accusamus qui.",
+							"Magni cumque omnis dignissimos quam nihil.",
+							"7,697",
+							"CPFR",
+							"28 días",
+							"21 días"
+						]
+					},
+					{
+						"id": "7",
+						"data": [
+							"5,087",
+							"Voluptatem et voluptatem neque quia ut eligendi.",
+							"Nesciunt voluptate voluptatem.",
+							"Nihil atque corporis sed porro dicta assumenda omnis.",
+							"5,663",
+							"Año Nuevo Chino",
+							"21 días",
+							"14 días"
+						]
+					},
+					{
+						"id": "8",
+						"data": [
+							"8,715",
+							"Ullam et aspernatur delectus quaerat recusandae et soluta.",
+							"Omnis debitis voluptatem reprehenderit non rerum dolore laborum.",
+							"Et provident et in in.",
+							"1,185",
+							"Año Nuevo Chino",
+							"21 días",
+							"14 días"
+						]
+					},
+					{
+						"id": "9",
+						"data": [
+							"863",
+							"Ab error iure vero.",
+							"Illo in at.",
+							"Iusto qui sed quisquam quisquam est porro et.",
+							"9,894",
+							"Importación",
+							"21 días",
+							"7 días"
+						]
+					},
+					{
+						"id": "10",
+						"data": [
+							"1,701",
+							"Non itaque et consequatur sed.",
+							"Expedita repudiandae in assumenda nulla.",
+							"Eos in est sint vel.",
+							"5,618",
+							"Importación",
+							"7 días",
+							"7 días"
+						]
+					}
+				]
+			}
+		]
+	}

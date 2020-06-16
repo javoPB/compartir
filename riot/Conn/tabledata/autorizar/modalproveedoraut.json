@@ -1,0 +1,150 @@
+
+	{
+		"ids":[
+			{
+				"id": "proveedoraut-results",
+				"headers": [
+				{ "label": "Número Familia" },
+				{ "label": "Nombre Proveedor" },
+				{ "label": "Razón Social Proveedor" },
+				{ "label": "Status" },
+				{ "label": "Flag Pedido Automatico" },
+				{ "label": "Tipo Proveedor" },
+				{ "label": "Fecuencia Pedido" },
+				{ "label": "Lead Time" }
+				],
+				"rows": [
+					{
+						"id": "1",
+						"data": [
+							"6,574",
+							"Non distinctio veritatis possimus tempora voluptatem.",
+							"Sequi earum ex magni.",
+							"Maiores itaque nostrum eum qui esse aliquam.",
+							"3,891",
+							"Nacional",
+							"7 días",
+							"28 días"
+						]
+					},
+					{
+						"id": "2",
+						"data": [
+							"7,841",
+							"Sit facere reiciendis minima commodi aut.",
+							"Eum molestiae facilis fuga sunt est.",
+							"Adipisci exercitationem ipsum ut velit.",
+							"3,620",
+							"CPFR",
+							"21 días",
+							"28 días"
+						]
+					},
+					{
+						"id": "3",
+						"data": [
+							"5,529",
+							"Atque doloribus et quibusdam sint vero dolorum.",
+							"Ea ut corrupti amet.",
+							"Ratione est id delectus distinctio iure.",
+							"3,840",
+							"Temporada",
+							"28 días",
+							"28 días"
+						]
+					},
+					{
+						"id": "4",
+						"data": [
+							"7,611",
+							"Nesciunt eius qui facere omnis iusto impedit.",
+							"Est voluptas ut sed quam.",
+							"Quasi quia repellat cumque qui pariatur qui fugiat.",
+							"8,832",
+							"CPFR",
+							"7 días",
+							"7 días"
+						]
+					},
+					{
+						"id": "5",
+						"data": [
+							"7,645",
+							"Architecto odio optio in quis beatae.",
+							"Non qui adipisci repudiandae odio.",
+							"Placeat non et commodi labore qui placeat sit.",
+							"6,802",
+							"Importación",
+							"21 días",
+							"14 días"
+						]
+					},
+					{
+						"id": "6",
+						"data": [
+							"9,123",
+							"Accusamus debitis ullam pariatur quas.",
+							"Ut delectus laudantium rerum cum et ea.",
+							"Maiores voluptas odit ullam.",
+							"5,203",
+							"Importación",
+							"14 días",
+							"28 días"
+						]
+					},
+					{
+						"id": "7",
+						"data": [
+							"886",
+							"Sint sunt illo culpa.",
+							"Quia quaerat explicabo quae nihil eveniet.",
+							"Aperiam autem illum ex.",
+							"3,532",
+							"Nacional",
+							"21 días",
+							"14 días"
+						]
+					},
+					{
+						"id": "8",
+						"data": [
+							"3,632",
+							"Et est a sint in harum facere a.",
+							"Sed nam rerum et quis aut fuga.",
+							"Tempora et ut omnis quibusdam ullam sint.",
+							"2,599",
+							"CPFR",
+							"14 días",
+							"7 días"
+						]
+					},
+					{
+						"id": "9",
+						"data": [
+							"9,380",
+							"Aliquam harum iste aut et.",
+							"Laboriosam quidem quidem praesentium.",
+							"Nam qui accusamus.",
+							"5,494",
+							"CPFR",
+							"21 días",
+							"28 días"
+						]
+					},
+					{
+						"id": "10",
+						"data": [
+							"8,717",
+							"In fuga nostrum.",
+							"Et necessitatibus consequatur non est porro maxime voluptatem.",
+							"Sit et nulla voluptas molestiae eveniet beatae.",
+							"4,757",
+							"CPFR",
+							"7 días",
+							"14 días"
+						]
+					}
+				]
+			}
+		]
+	}

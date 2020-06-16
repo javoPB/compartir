@@ -1,0 +1,145 @@
+{
+	"ids": [
+		{
+			"id": "resultadosdetallespedidosanticipadoslist",
+			"headers": [
+				{
+					"label": "Acción",
+					"type": "select",
+					"required": "true",
+					"data": [
+						"CANCELAR",
+						"AUTORIZAR",
+						"RECHAZAR"
+					]
+				},
+				{
+					"label": "Motivo",
+					"type": "select",
+					"required" : "false",
+					"data": [
+						"Deleniti facilis dolores eos fugit. Consequatur adipisci ea ad. Distinctio nulla dolorum vero.",
+						"Accusantium tempore consequuntur. Aut exercitationem quaerat accusamus rerum vero. Magnam neque modi placeat tempore. Id inventore magni quisquam. Iure voluptatum quae commodi adipisci.",
+						"Ea ipsa aperiam unde nam voluptas. Voluptatum dolor hic cupiditate est saepe nihil. Eum qui veritatis quidem vel. Ut minima odit aut tempore dolor non quo.",
+						"Veritatis accusamus autem rerum ad quia pariatur. Consequatur illo aspernatur soluta id omnis enim voluptatem. Architecto eos deleniti quas repellendus qui. Consequuntur odio atque. Consectetur voluptas nihil saepe enim voluptas.",
+						"Ut rerum est beatae. Inventore esse aut. Fugit blanditiis officiis ducimus autem dolorum eligendi. Quod nobis ut dignissimos. Temporibus adipisci aspernatur ipsum."
+					]
+				},
+				{
+					"label": "SKU a surtir",
+					"type": "select",
+					"required": "true",
+					"data": [
+						"Culpa molestiae et et sed.",
+						"Qui aut ad et earum facilis.",
+						"Voluptas nihil ut inventore tempore.",
+						"Ad possimus repellat.",
+						"Minus qui modi odit architecto."
+					]
+				},
+				{
+					"label": "Cantidad SKUs",
+					"required": "true"
+				},
+				{
+					"label": "CEDI destino",
+					"required": "true"
+				},
+				{
+					"label": "Saldo",
+					"required": "true"
+				}
+			],
+			"rows": [
+				{
+					"id": "ANyXN4oW",
+					"data": [
+						"RECHAZAR",
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"3,633",
+						"Vel voluptas voluptate.",
+						"62,246"
+					]
+				},
+				{
+					"id": "Rtf0GNAI",
+					"data": [
+						"AUTORIZAR",
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"6,256",
+						"Et repellendus odio.",
+						"70,057"
+					]
+				},
+				{
+					"id": "yRPcaTe1",
+					"data": [
+						"RECHAZAR",
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"7,973",
+						"Ut est expedita consectetur non maiores.",
+						"98,553"
+					]
+				},
+				{
+					"id": "x2NsQTAn",
+					"data": [
+						"RECHAZAR",
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"5,315",
+						"Dolor dicta optio ut sit.",
+						"6,365"
+					]
+				},
+				{
+					"id": "DsjK3uLT",
+					"data": [
+						"CANCELAR",
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"8,765",
+						"Et odio qui accusamus voluptas dolorum.",
+						"48,707"
+					]
+				},
+				{
+					"id": "lGn1wB10",
+					"data": [
+						"CANCELAR",
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"8,342",
+						"Omnis beatae voluptates.",
+						"15,366"
+					]
+				},
+				{
+					"id": "B7uiHcoW",
+					"data": [
+						"RECHAZAR",
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"2,302",
+						"Atque enim nisi.",
+						"84,513"
+					]
+				},
+				{
+					"id": "OzT4wj0S",
+					"data": [
+						"CANCELAR",
+						"YYYYYYYY",
+						"YYYYYYYY",
+						"6,673",
+						"Sequi accusantium quo accusamus ipsam voluptate fugiat.",
+						"69,738"
+					]
+				}
+			]
+		}
+	]
+}

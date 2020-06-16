@@ -1,0 +1,73 @@
+
+	{
+		"ids":[
+			{
+				"id": "usuarioaut-results",
+				"headers": [
+				{ "label": "Número empleado" }
+				],
+				"rows": [
+					{
+						"id": "1",
+						"data": [
+							"Doloribus quia labore sunt reiciendis autem vitae et."
+						]
+					},
+					{
+						"id": "2",
+						"data": [
+							"Rerum quam voluptas aut voluptatem."
+						]
+					},
+					{
+						"id": "3",
+						"data": [
+							"Nam laudantium enim voluptatem eius quo rerum numquam."
+						]
+					},
+					{
+						"id": "4",
+						"data": [
+							"Molestias ratione porro eveniet."
+						]
+					},
+					{
+						"id": "5",
+						"data": [
+							"Consectetur sunt sint voluptatem cupiditate ut ullam accusamus."
+						]
+					},
+					{
+						"id": "6",
+						"data": [
+							"Sint doloremque exercitationem quo enim atque."
+						]
+					},
+					{
+						"id": "7",
+						"data": [
+							"Laudantium modi aliquid a."
+						]
+					},
+					{
+						"id": "8",
+						"data": [
+							"Minima quidem voluptatibus hic explicabo quo."
+						]
+					},
+					{
+						"id": "9",
+						"data": [
+							"Perspiciatis debitis quos."
+						]
+					},
+					{
+						"id": "10",
+						"data": [
+							"Quidem cumque perspiciatis recusandae aut inventore itaque dolor."
+						]
+					}
+				]
+			}
+		]
+	}

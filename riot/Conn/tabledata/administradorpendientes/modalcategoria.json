@@ -1,0 +1,73 @@
+
+	{
+		"ids":[
+			{
+				"id": "categoria-results",
+				"headers": [
+				{ "label": "Nombre Categoria" }
+				],
+				"rows": [
+					{
+						"id": "1",
+						"data": [
+							"Debitis rerum qui molestias ut consequatur."
+						]
+					},
+					{
+						"id": "2",
+						"data": [
+							"Voluptatem eum unde iste aspernatur excepturi a."
+						]
+					},
+					{
+						"id": "3",
+						"data": [
+							"Non et enim."
+						]
+					},
+					{
+						"id": "4",
+						"data": [
+							"Aliquid sapiente repellendus ullam ipsam dignissimos."
+						]
+					},
+					{
+						"id": "5",
+						"data": [
+							"Qui facere consequatur."
+						]
+					},
+					{
+						"id": "6",
+						"data": [
+							"Dolorum distinctio perferendis nihil ipsa voluptate."
+						]
+					},
+					{
+						"id": "7",
+						"data": [
+							"Sunt esse et eius."
+						]
+					},
+					{
+						"id": "8",
+						"data": [
+							"Quis consectetur labore aliquam ad culpa."
+						]
+					},
+					{
+						"id": "9",
+						"data": [
+							"Quia sit quisquam dolor eius."
+						]
+					},
+					{
+						"id": "10",
+						"data": [
+							"Facilis aut sint dolorem ab."
+						]
+					}
+				]
+			}
+		]
+	}

@@ -1,0 +1,117 @@
+
+	{
+		"ids":[
+			{
+				"id": "notificaciones-results",
+				"headers": [
+				{ "label": "Número de empleado" },
+				{ "label": "Nivel" },
+				{ "label": "Nivel usuario" },
+				{ "label": "Correo" },
+				{ "label": "Departamento" }
+				],
+				"rows": [
+					{
+						"id": "1",
+						"data": [
+							"YYYYYYYY",
+							"Nivel 3",
+							"YYYYYYYY",
+							"luis alberto.cervantes@gmail.com",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "2",
+						"data": [
+							"YYYYYYYY",
+							"Nivel 3",
+							"YYYYYYYY",
+							"alfredo.ramírez@prodigy.net.mx",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "3",
+						"data": [
+							"YYYYYYYY",
+							"Nivel 1",
+							"YYYYYYYY",
+							"fernando.palacios@prodigy.net.mx",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "4",
+						"data": [
+							"YYYYYYYY",
+							"Nivel 1",
+							"YYYYYYYY",
+							"roberto.mondragón@yahoo.com",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "5",
+						"data": [
+							"YYYYYYYY",
+							"Nivel 2",
+							"YYYYYYYY",
+							"isabel.morales@yahoo.com",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "6",
+						"data": [
+							"YYYYYYYY",
+							"Nivel 2",
+							"YYYYYYYY",
+							"verónica.sotelo@prodigy.net.mx",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "7",
+						"data": [
+							"YYYYYYYY",
+							"Nivel 3",
+							"YYYYYYYY",
+							"claudia.saldaña@gmail.com",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "8",
+						"data": [
+							"YYYYYYYY",
+							"Nivel 2",
+							"YYYYYYYY",
+							"alfonso.tovar@yahoo.com",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "9",
+						"data": [
+							"YYYYYYYY",
+							"Nivel 2",
+							"YYYYYYYY",
+							"angélica.covarrubias@prodigy.net.mx",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "10",
+						"data": [
+							"YYYYYYYY",
+							"Nivel 1",
+							"YYYYYYYY",
+							"esperanza.leyva@yahoo.com",
+							"YYYYYYYY"
+						]
+					}
+				]
+			}
+		]
+	}

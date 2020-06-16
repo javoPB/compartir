@@ -1,0 +1,79 @@
+{
+	"ids": [
+		{
+			"id": "motivoslist",
+			"headers": [
+				{
+					"label": "Tipo Motivo",
+					"type": "select",
+					"required": "true",
+					"data": [
+						"Rechazo"
+					]
+				},
+				{
+					"label": "Motivo",
+					"required": "true"
+				}
+			],
+			"rows": [
+				{
+					"id": "Vt4nwoy3",
+					"data": [
+						"Rechazo",
+						"Sequi totam et est blanditiis. Saepe omnis est. Sit ipsa aliquam consequatur in voluptates enim."
+					]
+				},
+				{
+					"id": "1pEItK0l",
+					"data": [
+						"Rechazo",
+						"Eum repellendus odio sint. Est totam est. Consequatur perferendis sed sit commodi cumque. Magnam aperiam placeat reprehenderit. Distinctio saepe et impedit doloremque ut veniam autem."
+					]
+				},
+				{
+					"id": "BG7NrISM",
+					"data": [
+						"Rechazo",
+						"Suscipit quis architecto. Similique accusamus quasi saepe magnam. Aut consectetur iusto. Saepe aut animi."
+					]
+				},
+				{
+					"id": "oSU4uqyK",
+					"data": [
+						"Rechazo",
+						"Dolor id numquam asperiores. Quod est dolor ad ab. Autem id sit mollitia reprehenderit quae. Temporibus perferendis aliquam sed velit repellendus omnis sit."
+					]
+				},
+				{
+					"id": "R4LSzn03",
+					"data": [
+						"Rechazo",
+						"Ipsum quae quis voluptas quia qui fugit illum. Qui et facilis ut reprehenderit similique. Nisi accusantium sit est earum neque sunt."
+					]
+				},
+				{
+					"id": "rszy3D1z",
+					"data": [
+						"Rechazo",
+						"Eligendi eos nihil laudantium commodi. Aut dolor molestiae. Aperiam ut excepturi qui aspernatur veniam id. Molestiae dolor repudiandae commodi unde soluta dolores nam. Ex sequi sed velit."
+					]
+				},
+				{
+					"id": "0tQKynl9",
+					"data": [
+						"Rechazo",
+						"Excepturi eaque ut voluptate. Ipsam et totam placeat. Ut id sint sit voluptas. Ipsa voluptas et maiores tempora aut quo illum."
+					]
+				},
+				{
+					"id": "XZlFSz9O",
+					"data": [
+						"Rechazo",
+						"Nam doloribus incidunt et ea. Aut molestiae sunt et minus. Quia architecto voluptatem quae mollitia qui maiores ab. Atque pariatur suscipit eaque unde qui illum."
+					]
+				}
+			]
+		}
+	]
+}

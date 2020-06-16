@@ -1,0 +1,73 @@
+
+	{
+		"ids":[
+			{
+				"id": "categoriaaut-results",
+				"headers": [
+				{ "label": "Nombre Categoria" }
+				],
+				"rows": [
+					{
+						"id": "1",
+						"data": [
+							"Ipsam inventore qui quia magnam sunt."
+						]
+					},
+					{
+						"id": "2",
+						"data": [
+							"Quo incidunt quod dolorum perspiciatis doloremque autem ipsam."
+						]
+					},
+					{
+						"id": "3",
+						"data": [
+							"Cupiditate et quis quia adipisci vel autem."
+						]
+					},
+					{
+						"id": "4",
+						"data": [
+							"Nemo sit fugit quod dolorem aperiam officia."
+						]
+					},
+					{
+						"id": "5",
+						"data": [
+							"Placeat fugiat voluptatem molestias dolorem."
+						]
+					},
+					{
+						"id": "6",
+						"data": [
+							"Inventore ut autem est dolores a sed."
+						]
+					},
+					{
+						"id": "7",
+						"data": [
+							"Qui totam omnis tenetur asperiores fugiat."
+						]
+					},
+					{
+						"id": "8",
+						"data": [
+							"Quia numquam dicta aliquid dolor."
+						]
+					},
+					{
+						"id": "9",
+						"data": [
+							"Beatae itaque labore ut sit nisi."
+						]
+					},
+					{
+						"id": "10",
+						"data": [
+							"Temporibus ab architecto nulla quia eos dolores est."
+						]
+					}
+				]
+			}
+		]
+	}

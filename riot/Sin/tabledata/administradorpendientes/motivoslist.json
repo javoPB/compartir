@@ -1,0 +1,79 @@
+{
+	"ids": [
+		{
+			"id": "motivoslist",
+			"headers": [
+				{
+					"label": "Tipo Motivo",
+					"type": "select",
+					"required": "true",
+					"data": [
+						"Rechazo"
+					]
+				},
+				{
+					"label": "Motivo",
+					"required": "true"
+				}
+			],
+			"rows": [
+				{
+					"id": "QCRBkFpJ",
+					"data": [
+						"Rechazo",
+						"Aspernatur consequatur officiis. Doloremque quisquam consequuntur laudantium ea et saepe. Quasi qui in tenetur quia nihil. Officiis laborum perspiciatis voluptatum excepturi sit. Commodi delectus autem."
+					]
+				},
+				{
+					"id": "mgoKDhKm",
+					"data": [
+						"Rechazo",
+						"Commodi in ex sed. Est alias nostrum est sit. Molestiae maxime est ut quisquam suscipit et."
+					]
+				},
+				{
+					"id": "pWCnKF6n",
+					"data": [
+						"Rechazo",
+						"Autem quae eius voluptas repellat aut. Consequuntur qui culpa sunt sed consectetur quam ad. Aut explicabo omnis dolor consequuntur. Fugiat dolorem totam delectus consequatur."
+					]
+				},
+				{
+					"id": "ODcxpJRY",
+					"data": [
+						"Rechazo",
+						"Omnis nemo dolore id. Reiciendis inventore id placeat enim. Dolore dolore incidunt ullam molestiae quasi."
+					]
+				},
+				{
+					"id": "CyAeMdu8",
+					"data": [
+						"Rechazo",
+						"Dolorem earum ut autem. Quia vero quia perspiciatis. Suscipit libero laboriosam quaerat quos. Eum eius id hic qui laboriosam quidem."
+					]
+				},
+				{
+					"id": "gq1FoicT",
+					"data": [
+						"Rechazo",
+						"Est debitis quibusdam ut earum. Quae sit fugit quas. Quasi illo aperiam. Soluta quia consequuntur officia qui."
+					]
+				},
+				{
+					"id": "ibfIsFTL",
+					"data": [
+						"Rechazo",
+						"Repellat sint doloremque atque. Delectus in nulla libero doloremque aut odio esse. Et voluptatem delectus."
+					]
+				},
+				{
+					"id": "NJ8B13DP",
+					"data": [
+						"Rechazo",
+						"Eum repellat incidunt. Natus tempore aspernatur voluptas asperiores aut. Velit perspiciatis quibusdam."
+					]
+				}
+			]
+		}
+	]
+}

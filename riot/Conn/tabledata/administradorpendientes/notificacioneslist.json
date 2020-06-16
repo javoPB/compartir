@@ -1,0 +1,133 @@
+{
+	"ids": [
+		{
+			"id": "notificacioneslist",
+			"headers": [
+				{
+					"label": "Número empleado",
+					"required": "true"
+				},
+				{
+					"label": "Nivel usuario",
+					"type": "select",
+					"required" : "false",
+					"data": [
+						"Nivel 1",
+						"Nivel 2",
+						"Nivel 3"
+					]
+				},
+				{
+					"label": "Solicitante",
+					"type": "select",
+					"required": "true",
+					"data": [
+						"Iusto dignissimos amet quia.",
+						"Fugit id odio delectus dolorem accusantium illo.",
+						"Eos tenetur quasi aut eveniet sed facilis eos.",
+						"Aperiam laudantium vel fugit rerum et hic.",
+						"Aperiam deserunt exercitationem quis similique reprehenderit cum quam."
+					]
+				},
+				{
+					"label": "Correo",
+					"required": "true"
+				},
+				{
+					"label": "Departamento",
+					"type": "select",
+					"required": "true",
+					"data": [
+						"Ratione veritatis enim assumenda qui voluptas pariatur.",
+						"Et enim assumenda.",
+						"Numquam dignissimos consequuntur omnis.",
+						"Voluptatem vel voluptatem quidem nesciunt enim architecto.",
+						"Quos accusamus nobis ea eos vel vel."
+					]
+				}
+			],
+			"rows": [
+				{
+					"id": "w9jxFaB5",
+					"data": [
+						"At molestiae beatae qui eum possimus fugit minus.",
+						"Nivel 2",
+						"YYYYYYYY",
+						"angelina.rosas@gmail.com",
+						"YYYYYYYY"
+					]
+				},
+				{
+					"id": "gAkPfz92",
+					"data": [
+						"Ut et fugiat quia id quia.",
+						"Nivel 1",
+						"YYYYYYYY",
+						"alicia.velasco@gmail.com",
+						"YYYYYYYY"
+					]
+				},
+				{
+					"id": "HiaMNQ0r",
+					"data": [
+						"Dolorem autem error ut ratione velit ad neque.",
+						"Nivel 2",
+						"YYYYYYYY",
+						"mercedes.peña@hotmail.com",
+						"YYYYYYYY"
+					]
+				},
+				{
+					"id": "vZqkFklE",
+					"data": [
+						"Praesentium dolores deserunt fugiat.",
+						"Nivel 3",
+						"YYYYYYYY",
+						"isidro.gil@prodigy.net.mx",
+						"YYYYYYYY"
+					]
+				},
+				{
+					"id": "Hm1Qsu6d",
+					"data": [
+						"Et eius beatae qui.",
+						"Nivel 3",
+						"YYYYYYYY",
+						"lorena.macías@hotmail.com",
+						"YYYYYYYY"
+					]
+				},
+				{
+					"id": "muMkqlov",
+					"data": [
+						"Voluptatum eum dolore debitis.",
+						"Nivel 3",
+						"YYYYYYYY",
+						"martha.zamora@yahoo.com",
+						"YYYYYYYY"
+					]
+				},
+				{
+					"id": "6Oe9QHoQ",
+					"data": [
+						"Qui nisi delectus voluptates id.",
+						"Nivel 3",
+						"YYYYYYYY",
+						"verónica.núñez@hotmail.com",
+						"YYYYYYYY"
+					]
+				},
+				{
+					"id": "sfxlrgRo",
+					"data": [
+						"Est saepe aut eum rerum.",
+						"Nivel 3",
+						"YYYYYYYY",
+						"andrés.caballero@prodigy.net.mx",
+						"YYYYYYYY"
+					]
+				}
+			]
+		}
+	]
+}

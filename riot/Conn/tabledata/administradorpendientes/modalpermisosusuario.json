@@ -1,0 +1,150 @@
+
+	{
+		"ids":[
+			{
+				"id": "permisosusuario-results",
+				"headers": [
+				{ "label": "Atributo Usuario" },
+				{ "label": "Aplicación referencia" },
+				{ "label": "Perfil usuario" },
+				{ "label": "Nivel usuario" },
+				{ "label": "Semanas permitidas" },
+				{ "label": "Porcentajes permitidos positivos" },
+				{ "label": "Porcentajes permitidos negativos" },
+				{ "label": "Autorizado" }
+				],
+				"rows": [
+					{
+						"id": "1",
+						"data": [
+							"Sequi veritatis sequi sed dicta.",
+							"Quia aut sunt.",
+							"Coordinador",
+							"Nivel 1",
+							"4 semanas",
+							"23,874",
+							"50,752",
+							"Eaque dolores labore id enim."
+						]
+					},
+					{
+						"id": "2",
+						"data": [
+							"Soluta non amet.",
+							"Blanditiis ipsam inventore quae rerum aut.",
+							"Centralizador",
+							"Nivel 2",
+							"4 semanas",
+							"98,093",
+							"56,256",
+							"Sapiente aliquam cum magni incidunt."
+						]
+					},
+					{
+						"id": "3",
+						"data": [
+							"Quasi quidem sit perspiciatis veritatis.",
+							"Sint voluptate illum voluptatem.",
+							"Gerente",
+							"Nivel 1",
+							"8 semanas",
+							"94,637",
+							"41,084",
+							"Autem est possimus autem."
+						]
+					},
+					{
+						"id": "4",
+						"data": [
+							"Laboriosam quisquam minus eveniet amet ea voluptatem earum.",
+							"Voluptatem praesentium consectetur sapiente qui ut deleniti ut.",
+							"Centralizador",
+							"Nivel 3",
+							"8 semanas",
+							"71,517",
+							"84,012",
+							"Sunt aspernatur minus sed in eaque qui quibusdam."
+						]
+					},
+					{
+						"id": "5",
+						"data": [
+							"Rerum veniam occaecati minima consectetur atque molestiae dolorem.",
+							"Praesentium odio non.",
+							"Autorizador",
+							"Nivel 2",
+							"8 semanas",
+							"19,921",
+							"47,252",
+							"Aliquam sit magni neque voluptatem ipsam aut."
+						]
+					},
+					{
+						"id": "6",
+						"data": [
+							"Molestias molestiae voluptas natus.",
+							"Libero consequatur at quasi quos asperiores iure non.",
+							"Autorizador",
+							"Nivel 1",
+							"4 semanas",
+							"40,319",
+							"91,578",
+							"Voluptatem tempore culpa qui placeat qui dolor repellat."
+						]
+					},
+					{
+						"id": "7",
+						"data": [
+							"Itaque adipisci laborum explicabo veritatis voluptas ab nisi.",
+							"Non rem vero quae blanditiis mollitia.",
+							"Autorizador",
+							"Nivel 1",
+							"4 semanas",
+							"56,138",
+							"27,764",
+							"Eum harum sed aut amet."
+						]
+					},
+					{
+						"id": "8",
+						"data": [
+							"Tenetur ullam reprehenderit sit facilis rem sequi non.",
+							"Maiores nulla cum impedit repellat.",
+							"Autorizador",
+							"Nivel 2",
+							"8 semanas",
+							"16,924",
+							"247",
+							"Est consequatur et est vel omnis qui."
+						]
+					},
+					{
+						"id": "9",
+						"data": [
+							"Enim consectetur dignissimos quia architecto voluptas et.",
+							"Quis dolores est quam facilis voluptas.",
+							"Coordinador",
+							"Nivel 1",
+							"8 semanas",
+							"7,110",
+							"81,960",
+							"Vel libero sit sint sit enim consequatur."
+						]
+					},
+					{
+						"id": "10",
+						"data": [
+							"Aut sed in voluptatum minima.",
+							"A ut hic enim omnis ea quos.",
+							"Autorizador",
+							"Nivel 1",
+							"8 semanas",
+							"70,400",
+							"81,035",
+							"Est vitae quibusdam quis."
+						]
+					}
+				]
+			}
+		]
+	}

@@ -1,0 +1,106 @@
+
+	{
+		"ids":[
+			{
+				"id": "maestrocodigoaut-results",
+				"headers": [
+				{ "label": "SKU" },
+				{ "label": "Artículo" },
+				{ "label": "Marca" },
+				{ "label": "Modelo" }
+				],
+				"rows": [
+					{
+						"id": "1",
+						"data": [
+							"Aliquid consequatur placeat dicta.",
+							"Architecto exercitationem quo.",
+							"Voluptatibus soluta sit rem error praesentium.",
+							"Animi velit repellendus dolor maxime ullam nam incidunt."
+						]
+					},
+					{
+						"id": "2",
+						"data": [
+							"Itaque dolore accusamus cum dolores sit dolor.",
+							"Dolorem sed cumque consequuntur.",
+							"Aspernatur ut accusamus non repellendus.",
+							"Fugiat qui quos consequatur odit aut."
+						]
+					},
+					{
+						"id": "3",
+						"data": [
+							"A praesentium asperiores.",
+							"Animi quia enim et earum officia id.",
+							"Ex officiis aperiam sed est.",
+							"Ad repellendus eveniet quibusdam ea non quos beatae."
+						]
+					},
+					{
+						"id": "4",
+						"data": [
+							"Quis eaque inventore illo dolor cupiditate eos sint.",
+							"Voluptatem nemo dolorum ratione voluptatem.",
+							"Quidem id dolorum modi dolore nihil.",
+							"Dicta quis enim."
+						]
+					},
+					{
+						"id": "5",
+						"data": [
+							"Animi blanditiis accusantium doloribus impedit laudantium et.",
+							"Voluptatem laboriosam molestiae molestiae aliquam velit.",
+							"Expedita et ut.",
+							"Laboriosam incidunt voluptatem mollitia aut iure."
+						]
+					},
+					{
+						"id": "6",
+						"data": [
+							"Facilis ut provident nulla deleniti.",
+							"Accusamus aut perspiciatis aliquid quae sint corrupti veniam.",
+							"Ab iure corporis sed voluptas.",
+							"Quo similique iste impedit exercitationem cumque rerum."
+						]
+					},
+					{
+						"id": "7",
+						"data": [
+							"Nesciunt cumque eos voluptas.",
+							"Qui odio repellendus doloremque esse laudantium consequatur et.",
+							"Deleniti impedit inventore placeat vel deleniti.",
+							"Eligendi alias delectus eum."
+						]
+					},
+					{
+						"id": "8",
+						"data": [
+							"Enim pariatur asperiores similique quasi nemo quod laudantium.",
+							"At aspernatur perspiciatis doloremque necessitatibus quia.",
+							"Et laudantium aspernatur.",
+							"Omnis fuga necessitatibus ut praesentium cum."
+						]
+					},
+					{
+						"id": "9",
+						"data": [
+							"Placeat saepe possimus reiciendis aut.",
+							"Nulla repellendus minus.",
+							"Consequatur maxime sit in animi quo.",
+							"Laudantium aut maxime et."
+						]
+					},
+					{
+						"id": "10",
+						"data": [
+							"Odit eius at quam.",
+							"Nostrum corporis similique quis sed.",
+							"Eum laboriosam qui.",
+							"Dolor cum et."
+						]
+					}
+				]
+			}
+		]
+	}

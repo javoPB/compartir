@@ -1,0 +1,84 @@
+
+	{
+		"ids":[
+			{
+				"id": "usuario-results",
+				"headers": [
+				{ "label": "Número empleado" },
+				{ "label": "Categoría" }
+				],
+				"rows": [
+					{
+						"id": "1",
+						"data": [
+							"Doloribus porro dolores quae nobis quisquam ad.",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "2",
+						"data": [
+							"Tempora debitis voluptas dolorem.",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "3",
+						"data": [
+							"Repellat rerum adipisci.",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "4",
+						"data": [
+							"Repellendus inventore corporis repellendus praesentium accusantium dolorem.",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "5",
+						"data": [
+							"Neque nihil officiis molestias sed.",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "6",
+						"data": [
+							"Atque quaerat corrupti impedit quam possimus et.",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "7",
+						"data": [
+							"Possimus velit sequi.",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "8",
+						"data": [
+							"In voluptas necessitatibus eum sed ratione.",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "9",
+						"data": [
+							"Aut est reiciendis tenetur labore quasi expedita neque.",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "10",
+						"data": [
+							"Itaque cum quasi.",
+							"YYYYYYYY"
+						]
+					}
+				]
+			}
+		]
+	}

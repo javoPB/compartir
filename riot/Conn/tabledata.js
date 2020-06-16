@@ -1,0 +1,17 @@
+module.exports = {files: [
+	{ path: require('json-loader!./tabledata/autorizar/pendientesautorizargenerallist.json') },
+	{ path: require('json-loader!./tabledata/autorizar/resultadosdetallespedidosanticipadoslist.json') },
+	{ path: require('json-loader!./tabledata/autorizar/modalusuarioaut.json') },
+	{ path: require('json-loader!./tabledata/autorizar/modalcediaut.json') },
+	{ path: require('json-loader!./tabledata/autorizar/modalmaestrocodigoaut.json') },
+	{ path: require('json-loader!./tabledata/autorizar/modaldepartamentoaut.json') },
+	{ path: require('json-loader!./tabledata/autorizar/modalpedidogeneralaut.json') },
+	{ path: require('json-loader!./tabledata/autorizar/modalpedidodetalleaut.json') },
+	{ path: require('json-loader!./tabledata/autorizar/modalpendienteautorizargeneralaut.json') },
+	{ path: require('json-loader!./tabledata/autorizar/modalpendienteautorizardetalleaut.json') },
+	{ path: require('json-loader!./tabledata/administradorpendientes/motivoslist.json') },
+	{ path: require('json-loader!./tabledata/administradorpendientes/notificacioneslist.json') },
+	{ path: require('json-loader!./tabledata/administradorpendientes/autorizadorlist.json') },
+	{ path: require('json-loader!./tabledata/administradorpendientes/autorizadornivelnlist.json') },
+	{ path: require('json-loader!./tabledata/administradorpendientes/modalusuario.json') },
+]}

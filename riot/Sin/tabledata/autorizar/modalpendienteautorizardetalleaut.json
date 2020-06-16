@@ -1,0 +1,84 @@
+
+	{
+		"ids":[
+			{
+				"id": "pendienteautorizardetalleaut-results",
+				"headers": [
+				{ "label": "Motivo" },
+				{ "label": "CEDI destino" }
+				],
+				"rows": [
+					{
+						"id": "1",
+						"data": [
+							"YYYYYYYY",
+							"Cum inventore non eum velit."
+						]
+					},
+					{
+						"id": "2",
+						"data": [
+							"YYYYYYYY",
+							"Dolores et voluptatum excepturi accusamus."
+						]
+					},
+					{
+						"id": "3",
+						"data": [
+							"YYYYYYYY",
+							"Magnam maxime est officiis ipsa sint aspernatur."
+						]
+					},
+					{
+						"id": "4",
+						"data": [
+							"YYYYYYYY",
+							"Molestias repudiandae excepturi cumque nostrum qui a."
+						]
+					},
+					{
+						"id": "5",
+						"data": [
+							"YYYYYYYY",
+							"Assumenda aspernatur sed voluptatem veniam."
+						]
+					},
+					{
+						"id": "6",
+						"data": [
+							"YYYYYYYY",
+							"Doloribus vero nobis magnam iusto."
+						]
+					},
+					{
+						"id": "7",
+						"data": [
+							"YYYYYYYY",
+							"Modi nemo dolorum laudantium eius suscipit aspernatur."
+						]
+					},
+					{
+						"id": "8",
+						"data": [
+							"YYYYYYYY",
+							"Doloremque dignissimos aut quae."
+						]
+					},
+					{
+						"id": "9",
+						"data": [
+							"YYYYYYYY",
+							"Fuga quae consequatur est sed."
+						]
+					},
+					{
+						"id": "10",
+						"data": [
+							"YYYYYYYY",
+							"Doloremque fuga molestiae tempore quibusdam aliquid."
+						]
+					}
+				]
+			}
+		]
+	}

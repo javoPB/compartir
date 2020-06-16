@@ -1,0 +1,84 @@
+
+	{
+		"ids":[
+			{
+				"id": "subprocesoaut-results",
+				"headers": [
+				{ "label": "Nombre Subproceso" },
+				{ "label": "Proceso" }
+				],
+				"rows": [
+					{
+						"id": "1",
+						"data": [
+							"Quia aut eius a quaerat ut.",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "2",
+						"data": [
+							"Perspiciatis vel dolor non tempora officiis doloribus.",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "3",
+						"data": [
+							"Reiciendis atque blanditiis repellat dolor est.",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "4",
+						"data": [
+							"Sint reprehenderit ut est.",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "5",
+						"data": [
+							"Sed quam non et iure blanditiis vel.",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "6",
+						"data": [
+							"Sunt magnam aut explicabo velit dolorem.",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "7",
+						"data": [
+							"Quod optio aut id aut praesentium.",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "8",
+						"data": [
+							"Quos quas accusamus.",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "9",
+						"data": [
+							"Reprehenderit omnis qui fugit amet distinctio ullam dolorum.",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "10",
+						"data": [
+							"Nam animi vel magnam voluptatibus sint.",
+							"YYYYYYYY"
+						]
+					}
+				]
+			}
+		]
+	}

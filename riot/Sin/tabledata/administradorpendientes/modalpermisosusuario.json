@@ -1,0 +1,150 @@
+
+	{
+		"ids":[
+			{
+				"id": "permisosusuario-results",
+				"headers": [
+				{ "label": "Atributo Usuario" },
+				{ "label": "Aplicación referencia" },
+				{ "label": "Perfil usuario" },
+				{ "label": "Nivel usuario" },
+				{ "label": "Semanas permitidas" },
+				{ "label": "Porcentajes permitidos positivos" },
+				{ "label": "Porcentajes permitidos negativos" },
+				{ "label": "Autorizado" }
+				],
+				"rows": [
+					{
+						"id": "1",
+						"data": [
+							"Voluptatem aut eligendi.",
+							"Nisi perferendis ab omnis.",
+							"Comprador Junior",
+							"Nivel 2",
+							"8 semanas",
+							"85,727",
+							"79,470",
+							"Perspiciatis aliquam laudantium."
+						]
+					},
+					{
+						"id": "2",
+						"data": [
+							"Asperiores natus ullam nihil reprehenderit qui.",
+							"Eos sit laudantium quam.",
+							"Autorizador",
+							"Nivel 3",
+							"4 semanas",
+							"99,265",
+							"885",
+							"Sunt quos rerum ipsum cum adipisci et."
+						]
+					},
+					{
+						"id": "3",
+						"data": [
+							"Sequi qui id molestiae amet rerum reprehenderit.",
+							"Dolores ab illo nam blanditiis.",
+							"Comprador Junior",
+							"Nivel 1",
+							"8 semanas",
+							"25,790",
+							"76,333",
+							"Dicta facere dolores ratione ipsum eos."
+						]
+					},
+					{
+						"id": "4",
+						"data": [
+							"Et perspiciatis similique aut qui.",
+							"Adipisci sequi temporibus qui impedit qui a.",
+							"Solicitante",
+							"Nivel 1",
+							"8 semanas",
+							"53,569",
+							"74,745",
+							"Nisi in qui qui numquam non et voluptates."
+						]
+					},
+					{
+						"id": "5",
+						"data": [
+							"Accusamus molestiae repellendus.",
+							"Saepe ut dolorem alias.",
+							"Gerente",
+							"Nivel 2",
+							"8 semanas",
+							"23,005",
+							"37,286",
+							"Quaerat nemo dignissimos quod est."
+						]
+					},
+					{
+						"id": "6",
+						"data": [
+							"Est illo sint nihil quia.",
+							"Dolorem praesentium aut quisquam repellendus nemo tenetur.",
+							"Gerente",
+							"Nivel 1",
+							"8 semanas",
+							"2,027",
+							"1,327",
+							"Dolorem saepe enim dicta dolore ut voluptas neque."
+						]
+					},
+					{
+						"id": "7",
+						"data": [
+							"Temporibus quaerat aut dignissimos.",
+							"Totam fugiat iste totam.",
+							"Autorizador",
+							"Nivel 1",
+							"4 semanas",
+							"40,362",
+							"71,941",
+							"Delectus repellendus possimus possimus."
+						]
+					},
+					{
+						"id": "8",
+						"data": [
+							"Tenetur maiores sed voluptas quia.",
+							"Iure totam possimus quo quasi eaque aliquid.",
+							"Función",
+							"Nivel 2",
+							"4 semanas",
+							"86,633",
+							"96,772",
+							"Hic quae assumenda dolor saepe quam consequatur optio."
+						]
+					},
+					{
+						"id": "9",
+						"data": [
+							"Est aut labore reiciendis ex aperiam.",
+							"Eum nulla fugit maxime natus deleniti autem.",
+							"Coordinador",
+							"Nivel 1",
+							"4 semanas",
+							"10,596",
+							"16,019",
+							"Iure illum et id minima doloribus."
+						]
+					},
+					{
+						"id": "10",
+						"data": [
+							"Porro dolorem quos sint adipisci.",
+							"Fugit doloribus et.",
+							"Comprador",
+							"Nivel 3",
+							"4 semanas",
+							"60,171",
+							"55,582",
+							"Est aut sint aliquid ullam iste et quaerat."
+						]
+					}
+				]
+			}
+		]
+	}

@@ -1,0 +1,73 @@
+
+	{
+		"ids":[
+			{
+				"id": "departamento-results",
+				"headers": [
+				{ "label": "Nombre Departamento" }
+				],
+				"rows": [
+					{
+						"id": "1",
+						"data": [
+							"Sapiente temporibus corporis nam velit veniam consequatur debitis."
+						]
+					},
+					{
+						"id": "2",
+						"data": [
+							"Aut et corporis explicabo fuga."
+						]
+					},
+					{
+						"id": "3",
+						"data": [
+							"Laudantium nesciunt aperiam."
+						]
+					},
+					{
+						"id": "4",
+						"data": [
+							"Voluptas quam qui est perferendis quo rerum."
+						]
+					},
+					{
+						"id": "5",
+						"data": [
+							"Odit voluptas tenetur laudantium maxime aspernatur nesciunt."
+						]
+					},
+					{
+						"id": "6",
+						"data": [
+							"Commodi dolorem et et."
+						]
+					},
+					{
+						"id": "7",
+						"data": [
+							"Enim molestiae dolorum esse cupiditate."
+						]
+					},
+					{
+						"id": "8",
+						"data": [
+							"Qui veniam quia sit suscipit veniam."
+						]
+					},
+					{
+						"id": "9",
+						"data": [
+							"Totam tempora neque quia sit autem."
+						]
+					},
+					{
+						"id": "10",
+						"data": [
+							"Similique voluptates delectus expedita nam facilis."
+						]
+					}
+				]
+			}
+		]
+	}

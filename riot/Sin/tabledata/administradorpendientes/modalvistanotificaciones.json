@@ -1,0 +1,128 @@
+
+	{
+		"ids":[
+			{
+				"id": "vistanotificaciones-results",
+				"headers": [
+				{ "label": "Número empleado" },
+				{ "label": "Nivel usuario" },
+				{ "label": "Solicitante" },
+				{ "label": "Correo" },
+				{ "label": "Departamento" },
+				{ "label": "Categoría" }
+				],
+				"rows": [
+					{
+						"id": "1",
+						"data": [
+							"Quaerat voluptatum explicabo qui distinctio ipsam.",
+							"Nivel 1",
+							"YYYYYYYY",
+							"agustina.salgado@gmail.com",
+							"YYYYYYYY",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "2",
+						"data": [
+							"Aut tenetur doloremque rerum nulla sit odio.",
+							"Nivel 2",
+							"YYYYYYYY",
+							"israel.rubio@yahoo.com",
+							"YYYYYYYY",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "3",
+						"data": [
+							"Architecto autem fuga voluptas.",
+							"Nivel 2",
+							"YYYYYYYY",
+							"fabiola.armenta@yahoo.com",
+							"YYYYYYYY",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "4",
+						"data": [
+							"Qui maxime qui recusandae qui distinctio sequi.",
+							"Nivel 3",
+							"YYYYYYYY",
+							"miguel.aguilera@gmail.com",
+							"YYYYYYYY",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "5",
+						"data": [
+							"Vero dignissimos autem nihil totam doloremque.",
+							"Nivel 3",
+							"YYYYYYYY",
+							"adriana.coronado@hotmail.com",
+							"YYYYYYYY",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "6",
+						"data": [
+							"Ea tenetur eligendi sed.",
+							"Nivel 2",
+							"YYYYYYYY",
+							"manuel.lozano@yahoo.com",
+							"YYYYYYYY",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "7",
+						"data": [
+							"Amet labore voluptatibus consectetur et.",
+							"Nivel 3",
+							"YYYYYYYY",
+							"felipe.treviño@hotmail.com",
+							"YYYYYYYY",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "8",
+						"data": [
+							"Consequatur qui non quo vel quidem mollitia.",
+							"Nivel 1",
+							"YYYYYYYY",
+							"yolanda.mejía@gmail.com",
+							"YYYYYYYY",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "9",
+						"data": [
+							"Quo praesentium atque similique iusto laborum.",
+							"Nivel 1",
+							"YYYYYYYY",
+							"carlos alberto.vega@hotmail.com",
+							"YYYYYYYY",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "10",
+						"data": [
+							"Aut corporis et.",
+							"Nivel 3",
+							"YYYYYYYY",
+							"ángela.piña@yahoo.com",
+							"YYYYYYYY",
+							"YYYYYYYY"
+						]
+					}
+				]
+			}
+		]
+	}

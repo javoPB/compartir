@@ -1,0 +1,84 @@
+
+	{
+		"ids":[
+			{
+				"id": "familiaaut-results",
+				"headers": [
+				{ "label": "Nombre Familia" },
+				{ "label": "Clase" }
+				],
+				"rows": [
+					{
+						"id": "1",
+						"data": [
+							"Ipsa est qui labore adipisci veritatis.",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "2",
+						"data": [
+							"Non eveniet dolores eos adipisci.",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "3",
+						"data": [
+							"Tempore qui similique sunt.",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "4",
+						"data": [
+							"Corrupti non consequatur provident modi aut facilis.",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "5",
+						"data": [
+							"Distinctio dolorum minima a.",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "6",
+						"data": [
+							"Recusandae accusamus quo ut.",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "7",
+						"data": [
+							"Quam laudantium et et ut quia ab.",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "8",
+						"data": [
+							"Unde doloribus fuga et.",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "9",
+						"data": [
+							"Corporis veniam soluta autem cum sint.",
+							"YYYYYYYY"
+						]
+					},
+					{
+						"id": "10",
+						"data": [
+							"Inventore a rerum.",
+							"YYYYYYYY"
+						]
+					}
+				]
+			}
+		]
+	}
